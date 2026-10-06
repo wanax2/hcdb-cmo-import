@@ -1,0 +1,1235 @@
+[
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "A 69",
+"id": "1337",
+"year": 1984,
+"name": "P 31 Drummond [A 69]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Abnaki",
+"id": "1035",
+"year": 1948,
+"name": "A 8 Sanaviron [Abnaki Class]",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Brooklyn",
+"id": "895",
+"year": 1969,
+"name": "C 4 General Belgrano [Brooklyn Class]",
+"type": "CL - Light Cruiser"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Colossus",
+"id": "1895",
+"year": 1985,
+"name": "V2 Veinticinco de Mayo [Colossus]",
+"type": "CV - Aircraft Carrier"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Durance",
+"id": "3665",
+"year": 1999,
+"name": "B 1 Patagonia [Durance Class]",
+"type": "AOR - Replenishment Oiler "
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Gearing FRAM II",
+"id": "1677",
+"year": 1978,
+"name": "D 27 Comodoro Py [Gearing FRAM II]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Meko 140/A16",
+"id": "1376",
+"year": 1986,
+"name": "P 41 Espora [Meko 140/A16]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Meko 360H2",
+"id": "3",
+"year": 1984,
+"name": "D 10 Almirante Brown [Meko 360H2]",
+"type": "DD - Destroyer"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Mod De Soto County",
+"id": "28",
+"year": 1970,
+"name": "Q 42 Cabo San Antonio [Mod De Soto County]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Murature",
+"id": "4080",
+"year": 1945,
+"name": "P 20 Murature",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "PNA Doctor Manuel Mantilla",
+"id": "3198",
+"year": 1982,
+"name": "GC 24 PNA Doctor Manuel Mantilla",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Punta Delgada",
+"id": "1678",
+"year": 1947,
+"name": "B 16 Punta Delgada",
+"type": "AO - Fleet Oiler "
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Punta Medanos",
+"id": "1679",
+"year": 1952,
+"name": "B 18 Punta Medanos",
+"type": "AO - Fleet Oiler "
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Sumner",
+"id": "1033",
+"year": 1978,
+"name": "D 25 Segui [Sumner Class]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "TNC-45",
+"id": "1216",
+"year": 1996,
+"name": "P 85 Intrepida [TNC-45]",
+"type": "PGM - Missile Gunboat"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Type 42",
+"id": "1423",
+"year": 2000,
+"name": "B 52 Hercules [Type 42]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "YPF Campo Dur\u00e1n",
+"id": "1680",
+"year": 1979,
+"name": "YPF Campo Dur\u00e1n",
+"type": "AO - Fleet Oiler "
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "YPF Puerto Rosales",
+"id": "1681",
+"year": 1978,
+"name": "YPF Puerto Rosales",
+"type": "AO - Fleet Oiler "
+},
+{
+"kind": "ship",
+"country": "Bahamas",
+"key": "Legend",
+"id": "3457",
+"year": 2014,
+"name": "P 421 Arthur Dion Hanna [Legend Class, Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Bahamas",
+"key": "Mod. Vosper Europatrol 250",
+"id": "3456",
+"year": 1999,
+"name": "P 60 Bahamas [Mod. Vosper Europatrol 250]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Barbados [1966-]",
+"key": "Damen Stan Patrol 4207",
+"id": "4886",
+"year": 2008,
+"name": "P 01 Trident [Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Amazonas",
+"id": "2468",
+"year": 2009,
+"name": "P 120 Amazonas",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Barroso",
+"id": "2847",
+"year": 2009,
+"name": "V 34 Barroso",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Clemenceau",
+"id": "1352",
+"year": 2001,
+"name": "A 12 Sao Paulo [Clemenceau Class]",
+"type": "CV - Aircraft Carrier"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Colossus",
+"id": "1886",
+"year": 1995,
+"name": "A 11 Minas Gerais [Colossus Class]",
+"type": "CV - Aircraft Carrier"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Garcia",
+"id": "639",
+"year": 1990,
+"name": "D 27 Para [Garcia Class]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Gearing FRAM I",
+"id": "2850",
+"year": 1974,
+"name": "D 25 Marcilio Diaz [Gearing FRAM I]",
+"type": "DD - Destroyer"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Grajau",
+"id": "3742",
+"year": 1993,
+"name": "P 40 Grajau",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Inhauma",
+"id": "1897",
+"year": 2005,
+"name": "V 30 Inhauma",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Macae",
+"id": "2931",
+"year": 2010,
+"name": "P 70 Macae",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "NT Almirante Gastao Motta",
+"id": "3907",
+"year": 1991,
+"name": "G23 NT Almirante Gastao Motta",
+"type": "AOR - Replenishment Oiler "
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Newport",
+"id": "2429",
+"year": 1994,
+"name": "G 28 Mattoso Maia [Newport]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Sir Galahad",
+"id": "2428",
+"year": 2009,
+"name": "G 25 Almirante Saboia [Sir Galahad]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Sumner",
+"id": "2848",
+"year": 1973,
+"name": "D 34 Mato Grosso [Sumner Class]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Sumner FRAM 2",
+"id": "2849",
+"year": 1974,
+"name": "D 35 Sergipe [Sumner FRAM 2 Class]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Vosper Mk10",
+"id": "2291",
+"year": 2000,
+"name": "F 44 Independ\u00eancia [Vosper Mk10, GP]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Vosper Mk10 Mod",
+"id": "1351",
+"year": 2000,
+"name": "F 40 Niteroi [Vosper Mk10 Mod]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "BATRAL",
+"id": "3083",
+"year": 1982,
+"name": "R 91 Maipo [BATRAL Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Brooklyn",
+"id": "2994",
+"year": 1951,
+"name": "CL 02 O Higgins [Brooklyn Class]",
+"type": "CL - Light Cruiser"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Contramestre Micalvi",
+"id": "3751",
+"year": 1993,
+"name": "PSG 71 Contramestre Micalvi",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "County Batch 2",
+"id": "1019",
+"year": 1997,
+"name": "DD 12 Almirante Cochrane [County Batch 2]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Fassmer 80 OPV",
+"id": "2800",
+"year": 2010,
+"name": "OPV 81 Piloto Pardo [Fassmer 80 OPV]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Foudre",
+"id": "2425",
+"year": 2012,
+"name": "LSDH 91 Sargento Aldea [Foudre]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Henry J. Kaiser",
+"id": "2424",
+"year": 2010,
+"name": "AO 52 Almirante Montt [Henry J. Kaiser, Mod Cimarron]",
+"type": "T-AO - MSC Fleet Oiler"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Jacob Van Heemskerck",
+"id": "1796",
+"year": 2006,
+"name": "FFG 14 Almirante Latorre [Jacob Van Heemskerck]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Newport",
+"id": "1692",
+"year": 1995,
+"name": "LST 93 Valdivia [Newport]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Saar 3",
+"id": "1700",
+"year": 1989,
+"name": "LM 32 Iquique [Saar 3]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Saar 4",
+"id": "1701",
+"year": 1980,
+"name": "LM 30 Casma [Saar 4]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Sumner FRAM 2",
+"id": "2993",
+"year": 1974,
+"name": "DD 16 Ministro Zenteno [Sumner FRAM 2 Class]",
+"type": "DDG - Guided Missile Destroyer"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Type 12I Leander",
+"id": "1554",
+"year": 2002,
+"name": "FM 07 Almirante Lynch [Type 12I Leander Class]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Type 12I Leander Batch 3 Broad Beam",
+"id": "1559",
+"year": 1997,
+"name": "FM 08 Ministro Zenteno [Type 12I Leander Batch 3 Broad Beam]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Type 148",
+"id": "1702",
+"year": 1997,
+"name": "LM 36 Riquelme [Type 148, La Combattante IIa]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Type 22 Batch 2",
+"id": "2876",
+"year": 2008,
+"name": "FF 19 Almirante Williams [Type 22 Batch 2]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Asheville",
+"id": "2038",
+"year": 1996,
+"name": "P 111 Quita Suevo [Asheville]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Dong Hae",
+"id": "4048",
+"year": 2014,
+"name": "CM 55 Narino [Dong Hae Class, Flight I]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Fassmer 80 OPV",
+"id": "2799",
+"year": 2013,
+"name": "P 46 20 de Julio [Fassmer 80 OPV]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Reliance",
+"id": "2571",
+"year": 2003,
+"name": "P 44 Valle del Cauca [Reliance Class]",
+"type": "WMEC - Coast Guard Medium Endurance Cutter"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Type 701A/C Freiburg",
+"id": "1929",
+"year": 1999,
+"name": "BL 161 Cartegena de Indias [Type 701A/C Freiburg]",
+"type": "AOE - Fast Combat Support Ship "
+},
+{
+"kind": "ship",
+"country": "Cote D'Ivoire [1960-]",
+"key": "BATRAL",
+"id": "3779",
+"year": 1977,
+"name": "L'Elephant [BATRAL Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Cuba",
+"key": "Koni",
+"id": "3493",
+"year": 1981,
+"name": "350 Mariel [Koni, Pr.1159]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Cuba",
+"key": "Pr.1241PE Pauk II",
+"id": "3494",
+"year": 1990,
+"name": "321 [Pr.1241PE Pauk II]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Cuba",
+"key": "Pr.1265 Sonya",
+"id": "3501",
+"year": 1985,
+"name": "570 [Pr.1265 Sonya]",
+"type": "MSC - Coastal Minesweeper "
+},
+{
+"kind": "ship",
+"country": "Cuba",
+"key": "Pr.205",
+"id": "2013",
+"year": 1972,
+"name": "250 [Pr.205]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Cuba",
+"key": "Pr.205ER",
+"id": "2175",
+"year": 1979,
+"name": "212 [Pr.205ER]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Cuba",
+"key": "Rio Damuji",
+"id": "3803",
+"year": 2013,
+"name": "BP 391 Rio Jatibonico [Rio Damuji Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Chelan County",
+"id": "3713",
+"year": 1977,
+"name": "TR 61 Hualcopo [Chelan County Class]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Esmeraldas",
+"id": "73",
+"year": 1983,
+"name": "CM 11 Esmeraldas",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "FPB-45",
+"id": "77",
+"year": 1977,
+"name": "LM 21 Quito [FPB-45]",
+"type": "PGM - Missile Gunboat"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Manta",
+"id": "2277",
+"year": 1981,
+"name": "LM 25 Manta",
+"type": "PGM - Missile Gunboat"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Type 12I Leander",
+"id": "4360",
+"year": 2008,
+"name": "FM 01 Presidente Eloy Alfaro [Type 12I Leander Class]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Type 12I Leander Batch 2",
+"id": "728",
+"year": 2001,
+"name": "FM 01 Presidente Eloy Alfaro [Type 12I Leander Batch 2]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Vigilante",
+"id": "3763",
+"year": 2006,
+"name": "LG 39 Isla Fernandina [Vigilante Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Equatorial Guinea",
+"key": "Capitan David Eyama Angue Osa",
+"id": "3710",
+"year": 2009,
+"name": "106 Capitan David Eyama Angue Osa",
+"type": "LKA - Amphibious Cargo Vessel"
+},
+{
+"kind": "ship",
+"country": "Equatorial Guinea",
+"key": "Pr.PV50M",
+"id": "3708",
+"year": 2008,
+"name": "P 400 Cabo San Juan [Pr.PV50M]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Equatorial Guinea",
+"key": "SV 01",
+"id": "2809",
+"year": 2012,
+"name": "F 047 Bata [SV 01, OPV-88]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Equatorial Guinea",
+"key": "SV 02",
+"id": "2808",
+"year": 2014,
+"name": "F 073 Wele Nzas [SV 02]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Federated States of Micronesia",
+"key": "Pacific / Pacific Forum / ASI 315",
+"id": "2500",
+"year": 1990,
+"name": "01 Palikir [Pacific / Pacific Forum / ASI 315 Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Fiji",
+"key": "Adjutant",
+"id": "3339",
+"year": 1975,
+"name": "MSC 205 Kula [Adjutant Class]",
+"type": "MSC - Coastal Minesweeper "
+},
+{
+"kind": "ship",
+"country": "Fiji",
+"key": "Pacific / Pacific Forum / ASI 315",
+"id": "2503",
+"year": 1994,
+"name": "201 Kula [Pacific / Pacific Forum / ASI 315 Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Gabon",
+"key": "BATRAL",
+"id": "3712",
+"year": 1997,
+"name": "L 05 President El Hadj Omar Bongo [BATRAL Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Gabon",
+"key": "General Nazaire Boulingui",
+"id": "4944",
+"year": 2000,
+"name": "P 10 General Nazaire Boulingui",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Gabon",
+"key": "P400 / Super PATRA",
+"id": "3685",
+"year": 1990,
+"name": "P 08 Colonel Djoue Dabany [P400 / Super PATRA Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Ghana",
+"key": "NAV IV",
+"id": "3668",
+"year": 1981,
+"name": "P 28 Achimota [NAV IV, PB 57 Patrol Variant]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Ghana",
+"key": "Sea Dolphin",
+"id": "3773",
+"year": 2011,
+"name": "P 33 Stephen Out [Sea Dolphin]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Ghana",
+"key": "TNC-45",
+"id": "3667",
+"year": 1989,
+"name": "P 26 Dzata [TNC-45]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Ghana",
+"key": "Type 143",
+"id": "3669",
+"year": 2012,
+"name": "P 38 Yaa Asantewa [Type 143]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Honduras",
+"key": "Damen Stan Patrol 4207",
+"id": "2962",
+"year": 2014,
+"name": "FNH 1401 Lempira [Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Jamaica [1962-]",
+"key": "Damen Stan Patrol 4207",
+"id": "3578",
+"year": 2005,
+"name": "421 Cornwall [Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Auk",
+"id": "4054",
+"year": 1973,
+"name": "P 103 Mariano Escobedo [Auk Class]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Azteca",
+"id": "3967",
+"year": 2000,
+"name": "PC 201 Andr\u00e9s Quintana Roo [Azteca Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Damen Stan Patrol 4207",
+"id": "4056",
+"year": 2012,
+"name": "P 331 Tenochtitlan [Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Durango",
+"id": "2433",
+"year": 2000,
+"name": "P 151 Durango",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Gearing FRAM IB",
+"id": "3878",
+"year": 1994,
+"name": "E 03 Quetzalcoatl [Gearing FRAM IB]",
+"type": "DD - Destroyer"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Halcon",
+"id": "4699",
+"year": 1982,
+"name": "P 121 Cadete Virgilio Uribe Robles [Halcon Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Hermenegildo Galeana",
+"id": "4482",
+"year": 1993,
+"name": "F 202 Hermenegildo Galeana",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Knox",
+"id": "2459",
+"year": 1999,
+"name": "F 211 Allende [Knox]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Montes Azules",
+"id": "4717",
+"year": 2011,
+"name": "BAL 01 Montes Azules",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Newport",
+"id": "2435",
+"year": 2001,
+"name": "A 411 Papaloapan [Newport]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Oaxaca",
+"id": "2434",
+"year": 2003,
+"name": "P 161 Oaxaca",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Quetzalcoatl",
+"id": "3879",
+"year": 1982,
+"name": "D 102 Netzahualcoyotl [Quetzalcoatl Class, Gearing FRAM IB]",
+"type": "DD - Destroyer"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Saar 4.5",
+"id": "2436",
+"year": 2004,
+"name": "301 Huracan [Saar 4.5, Helo Pad]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Sierra",
+"id": "2432",
+"year": 1999,
+"name": "P 141 Justo Sierra Mendez [Sierra, Holzinger 2000]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Namibia",
+"key": "Grajau",
+"id": "5092",
+"year": 2009,
+"name": "P 11 Brendan Simbwaye [Grajau Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Panama",
+"key": "Saettia Mk2",
+"id": "4705",
+"year": 2002,
+"name": "P 901 [Saettia Mk2]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Papua New Guinea",
+"key": "Pacific / Pacific Forum / ASI 315",
+"id": "2499",
+"year": 1987,
+"name": "P 01 Rabaul [Pacific / Pacific Forum / ASI 315 Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "Daring",
+"id": "55",
+"year": 1979,
+"name": "DM 73 Palacios [Daring Class]",
+"type": "DD - Destroyer"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "De Zeven Provinci\u00ebn",
+"id": "2707",
+"year": 2005,
+"name": "CH 81 Almirante Grau [De Zeven Provinci\u00ebn]",
+"type": "CL - Light Cruiser"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "Lupo",
+"id": "2710",
+"year": 2014,
+"name": "FM 57 Bolognesi [Lupo]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "PR72-560",
+"id": "2336",
+"year": 1984,
+"name": "CM 21 Velarde [PR72-560]",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "Terrebonne Parish",
+"id": "2705",
+"year": 1984,
+"name": "DT 141 Paita [Terrebonne Parish Class]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Solomon Islands",
+"key": "Pacific / Pacific Forum / ASI 315",
+"id": "2501",
+"year": 1989,
+"name": "03 Lata [Pacific / Pacific Forum / ASI 315 Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Timor Leste [1975-]",
+"key": "Sea Dolphin",
+"id": "4296",
+"year": 2011,
+"name": "Kamenassa [Sea Dolphin, Chamsuri Class]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Tonga",
+"key": "Pacific / Pacific Forum / ASI 315",
+"id": "2502",
+"year": 1990,
+"name": "P 201 Neiafu [Pacific / Pacific Forum / ASI 315 Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Uruguay",
+"key": "Mod Commandant Riviere",
+"id": "2614",
+"year": 2009,
+"name": "1 Uruguay [Mod Commandant Riviere]",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Almirante Clemente",
+"id": "1579",
+"year": 1986,
+"name": "D 12 Almirante Clemente",
+"type": "DL - Destroyer"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Avante 1400",
+"id": "1928",
+"year": 2010,
+"name": "GC 21 Guaicamacuto [Avante 1400]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Capana",
+"id": "2801",
+"year": 1984,
+"name": "T 61 Capana",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Ciudad Bolivar",
+"id": "1927",
+"year": 2002,
+"name": "T 81 Ciudad Bolivar",
+"type": "AOR - Replenishment Oiler "
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Federacion",
+"id": "1426",
+"year": 1995,
+"name": "PC 12 Federacion",
+"type": "PGM - Missile Gunboat"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Lupo",
+"id": "317",
+"year": 2006,
+"name": "F 21 Mariscal Sucre [Lupo]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Terrebonne Parish",
+"id": "4943",
+"year": 1973,
+"name": "T 21 Amazonas [Terrebonne Parish Class]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "sub",
+"country": "Argentina",
+"key": "Balao",
+"id": "293",
+"year": 1972,
+"name": "S 21 Santa Fe [Balao Class]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Argentina",
+"key": "TR 1700",
+"id": "37",
+"year": 1985,
+"name": "S 41 Santa Cruz [TR 1700]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Argentina",
+"key": "Type 209-1100",
+"id": "36",
+"year": 1981,
+"name": "S 31 Salta [Type 209-1100]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Brazil",
+"key": "Oberon",
+"id": "637",
+"year": 1974,
+"name": "S 20 Humaita [Oberon Class]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Brazil",
+"key": "Type 209-1400",
+"id": "505",
+"year": 2012,
+"name": "S 30 Tupi [Type 209-1400]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Brazil",
+"key": "Type 209-1400 Mod",
+"id": "506",
+"year": 2012,
+"name": "S 34 Tikuna [Type 209-1400 Mod]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Chile",
+"key": "Oberon",
+"id": "312",
+"year": 1981,
+"name": "S 22 O Brien [Oberon]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Chile",
+"key": "Scorpene",
+"id": "309",
+"year": 2005,
+"name": "SS 22 Carrera [Scorpene]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Chile",
+"key": "Type 209-1300L",
+"id": "641",
+"year": 2010,
+"name": "SS 20 Thomson [Type 209-1300L]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Colombia",
+"key": "Cosmos SX-506",
+"id": "595",
+"year": 1973,
+"name": "S 21 Intrepido [Cosmos SX-506 Class]",
+"type": "SSM - Midget Submarine "
+},
+{
+"kind": "sub",
+"country": "Colombia",
+"key": "Type 209-1200",
+"id": "602",
+"year": 1975,
+"name": "SS 28 Pijao [Type 209-1200]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Cuba",
+"key": "Delfin",
+"id": "697",
+"year": 2008,
+"name": "Delfin",
+"type": "SSM - Midget Submarine "
+},
+{
+"kind": "sub",
+"country": "Cuba",
+"key": "PL-641 Foxtrot",
+"id": "357",
+"year": 1979,
+"name": "S 725 [PL-641 Foxtrot]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Ecuador",
+"key": "Type 209-1300",
+"id": "578",
+"year": 2014,
+"name": "S 101 Shyri [Type 209-1300]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Peru",
+"key": "Type 209-1200",
+"id": "66",
+"year": 1981,
+"name": "SS 31 Angamos [Type 209-1200]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Venezuela",
+"key": "Type 209-1300",
+"id": "362",
+"year": 1992,
+"name": "S 31 Sabalo [Type 209-1300]",
+"type": "SSK - Hunter-Killer Submarine "
+}
+]

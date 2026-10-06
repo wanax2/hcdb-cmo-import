@@ -1,0 +1,2282 @@
+[
+{
+"kind": "air",
+"country": "Belgium",
+"key": "Airbus A.330-200 MRTT",
+"id": "6605",
+"year": 2024,
+"name": "Airbus A.330-200 MRTT"
+},
+{
+"kind": "air",
+"country": "Belgium",
+"key": "F-35A Lightning II",
+"id": "5776",
+"year": 2025,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Belgium",
+"key": "NH90 NFH",
+"id": "2355",
+"year": 2015,
+"name": "NH90 NFH"
+},
+{
+"kind": "air",
+"country": "Bulgaria",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "4954",
+"year": 2025,
+"name": "F-16V Blk 70/72 Falcon"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "Airbus A.330-200 MRTT",
+"id": "5181",
+"year": 2029,
+"name": "Airbus A.330-200 MRTT [CC-330 Husky]"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "CP-140M Aurora",
+"id": "4355",
+"year": 2016,
+"name": "CP-140M Aurora [P-3C Orion]"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "CP-140M Blk 4 Aurora",
+"id": "5653",
+"year": 2022,
+"name": "CP-140M Blk 4 Aurora [P-3C Orion]"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "F-35A Lightning II",
+"id": "4222",
+"year": 2025,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "F/A-18A Hornet",
+"id": "5657",
+"year": 2023,
+"name": "F/A-18A Hornet [CF-188A]"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "P-8A Poseidon",
+"id": "6779",
+"year": 2024,
+"name": "P-8A Poseidon"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "BZK-005C Giant Eagle UCAV",
+"id": "6904",
+"year": 2018,
+"name": "BZK-005C Giant Eagle UCAV"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "CH-4B Rainbow",
+"id": "7125",
+"year": 2024,
+"name": "CH-4B Rainbow [KVD-002, Predator Copy] UCAV"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "GJ-11 Sharp Sword UCAV",
+"id": "4963",
+"year": 2022,
+"name": "GJ-11 Sharp Sword UCAV"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "4725",
+"year": 2018,
+"name": "GJ-2 Wing Loong II UCAV"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "H-6G Badger",
+"id": "7183",
+"year": 2023,
+"name": "H-6G Badger"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "H-6J Badger",
+"id": "7184",
+"year": 2023,
+"name": "H-6J Badger"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "H-6K Badger",
+"id": "7135",
+"year": 2022,
+"name": "H-6K Badger"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "H-6MW Badger",
+"id": "7136",
+"year": 2018,
+"name": "H-6MW Badger"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "H-6N Badger",
+"id": "4837",
+"year": 2018,
+"name": "H-6N Badger"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "HY-6DU Badger",
+"id": "7185",
+"year": 2023,
+"name": "HY-6DU Badger"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Il-78M Midas",
+"id": "3727",
+"year": 2016,
+"name": "Il-78M Midas"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-10AH Firebird",
+"id": "7186",
+"year": 2023,
+"name": "J-10AH Firebird"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-10C Firebird",
+"id": "7658",
+"year": 2025,
+"name": "J-10C Firebird"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-11 Flanker L",
+"id": "5996",
+"year": 2015,
+"name": "J-11 Flanker L [Su-27SK Copy]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-11BG",
+"id": "4900",
+"year": 2019,
+"name": "J-11BG"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-11BHG Flanker L",
+"id": "7188",
+"year": 2022,
+"name": "J-11BHG Flanker L [Su-27SK Copy]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-15D Roaring Shark",
+"id": "4817",
+"year": 2019,
+"name": "J-15D Roaring Shark"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-15T Flying Shark",
+"id": "6098",
+"year": 2022,
+"name": "J-15T Flying Shark [Su-33 Copy]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-16D Roaring Wolf",
+"id": "4632",
+"year": 2021,
+"name": "J-16D Roaring Wolf"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-20A Fagin",
+"id": "5014",
+"year": 2019,
+"name": "J-20A Fagin"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "J-20B Fagin",
+"id": "2463",
+"year": 2023,
+"name": "J-20B Fagin"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "JH-7A2 Flounder",
+"id": "7420",
+"year": 2023,
+"name": "JH-7A2 Flounder"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "KJ-500A Cub",
+"id": "6004",
+"year": 2020,
+"name": "KJ-500A Cub [GX9]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "KJ-500H Cub",
+"id": "7175",
+"year": 2016,
+"name": "KJ-500H Cub [GX9]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "KJ-500HA Cub",
+"id": "7176",
+"year": 2020,
+"name": "KJ-500HA Cub [GX9]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "KJ-600 Sea Plate",
+"id": "5420",
+"year": 2020,
+"name": "KJ-600 Sea Plate"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "KJ-700H",
+"id": "7289",
+"year": 2024,
+"name": "KJ-700H"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Ka-28 Helix A",
+"id": "7355",
+"year": 2023,
+"name": "Ka-28 Helix A"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Ka-31 Helix",
+"id": "7356",
+"year": 2022,
+"name": "Ka-31 Helix"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "MA-60H MPA",
+"id": "5185",
+"year": 2016,
+"name": "MA-60H MPA"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Su-35K Flanker E",
+"id": "7204",
+"year": 2022,
+"name": "Su-35K Flanker E"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "TB-001 Twin-Tailed Scorpion UCAV",
+"id": "7062",
+"year": 2021,
+"name": "TB-001 Twin-Tailed Scorpion UCAV"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-8W Balance Beam",
+"id": "5629",
+"year": 2020,
+"name": "Y-8W Balance Beam [KJ-200 Moth]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-9DZ Cub",
+"id": "7064",
+"year": 2022,
+"name": "Y-9DZ Cub [GX12]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "YY-20A Kunpeng",
+"id": "4975",
+"year": 2022,
+"name": "YY-20A Kunpeng"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-10 Fierce Thunderbolt",
+"id": "7369",
+"year": 2024,
+"name": "Z-10 Fierce Thunderbolt"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-10K Fierce Thunderbolt",
+"id": "7346",
+"year": 2023,
+"name": "Z-10K Fierce Thunderbolt"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-18F Sea Eagle",
+"id": "7359",
+"year": 2019,
+"name": "Z-18F Sea Eagle"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-18J Bat",
+"id": "7357",
+"year": 2021,
+"name": "Z-18J Bat"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-19 Black Whirlwind",
+"id": "7417",
+"year": 2022,
+"name": "Z-19 Black Whirlwind [Z-9WA/Z Mod]"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-20F",
+"id": "4933",
+"year": 2025,
+"name": "Z-20F"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-21",
+"id": "7168",
+"year": 2025,
+"name": "Z-21"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-8GD Super Frelon",
+"id": "7336",
+"year": 2022,
+"name": "Z-8GD Super Frelon"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-9D Haitun",
+"id": "4928",
+"year": 2015,
+"name": "Z-9D Haitun"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-9DF Haitun",
+"id": "7349",
+"year": 2021,
+"name": "Z-9DF Haitun"
+},
+{
+"kind": "air",
+"country": "Croatia [1992-]",
+"key": "Bayraktar TB2 UCAV",
+"id": "7536",
+"year": 2026,
+"name": "Bayraktar TB2 UCAV"
+},
+{
+"kind": "air",
+"country": "Croatia [1992-]",
+"key": "Rafale C",
+"id": "5268",
+"year": 2024,
+"name": "Rafale C"
+},
+{
+"kind": "air",
+"country": "Czech Republic [1993-]",
+"key": "AH-1Z Viper",
+"id": "6030",
+"year": 2022,
+"name": "AH-1Z Viper [Super Cobra]"
+},
+{
+"kind": "air",
+"country": "Czech Republic [1993-]",
+"key": "JAS 39C Gripen",
+"id": "5724",
+"year": 2018,
+"name": "JAS 39C Gripen"
+},
+{
+"kind": "air",
+"country": "Denmark",
+"key": "F-35A Lightning II",
+"id": "5180",
+"year": 2023,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Denmark",
+"key": "MH-60R Seahawk",
+"id": "6682",
+"year": 2023,
+"name": "MH-60R Seahawk"
+},
+{
+"kind": "air",
+"country": "Finland",
+"key": "F-35A Lightning II",
+"id": "6180",
+"year": 2026,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Finland",
+"key": "F/A-18C Hornet",
+"id": "2836",
+"year": 2015,
+"name": "F/A-18C Hornet [F-18C]"
+},
+{
+"kind": "air",
+"country": "Finland",
+"key": "F/A-18D Hornet",
+"id": "3164",
+"year": 2015,
+"name": "F/A-18D Hornet [F-18D]"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "Airbus A.330-200 MRTT",
+"id": "5583",
+"year": 2025,
+"name": "Airbus A.330-200 MRTT [Phenix]"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "BR.1150 Atlantique 2",
+"id": "4249",
+"year": 2018,
+"name": "BR.1150 Atlantique 2"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "E-2D Advanced Hawkeye",
+"id": "5494",
+"year": 2027,
+"name": "E-2D Advanced Hawkeye"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "GlobalEye AEW",
+"id": "7643",
+"year": 2027,
+"name": "GlobalEye AEW [G6000]"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "KC-130J Hercules",
+"id": "4768",
+"year": 2019,
+"name": "KC-130J Hercules"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "MQ-9A Reaper UAV",
+"id": "5286",
+"year": 2020,
+"name": "MQ-9A Reaper UAV"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "NH90 NFH",
+"id": "4229",
+"year": 2022,
+"name": "NH90 NFH [Caiman Marine]"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "EF2000 Typhoon",
+"id": "7223",
+"year": 2024,
+"name": "EF2000 Typhoon"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "F-35A Lightning II",
+"id": "5705",
+"year": 2025,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "KC-130J Hercules",
+"id": "7660",
+"year": 2026,
+"name": "KC-130J Hercules"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "NH90 NFH",
+"id": "5641",
+"year": 2025,
+"name": "NH90 NFH [Sea Tiger]"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "P-8A Poseidon",
+"id": "5097",
+"year": 2024,
+"name": "P-8A Poseidon"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "AH-64A Apache",
+"id": "5418",
+"year": 2022,
+"name": "AH-64A Apache"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "AH-64A+ Apache",
+"id": "5417",
+"year": 2022,
+"name": "AH-64A+ Apache"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "AH-64DHA Apache Longbow",
+"id": "5419",
+"year": 2022,
+"name": "AH-64DHA Apache Longbow"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "4739",
+"year": 2022,
+"name": "F-16V Blk 70/72 Falcon"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "F-35A Lightning II",
+"id": "7103",
+"year": 2024,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "MH-60R Seahawk",
+"id": "6811",
+"year": 2020,
+"name": "MH-60R Seahawk"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "P-3B Orion TAC/NAV MOD",
+"id": "4357",
+"year": 2017,
+"name": "P-3B Orion TAC/NAV MOD"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "Rafale C",
+"id": "5405",
+"year": 2021,
+"name": "Rafale C"
+},
+{
+"kind": "air",
+"country": "Hungary",
+"key": "JAS 39C Gripen",
+"id": "5623",
+"year": 2023,
+"name": "JAS 39C Gripen"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "AW.101 Merlin Mk.112 HEW",
+"id": "876",
+"year": 2015,
+"name": "AW.101 Merlin Mk.112 HEW [EH-101A]"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "EF2000 Typhoon",
+"id": "3228",
+"year": 2021,
+"name": "EF2000 Typhoon [F-2000A]"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "F-35A Lightning II",
+"id": "4698",
+"year": 2025,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "F-35B Lightning II",
+"id": "4697",
+"year": 2025,
+"name": "F-35B Lightning II"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "Gulfstream G550 AEW",
+"id": "4535",
+"year": 2016,
+"name": "Gulfstream G550 AEW"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "KC-130J Hercules",
+"id": "4584",
+"year": 2016,
+"name": "KC-130J Hercules"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "KC-46A Pegasus",
+"id": "6151",
+"year": 2026,
+"name": "KC-46A Pegasus [KC-767B]"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "MQ-9A Reaper UAV",
+"id": "5378",
+"year": 2023,
+"name": "MQ-9A Reaper UAV"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "NH90 NFH",
+"id": "7294",
+"year": 2024,
+"name": "NH90 NFH [SH-90A]"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "E-2D Advanced Hawkeye",
+"id": "4540",
+"year": 2018,
+"name": "E-2D Advanced Hawkeye"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "F-15DJ Eagle J-MSIP",
+"id": "3384",
+"year": 2017,
+"name": "F-15DJ Eagle J-MSIP"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "F-2B",
+"id": "5322",
+"year": 2020,
+"name": "F-2B"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "F-35A Lightning II",
+"id": "4223",
+"year": 2024,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "F-35B Lightning II",
+"id": "5134",
+"year": 2024,
+"name": "F-35B Lightning II"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "KC-46A Pegasus",
+"id": "4517",
+"year": 2021,
+"name": "KC-46A Pegasus"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "OP-3C Orion",
+"id": "4761",
+"year": 2015,
+"name": "OP-3C Orion"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "P-1",
+"id": "7300",
+"year": 2025,
+"name": "P-1"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "SH-60L Seahawk",
+"id": "7295",
+"year": 2024,
+"name": "SH-60L Seahawk"
+},
+{
+"kind": "air",
+"country": "NATO",
+"key": "Airbus A.330-200 MRTT",
+"id": "4708",
+"year": 2019,
+"name": "Airbus A.330-200 MRTT [MFF]"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "AH-64D Apache",
+"id": "4824",
+"year": 2020,
+"name": "AH-64D Apache"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "F-35A Lightning II",
+"id": "3902",
+"year": 2020,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "MQ-9A Reaper UAV",
+"id": "5791",
+"year": 2023,
+"name": "MQ-9A Reaper UAV"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "NH90 NFH",
+"id": "656",
+"year": 2015,
+"name": "NH90 NFH"
+},
+{
+"kind": "air",
+"country": "Norway",
+"key": "F-35A Lightning II",
+"id": "3326",
+"year": 2021,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Norway",
+"key": "MH-60R Seahawk",
+"id": "6683",
+"year": 2025,
+"name": "MH-60R Seahawk"
+},
+{
+"kind": "air",
+"country": "Norway",
+"key": "P-8A Poseidon",
+"id": "4709",
+"year": 2024,
+"name": "P-8A Poseidon"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "AW.101 Merlin Mk.110 ASW",
+"id": "5335",
+"year": 2022,
+"name": "AW.101 Merlin Mk.110 ASW"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "Bayraktar TB2 UCAV",
+"id": "5395",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "F-35A Lightning II",
+"id": "5999",
+"year": 2028,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "FA-50GF Golden Eagle",
+"id": "5944",
+"year": 2023,
+"name": "FA-50GF Golden Eagle"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "FA-50PL Golden Eagle",
+"id": "6040",
+"year": 2025,
+"name": "FA-50PL Golden Eagle"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "MQ-9A Reaper UAV",
+"id": "6108",
+"year": 2022,
+"name": "MQ-9A Reaper UAV"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "Saab 340 AEW",
+"id": "6812",
+"year": 2023,
+"name": "Saab 340 AEW"
+},
+{
+"kind": "air",
+"country": "Romania",
+"key": "F-16AM Falcon MLU",
+"id": "4402",
+"year": 2017,
+"name": "F-16AM Falcon MLU [Peace Carpathian]"
+},
+{
+"kind": "air",
+"country": "Romania",
+"key": "F-35A Lightning II",
+"id": "6966",
+"year": 2025,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "A-100 Premier",
+"id": "4728",
+"year": 2023,
+"name": "A-100 Premier [Il-476]"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Ka-27M Helix A",
+"id": "4327",
+"year": 2017,
+"name": "Ka-27M Helix A"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Ka-52K Hokum B",
+"id": "2930",
+"year": 2016,
+"name": "Ka-52K Hokum B [Katran]"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Ka-52M Hokum B",
+"id": "5072",
+"year": 2022,
+"name": "Ka-52M Hokum B"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "MiG-29K Fulcrum D",
+"id": "3320",
+"year": 2015,
+"name": "MiG-29K Fulcrum D"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "MiG-31K Foxhound",
+"id": "4801",
+"year": 2019,
+"name": "MiG-31K Foxhound"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "MiG-35 Fulcrum F",
+"id": "3913",
+"year": 2020,
+"name": "MiG-35 Fulcrum F"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "S-70 Okhotnik-B UCAV",
+"id": "4906",
+"year": 2024,
+"name": "S-70 Okhotnik-B UCAV"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Su-25SM3 Frogfoot A",
+"id": "4231",
+"year": 2016,
+"name": "Su-25SM3 Frogfoot A"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Su-30SM2 Flanker G",
+"id": "6210",
+"year": 2022,
+"name": "Su-30SM2 Flanker G"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Su-34M Fullback",
+"id": "7117",
+"year": 2027,
+"name": "Su-34M Fullback"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Su-34NVO Fullback",
+"id": "7297",
+"year": 2024,
+"name": "Su-34NVO Fullback"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Su-57 Felon",
+"id": "7574",
+"year": 2020,
+"name": "Su-57 Felon"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Tu-22M-3M Backfire C",
+"id": "7022",
+"year": 2023,
+"name": "Tu-22M-3M Backfire C"
+},
+{
+"kind": "air",
+"country": "Slovakia [1993-]",
+"key": "AH-1Z Viper",
+"id": "6510",
+"year": 2023,
+"name": "AH-1Z Viper [Super Cobra]"
+},
+{
+"kind": "air",
+"country": "Slovakia [1993-]",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "4952",
+"year": 2022,
+"name": "F-16V Blk 70/72 Falcon"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "AH-64E Apache Guardian",
+"id": "4593",
+"year": 2017,
+"name": "AH-64E Apache Guardian"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "AW.159 Wildcat Mk210",
+"id": "3374",
+"year": 2017,
+"name": "AW.159 Wildcat Mk210"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "Airbus A.330-200 MRTT",
+"id": "4513",
+"year": 2019,
+"name": "Airbus A.330-200 MRTT"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "F-16CJ Blk 52 Falcon",
+"id": "4981",
+"year": 2020,
+"name": "F-16CJ Blk 52 Falcon [KF-16C]"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "F-35A Lightning II",
+"id": "4224",
+"year": 2020,
+"name": "F-35A Lightning II"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "KAI Light Armed Helicopter",
+"id": "5636",
+"year": 2023,
+"name": "KAI Light Armed Helicopter"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "KF-21 Boramae Blk 1",
+"id": "5183",
+"year": 2026,
+"name": "KF-21 Boramae Blk 1"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "KF-21 Boramae Blk 2",
+"id": "5184",
+"year": 2028,
+"name": "KF-21 Boramae Blk 2"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "MH-60R Seahawk",
+"id": "5193",
+"year": 2024,
+"name": "MH-60R Seahawk"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "P-8A Poseidon",
+"id": "5585",
+"year": 2025,
+"name": "P-8A Poseidon"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "RKF-16CJ Blk 52 Falcon",
+"id": "4516",
+"year": 2015,
+"name": "RKF-16CJ Blk 52 Falcon"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "Airbus A.330-200 MRTT",
+"id": "5606",
+"year": 2023,
+"name": "Airbus A.330-200 MRTT"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "C-295MW",
+"id": "6778",
+"year": 2024,
+"name": "C-295MW"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "EC.665 Tigre HADE",
+"id": "3928",
+"year": 2016,
+"name": "EC.665 Tigre HADE [HA.28]"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "EF2000 Typhoon",
+"id": "5507",
+"year": 2026,
+"name": "EF2000 Typhoon [C.16]"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "F/A-18A Hornet",
+"id": "7029",
+"year": 2020,
+"name": "F/A-18A Hornet [EF-18M, C.15]"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "MH-60R Seahawk",
+"id": "6994",
+"year": 2024,
+"name": "MH-60R Seahawk"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "MQ-9A Reaper UAV",
+"id": "4611",
+"year": 2018,
+"name": "MQ-9A Reaper UAV"
+},
+{
+"kind": "air",
+"country": "Sweden",
+"key": "GlobalEye AEW",
+"id": "5876",
+"year": 2027,
+"name": "GlobalEye AEW [G6000]"
+},
+{
+"kind": "air",
+"country": "Sweden",
+"key": "HKp 14F",
+"id": "2348",
+"year": 2020,
+"name": "HKp 14F [NH90 TTT]"
+},
+{
+"kind": "air",
+"country": "Sweden",
+"key": "JAS 39E Gripen NG",
+"id": "6078",
+"year": 2023,
+"name": "JAS 39E Gripen NG"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Airbus A.330-200 MRTT",
+"id": "5084",
+"year": 2021,
+"name": "Airbus A.330-200 MRTT"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Aksungur UCAV",
+"id": "5441",
+"year": 2021,
+"name": "Aksungur UCAV"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Bayraktar Akinci UCAV",
+"id": "4998",
+"year": 2021,
+"name": "Bayraktar Akinci UCAV"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Bayraktar TB2 UCAV",
+"id": "5394",
+"year": 2020,
+"name": "Bayraktar TB2 UCAV"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Bayraktar TB3 UCAV",
+"id": "6646",
+"year": 2023,
+"name": "Bayraktar TB3 UCAV"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "F-16CJ Blk 50 Falcon",
+"id": "6733",
+"year": 2020,
+"name": "F-16CJ Blk 50 Falcon [Peace Onyx IV]"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "F-16CM Blk 40 Falcon",
+"id": "6729",
+"year": 2020,
+"name": "F-16CM Blk 40 Falcon [Peace Onyx III CCIP Upgr]"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "F-16CM Blk 50 Falcon",
+"id": "6730",
+"year": 2020,
+"name": "F-16CM Blk 50 Falcon [Peace Onyx III CCIP Upgr]"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Kaan MMU",
+"id": "7108",
+"year": 2028,
+"name": "Kaan MMU"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Songar UCAV",
+"id": "4944",
+"year": 2020,
+"name": "Songar UCAV"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "T-129A ATAK Raid Helicopter",
+"id": "4246",
+"year": 2015,
+"name": "T-129A ATAK Raid Helicopter [EDH]"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "T-129B ATAK Raid Helicopter",
+"id": "5189",
+"year": 2021,
+"name": "T-129B ATAK Raid Helicopter"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "MQ-9A Reaper UAV",
+"id": "3726",
+"year": 2015,
+"name": "MQ-9A Reaper UAV"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Merlin ASaC.1",
+"id": "4111",
+"year": 2018,
+"name": "Merlin ASaC.1 [Interim]"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Merlin ASaC.5",
+"id": "4110",
+"year": 2020,
+"name": "Merlin ASaC.5 [Crowsnest]"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Poseidon MRA.1",
+"id": "4841",
+"year": 2021,
+"name": "Poseidon MRA.1 [P-8A]"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Shadow R.1",
+"id": "5453",
+"year": 2023,
+"name": "Shadow R.1 [MC-12W Liberty, King Air 350ER-ISR]"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Typhoon FGR.4",
+"id": "7090",
+"year": 2024,
+"name": "Typhoon FGR.4"
+},
+{
+"kind": "ship",
+"country": "Belgium",
+"key": "Anti-Submarine Warfare Frigate",
+"id": "4426",
+"year": 2030,
+"name": "Anti-Submarine Warfare Frigate"
+},
+{
+"kind": "ship",
+"country": "Belgium",
+"key": "Karel Doorman",
+"id": "3800",
+"year": 2018,
+"name": "F 930 Leopold I [Karel Doorman]"
+},
+{
+"kind": "ship",
+"country": "Canada",
+"key": "City",
+"id": "3569",
+"year": 2023,
+"name": "FFH 330 Halifax [City Class]"
+},
+{
+"kind": "ship",
+"country": "Canada",
+"key": "Resolve",
+"id": "3223",
+"year": 2018,
+"name": "MS Asterix [Resolve Class]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "136 Hangzhou",
+"id": "3090",
+"year": 2019,
+"name": "Pr.956E Sovremenny III [136 Hangzhou]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 002 Kuznetsov Mod",
+"id": "3187",
+"year": 2019,
+"name": "Type 002 Kuznetsov Mod [17 Shandong]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 003",
+"id": "3466",
+"year": 2025,
+"name": "Type 003 [18 Fujian]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 052DL Luyang III Mod",
+"id": "4719",
+"year": 2024,
+"name": "Type 052DL Luyang III Mod [125 Cangzhou]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 053H3 Jiangwei II",
+"id": "3040",
+"year": 2017,
+"name": "Type 053H3 Jiangwei II [521 Jiaxing]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 054AG Jiangkai II Mod",
+"id": "4725",
+"year": 2025,
+"name": "Type 054AG Jiangkai II Mod [XXX Shanwei]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 054B Jiangkai III",
+"id": "4444",
+"year": 2025,
+"name": "Type 054B Jiangkai III [545 Luohe]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 056A Jiangdao II",
+"id": "4722",
+"year": 2021,
+"name": "Type 056A Jiangdao II [625 Bazhong]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 072A Yuting II",
+"id": "4602",
+"year": 2015,
+"name": "Type 072A Yuting II [981 Dabie Shan]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 075 Yushen",
+"id": "3153",
+"year": 2021,
+"name": "Type 075 Yushen [31 Hainan]"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 901 Fuyu",
+"id": "2980",
+"year": 2017,
+"name": "Type 901 Fuyu [965 Hulunhu]"
+},
+{
+"kind": "ship",
+"country": "Denmark",
+"key": "Iver Huitfeldt",
+"id": "2331",
+"year": 2015,
+"name": "F 361 Iver Huitfeldt"
+},
+{
+"kind": "ship",
+"country": "Finland",
+"key": "Pohjanmaa",
+"id": "3434",
+"year": 2028,
+"name": "Pohjanmaa"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "A 69",
+"id": "3888",
+"year": 2022,
+"name": "F 792 Premier Ma\u00eetre L' Her [A 69]"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "FDI",
+"id": "3172",
+"year": 2024,
+"name": "Admiral Ronarc'h [FDI]"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "FREMM ASW",
+"id": "4888",
+"year": 2024,
+"name": "D 655 Bretagne [FREMM ASW]"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "FREMM FREDA",
+"id": "4889",
+"year": 2024,
+"name": "D 656 Alsace [FREMM FREDA]"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "Horizon",
+"id": "4891",
+"year": 2024,
+"name": "D 620 Forbin [Horizon]"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "Modified Vulcano",
+"id": "3299",
+"year": 2022,
+"name": "A 725 Jacques Chevallier [Modified Vulcano Class]"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "Type F70 AA",
+"id": "2655",
+"year": 2015,
+"name": "D 614 Cassard [Type F70 AA]"
+},
+{
+"kind": "ship",
+"country": "Germany [FRG/Reunified]",
+"key": "Type 707",
+"id": "4457",
+"year": 2023,
+"name": "Type 707"
+},
+{
+"kind": "ship",
+"country": "Germany [FRG/Reunified]",
+"key": "Type F123B",
+"id": "4441",
+"year": 2024,
+"name": "F 215 Brandenburg [Type F123B]"
+},
+{
+"kind": "ship",
+"country": "Germany [FRG/Reunified]",
+"key": "Type F124",
+"id": "4510",
+"year": 2023,
+"name": "F 219 Sachsen [Type F124]"
+},
+{
+"kind": "ship",
+"country": "Germany [FRG/Reunified]",
+"key": "Type F126",
+"id": "3756",
+"year": 2028,
+"name": "Type F126"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "FDI",
+"id": "3173",
+"year": 2025,
+"name": "F 601 Kimon [FDI]"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "Mod. Gowind 2500",
+"id": "3514",
+"year": 2025,
+"name": "TBD [Mod. Gowind 2500]"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "Polemistis",
+"id": "3182",
+"year": 2018,
+"name": "P 61 Polemistis"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "DD(X)",
+"id": "3618",
+"year": 2030,
+"name": "DD(X)"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "Trieste",
+"id": "3312",
+"year": 2022,
+"name": "L 9890 Trieste"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "Vulcano",
+"id": "3298",
+"year": 2023,
+"name": "A XXXX [Vulcano Class]"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "22DDH",
+"id": "2442",
+"year": 2021,
+"name": "DDH 183 Izumo [22DDH Class]"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Aegis System-Equipped Vessel",
+"id": "4044",
+"year": 2028,
+"name": "Aegis System-Equipped Vessel"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Asahi",
+"id": "3893",
+"year": 2019,
+"name": "DD 119 Asahi"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Maya",
+"id": "4405",
+"year": 2026,
+"name": "DDG 180 Haguro [Maya Class]"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Mod. Mogami",
+"id": "4477",
+"year": 2025,
+"name": "FFM 13 [Mod. Mogami Class]"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Mogami",
+"id": "3293",
+"year": 2025,
+"name": "FFM 9 Natori [Mogami Class]"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Yoko",
+"id": "4982",
+"year": 2024,
+"name": "LSV 4101 Yoko"
+},
+{
+"kind": "ship",
+"country": "Netherlands",
+"key": "Anti-Submarine Warfare Frigate",
+"id": "4425",
+"year": 2029,
+"name": "Anti-Submarine Warfare Frigate"
+},
+{
+"kind": "ship",
+"country": "Netherlands",
+"key": "De Zeven Provinci\u00ebn",
+"id": "4339",
+"year": 2025,
+"name": "F 802 De Zeven Provinci\u00ebn"
+},
+{
+"kind": "ship",
+"country": "Netherlands",
+"key": "Den Helder",
+"id": "3423",
+"year": 2025,
+"name": "A 834 Den Helder"
+},
+{
+"kind": "ship",
+"country": "Netherlands",
+"key": "Enforcer",
+"id": "3388",
+"year": 2022,
+"name": "L 801 Johan de Witt [Enforcer]"
+},
+{
+"kind": "ship",
+"country": "North Korea",
+"key": "Choi Hyon",
+"id": "4983",
+"year": 2025,
+"name": "51 Choi Hyon"
+},
+{
+"kind": "ship",
+"country": "North Korea",
+"key": "Kola Copy",
+"id": "2779",
+"year": 2015,
+"name": "531 Najin [Kola Copy]"
+},
+{
+"kind": "ship",
+"country": "North Korea",
+"key": "Nongo",
+"id": "2851",
+"year": 2015,
+"name": "Nongo"
+},
+{
+"kind": "ship",
+"country": "Poland",
+"key": "Miecznik",
+"id": "4396",
+"year": 2028,
+"name": "F XX TBD [Miecznik Class]"
+},
+{
+"kind": "ship",
+"country": "Poland",
+"key": "Perry",
+"id": "3660",
+"year": 2018,
+"name": "272 Gen. K. Pulaski [Perry Class]"
+},
+{
+"kind": "ship",
+"country": "Poland",
+"key": "Pr.620",
+"id": "4484",
+"year": 2016,
+"name": "240 Kaszub [Pr.620]"
+},
+{
+"kind": "ship",
+"country": "Portugal",
+"key": "Karel Doorman",
+"id": "4449",
+"year": 2021,
+"name": "F 333 Bartolomeu Diaz [Karel Doorman]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.03182",
+"id": "3435",
+"year": 2021,
+"name": "850 Vice Admiral Paromov [Pr.03182]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.1135.6M",
+"id": "2815",
+"year": 2018,
+"name": "SKR Admiral Grigorovich [Pr.1135.6M]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.1143.5",
+"id": "2633",
+"year": 2015,
+"name": "TAKR Admiral Kuznetsov [Pr.1143.5]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.1144.2M Orlan",
+"id": "2732",
+"year": 2019,
+"name": "RKR Admiral Nakhimov [Pr.1144.2M Orlan, Ex-Kalinin]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.1155 Fregat",
+"id": "3207",
+"year": 2020,
+"name": "BPK Marshal Shaposhnikov Udaloy I [Pr.1155 Fregat]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.1164 Atlant",
+"id": "3190",
+"year": 2019,
+"name": "RKR Moskva [Pr.1164 Atlant]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.2038.1",
+"id": "2813",
+"year": 2018,
+"name": "MPK Soobrazitelny [Pr.2038.1, Mod Steregushchy]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.20380",
+"id": "2814",
+"year": 2018,
+"name": "MPK Steregushchiy [Pr.20380]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.20385",
+"id": "2812",
+"year": 2018,
+"name": "MPK Gremyashchy [Pr.20385, Improved Steregushchiy]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.22160",
+"id": "4693",
+"year": 2023,
+"name": "PK 368 Vasily Bykov [Pr.22160]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.2235.0",
+"id": "3580",
+"year": 2021,
+"name": "SKR Admiral Sergey Gorshkov [Pr.2235.0]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.22800 Karakurt",
+"id": "3295",
+"year": 2019,
+"name": "MRK Shkval [Pr.22800 Karakurt]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.23130",
+"id": "2605",
+"year": 2017,
+"name": "VTR Akademik Pashin [Pr.23130]"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.23900",
+"id": "3393",
+"year": 2026,
+"name": "Ivan Rogov [Pr.23900]"
+},
+{
+"kind": "ship",
+"country": "South Korea",
+"key": "LST-II",
+"id": "2771",
+"year": 2015,
+"name": "LST 686 Cheon Wang Bong [LST-II]"
+},
+{
+"kind": "ship",
+"country": "Spain",
+"key": "Bonifaz",
+"id": "3864",
+"year": 2025,
+"name": "F 110 Bonifaz"
+},
+{
+"kind": "ship",
+"country": "Sweden",
+"key": "F XX Lulea",
+"id": "4429",
+"year": 2030,
+"name": "F XX Lulea"
+},
+{
+"kind": "ship",
+"country": "Sweden",
+"key": "ex-Goteborg",
+"id": "3830",
+"year": 2022,
+"name": "K 22 Gavle [ex-Goteborg Class]"
+},
+{
+"kind": "ship",
+"country": "Turkey",
+"key": "Ada",
+"id": "3185",
+"year": 2019,
+"name": "F 511 Heybeliada [Ada Class]"
+},
+{
+"kind": "ship",
+"country": "Turkey",
+"key": "Derya",
+"id": "4893",
+"year": 2024,
+"name": "A 1590 Derya"
+},
+{
+"kind": "ship",
+"country": "Turkey",
+"key": "Juan Carlos",
+"id": "3314",
+"year": 2023,
+"name": "L 400 Anadolu [Juan Carlos Class]"
+},
+{
+"kind": "ship",
+"country": "Turkey",
+"key": "Meko 200TN Track IIA",
+"id": "4439",
+"year": 2021,
+"name": "F 244 Barbaros [Meko 200TN Track IIA]"
+},
+{
+"kind": "ship",
+"country": "Turkey",
+"key": "Meko 200TN Track IIB",
+"id": "4440",
+"year": 2021,
+"name": "F 246 Salihreis [Meko 200TN Track IIB]"
+},
+{
+"kind": "ship",
+"country": "Turkey",
+"key": "Yuzbasi Gungor Durmus",
+"id": "3584",
+"year": 2021,
+"name": "A 574 Yuzbasi Gungor Durmus"
+},
+{
+"kind": "ship",
+"country": "United Kingdom",
+"key": "MARS Tide",
+"id": "2581",
+"year": 2017,
+"name": "A 136 Tidespring [MARS Tide Class]"
+},
+{
+"kind": "ship",
+"country": "United Kingdom",
+"key": "Type 26 City",
+"id": "2795",
+"year": 2022,
+"name": "F 88 Glasgow [Type 26 City]"
+},
+{
+"kind": "ship",
+"country": "United Kingdom",
+"key": "Type 31 Inspiration",
+"id": "3271",
+"year": 2027,
+"name": "F 12 Venturer [Type 31 Inspiration]"
+},
+{
+"kind": "sub",
+"country": "Canada",
+"key": "Upholder",
+"id": "713",
+"year": 2022,
+"name": "878 Corner Brook [Upholder Class]"
+},
+{
+"kind": "sub",
+"country": "China",
+"key": "Type 039A Yuan",
+"id": "775",
+"year": 2015,
+"name": "Type 039A Yuan"
+},
+{
+"kind": "sub",
+"country": "China",
+"key": "Type 039B Yuan",
+"id": "580",
+"year": 2016,
+"name": "Type 039B Yuan"
+},
+{
+"kind": "sub",
+"country": "China",
+"key": "Type 039C Yuan",
+"id": "695",
+"year": 2021,
+"name": "Type 039C Yuan"
+},
+{
+"kind": "sub",
+"country": "China",
+"key": "Type 093A Shang II",
+"id": "777",
+"year": 2015,
+"name": "Type 093A Shang II"
+},
+{
+"kind": "sub",
+"country": "China",
+"key": "Type 094A Jin",
+"id": "773",
+"year": 2022,
+"name": "Type 094A Jin"
+},
+{
+"kind": "sub",
+"country": "Greece",
+"key": "Type 214HN",
+"id": "727",
+"year": 2024,
+"name": "S 120 Papanikolis [Type 214HN]"
+},
+{
+"kind": "sub",
+"country": "Italy",
+"key": "Type 212 NFS",
+"id": "708",
+"year": 2027,
+"name": "S 527 TBD [Type 212 NFS]"
+},
+{
+"kind": "sub",
+"country": "Japan",
+"key": "Taigei",
+"id": "781",
+"year": 2025,
+"name": "SS 516 Raigei [Taigei Class]"
+},
+{
+"kind": "sub",
+"country": "Norway",
+"key": "Type 212CD",
+"id": "741",
+"year": 2029,
+"name": "TBD [Type 212CD]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Antey",
+"id": "568",
+"year": 2023,
+"name": "PLARK-949AM Oscar III [Antey]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "B 586 Kronshtadt",
+"id": "780",
+"year": 2024,
+"name": "PL-677 Lada [B 586 Kronshtadt]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Belgorod",
+"id": "647",
+"year": 2018,
+"name": "PLASN-9852 [Belgorod]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Delfin",
+"id": "619",
+"year": 2015,
+"name": "PLARB-667BDRM Delta IV [Delfin]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Khabarovsk",
+"id": "649",
+"year": 2021,
+"name": "PLA-09851 [Khabarovsk]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "PL-877V Kilo",
+"id": "728",
+"year": 2023,
+"name": "PL-877V Kilo"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "PLASN-667BDRM Delta IV Stretch",
+"id": "642",
+"year": 2020,
+"name": "PLASN-667BDRM Delta IV Stretch"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Shchuka",
+"id": "621",
+"year": 2017,
+"name": "PLA-671RTMK Victor III [Shchuka]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Shchuka-B",
+"id": "748",
+"year": 2021,
+"name": "PLA-971M Akula II [Shchuka-B]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Varshavyanka",
+"id": "771",
+"year": 2021,
+"name": "PL-636.3 Improved Kilo II [Varshavyanka]"
+},
+{
+"kind": "sub",
+"country": "Russia [1992-]",
+"key": "Yasen-M",
+"id": "729",
+"year": 2024,
+"name": "PLA-885M Severodvinsk [Yasen-M]"
+},
+{
+"kind": "sub",
+"country": "South Korea",
+"key": "Dosan Ahn Changho",
+"id": "694",
+"year": 2022,
+"name": "SS 087 Lee Bong-chang [Dosan Ahn Changho Class, Batch 2]"
+},
+{
+"kind": "sub",
+"country": "Sweden",
+"key": "Blekinge",
+"id": "726",
+"year": 2027,
+"name": "A 26 Blekinge"
+},
+{
+"kind": "sub",
+"country": "Turkey",
+"key": "MILDEN",
+"id": "731",
+"year": 2025,
+"name": "MILDEN"
+},
+{
+"kind": "sub",
+"country": "Turkey",
+"key": "Type 209-1400",
+"id": "672",
+"year": 2020,
+"name": "S 353 Preveze [Type 209-1400, Preveze/G\u00fcr Class]"
+},
+{
+"kind": "sub",
+"country": "Turkey",
+"key": "Type 214TN",
+"id": "569",
+"year": 2021,
+"name": "S 361 Piri Reis [Type 214TN, Reis Class]"
+},
+{
+"kind": "sub",
+"country": "China",
+"key": "Type 041 Zhou",
+"id": "782",
+"year": 2025,
+"name": "Type 041 Zhou"
+},
+{
+"kind": "ship",
+"country": "South Korea",
+"key": "Incheon Batch II",
+"id": "3217",
+"year": 2018,
+"name": "FFG 818 Daegu [Incheon Batch II]"
+},
+{
+"kind": "ship",
+"country": "South Korea",
+"key": "Incheon Batch III",
+"id": "4348",
+"year": 2023,
+"name": "FFG 828 Chungnam [Incheon Batch III]"
+},
+{
+"kind": "ship",
+"country": "South Korea",
+"key": "KDX-3 Batch 2",
+"id": "3622",
+"year": 2024,
+"name": "DDG 995 Jeongjo the Great [KDX-3 Batch 2]"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Apache AH.Mk.2",
+"id": "4842",
+"year": 2022,
+"name": "Apache AH.Mk.2 [AH-64E]"
+}
+]

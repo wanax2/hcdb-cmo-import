@@ -1,0 +1,2018 @@
+[
+{
+"kind": "air",
+"country": "Albania",
+"key": "UH-60M Blackhawk",
+"id": "5408",
+"year": 2023,
+"name": "UH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "C-130J-30 Hercules",
+"id": "6633",
+"year": 2022,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "C-27J Spartan",
+"id": "3204",
+"year": 2015,
+"name": "C-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "CH-47F Chinook",
+"id": "3179",
+"year": 2015,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "EA-18G Growler",
+"id": "4880",
+"year": 2025,
+"name": "EA-18G Growler",
+"type": "Electronic Warfare"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "F-35A Lightning II",
+"id": "3901",
+"year": 2022,
+"name": "F-35A Lightning II",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "F/A-18A Hornet",
+"id": "3912",
+"year": 2017,
+"name": "F/A-18A Hornet",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "MC-55A Peregrine",
+"id": "4745",
+"year": 2025,
+"name": "MC-55A Peregrine [G550 SIGINT]",
+"type": "Signals Intelligence (SIGINT)"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "MH-60R Seahawk",
+"id": "3202",
+"year": 2015,
+"name": "MH-60R Seahawk",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "MQ-4C Triton UAV",
+"id": "5942",
+"year": 2023,
+"name": "MQ-4C Triton UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "P-8A Poseidon",
+"id": "3446",
+"year": 2018,
+"name": "P-8A Poseidon",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Australia",
+"key": "UH-60M Blackhawk",
+"id": "5488",
+"year": 2023,
+"name": "UH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Belgium",
+"key": "A.400M Atlas",
+"id": "271",
+"year": 2020,
+"name": "A.400M Atlas",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "Bell 412EPI",
+"id": "5654",
+"year": 2017,
+"name": "Bell 412EPI",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Canada",
+"key": "C-295M",
+"id": "5666",
+"year": 2022,
+"name": "C-295M",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "BZK-005B Sky Eagle UAV",
+"id": "6739",
+"year": 2020,
+"name": "BZK-005B Sky Eagle UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "BZK-005BH Sky Eagle UAV",
+"id": "6902",
+"year": 2020,
+"name": "BZK-005BH Sky Eagle UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "BZK-005D Sky Eagle UAV",
+"id": "7370",
+"year": 2024,
+"name": "BZK-005D Sky Eagle UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Mi-171 Hip H",
+"id": "7314",
+"year": 2021,
+"name": "Mi-171 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Mi-171E Hip H",
+"id": "7322",
+"year": 2017,
+"name": "Mi-171E Hip H",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Mi-17V5 Hip H",
+"id": "7313",
+"year": 2020,
+"name": "Mi-17V5 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "WZ-7 Soaring Dragon UAV",
+"id": "7371",
+"year": 2023,
+"name": "WZ-7 Soaring Dragon UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "WZ-9 Divine Eagle UAV",
+"id": "4931",
+"year": 2015,
+"name": "WZ-9 Divine Eagle UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-20A Kunpeng",
+"id": "4609",
+"year": 2016,
+"name": "Y-20A Kunpeng",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-20B Kunpeng",
+"id": "7173",
+"year": 2023,
+"name": "Y-20B Kunpeng",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-9G Cub",
+"id": "4204",
+"year": 2015,
+"name": "Y-9G Cub [GX11]",
+"type": "Electronic Warfare"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-9LG Cub",
+"id": "7367",
+"year": 2022,
+"name": "Y-9LG Cub [GX13]",
+"type": "Electronic Warfare"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Y-9XZ Cub",
+"id": "4203",
+"year": 2015,
+"name": "Y-9XZ Cub [GX9]",
+"type": "Electronic Intelligence (ELINT)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-20",
+"id": "7360",
+"year": 2024,
+"name": "Z-20 [S-70C-2 Copy]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-20J",
+"id": "7323",
+"year": 2025,
+"name": "Z-20J",
+"type": "Naval Utility"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-20K",
+"id": "7000",
+"year": 2022,
+"name": "Z-20K",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-20T Assault Eagle",
+"id": "5434",
+"year": 2024,
+"name": "Z-20T Assault Eagle [S-70C-2 Copy]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-8C Super Frelon",
+"id": "5608",
+"year": 2016,
+"name": "Z-8C Super Frelon",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-8G Super Frelon",
+"id": "7362",
+"year": 2022,
+"name": "Z-8G Super Frelon",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-8GZ Super Frelon",
+"id": "7337",
+"year": 2022,
+"name": "Z-8GZ Super Frelon",
+"type": "Airborne Command Post (ACP)"
+},
+{
+"kind": "air",
+"country": "China",
+"key": "Z-9C Haitun",
+"id": "5854",
+"year": 2015,
+"name": "Z-9C Haitun [AS.565SA]",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Croatia [1992-]",
+"key": "UH-60M Blackhawk",
+"id": "5578",
+"year": 2022,
+"name": "UH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Czech Republic [1993-]",
+"key": "Heron UAV",
+"id": "5994",
+"year": 2022,
+"name": "Heron UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Czech Republic [1993-]",
+"key": "KC-390 Millennium",
+"id": "7007",
+"year": 2024,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Czech Republic [1993-]",
+"key": "UH-1Y Venom",
+"id": "5711",
+"year": 2023,
+"name": "UH-1Y Venom [Huey]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Finland",
+"key": "AB.412EP",
+"id": "6691",
+"year": 2015,
+"name": "AB.412EP",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "Archange",
+"id": "5831",
+"year": 2025,
+"name": "Archange [Falcon 8X]",
+"type": "Signals Intelligence (SIGINT)"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "C-130J-30 Hercules",
+"id": "4769",
+"year": 2018,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "European MALE RPAS",
+"id": "5211",
+"year": 2025,
+"name": "European MALE RPAS",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "H160M Guepard",
+"id": "5541",
+"year": 2027,
+"name": "H160M Guepard",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "France",
+"key": "Patroller UAV",
+"id": "4735",
+"year": 2020,
+"name": "Patroller UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "A.400M Atlas",
+"id": "4918",
+"year": 2023,
+"name": "A.400M Atlas",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "C-130J-30 Hercules",
+"id": "7661",
+"year": 2026,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "CH-47F Chinook",
+"id": "4937",
+"year": 2023,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Germany [FRG/Reunified]",
+"key": "European MALE RPAS",
+"id": "5209",
+"year": 2025,
+"name": "European MALE RPAS",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "CH-47D Chinook",
+"id": "4309",
+"year": 2017,
+"name": "CH-47D Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "MQ-9B Guardian UAV",
+"id": "4907",
+"year": 2019,
+"name": "MQ-9B Guardian UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "MQ-9B SeaGuardian UAV",
+"id": "5898",
+"year": 2022,
+"name": "MQ-9B SeaGuardian UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "Patroller UAV",
+"id": "6775",
+"year": 2020,
+"name": "Patroller UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Greece",
+"key": "UH-60M Blackhawk",
+"id": "7078",
+"year": 2024,
+"name": "UH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Hungary",
+"key": "C-390 Millennium",
+"id": "5341",
+"year": 2023,
+"name": "C-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Hungary",
+"key": "H225M",
+"id": "6803",
+"year": 2023,
+"name": "H225M",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "AH-64E Apache Guardian",
+"id": "4856",
+"year": 2020,
+"name": "AH-64E Apache Guardian",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "Airbus A.330-200 MRTT",
+"id": "5251",
+"year": 2022,
+"name": "Airbus A.330-200 MRTT",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "C-295MW",
+"id": "5382",
+"year": 2025,
+"name": "C-295MW",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "CH-47F(I) Chinook",
+"id": "6089",
+"year": 2019,
+"name": "CH-47F(I) Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "Dhruv Mk1/2",
+"id": "5199",
+"year": 2021,
+"name": "Dhruv Mk1/2",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "Dhruv Mk3",
+"id": "7273",
+"year": 2021,
+"name": "Dhruv Mk3",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "EMB-145I AEWC",
+"id": "2927",
+"year": 2015,
+"name": "EMB-145I AEWC",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "HAL Light Combat Helicopter",
+"id": "5734",
+"year": 2021,
+"name": "HAL Light Combat Helicopter",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "LCA Tejas Mk1",
+"id": "5913",
+"year": 2021,
+"name": "LCA Tejas Mk1",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "LCA Tejas Mk1A",
+"id": "5915",
+"year": 2024,
+"name": "LCA Tejas Mk1A",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "MH-60R Seahawk",
+"id": "5198",
+"year": 2024,
+"name": "MH-60R Seahawk",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "MQ-9A Reaper UAV",
+"id": "4722",
+"year": 2019,
+"name": "MQ-9A Reaper UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "MQ-9B SeaGuardian UAV",
+"id": "5176",
+"year": 2020,
+"name": "MQ-9B SeaGuardian UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "Mi-35M Hind E",
+"id": "4896",
+"year": 2018,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "Rafale C",
+"id": "4778",
+"year": 2020,
+"name": "Rafale C",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "India",
+"key": "Rafale M",
+"id": "7626",
+"year": 2025,
+"name": "Rafale M",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Ababil-5 UCAV",
+"id": "5783",
+"year": 2022,
+"name": "Ababil-5 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Bell 214A/C Isfahan",
+"id": "6434",
+"year": 2019,
+"name": "Bell 214A/C Isfahan",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Fotros UCAV",
+"id": "6430",
+"year": 2020,
+"name": "Fotros UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "HESA Kowsar",
+"id": "6166",
+"year": 2018,
+"name": "HESA Kowsar [F-5F Tiger II Copy]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Kaman-12 UCAV",
+"id": "6425",
+"year": 2020,
+"name": "Kaman-12 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Kaman-22 UCAV",
+"id": "5190",
+"year": 2021,
+"name": "Kaman-22 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Karrar UCAV",
+"id": "5591",
+"year": 2021,
+"name": "Karrar UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Mi-171 Hip H",
+"id": "4843",
+"year": 2015,
+"name": "Mi-171 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "SH-3D Sea King",
+"id": "7121",
+"year": 2023,
+"name": "SH-3D Sea King [ASH-3D]",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Shahed-129 UCAV",
+"id": "6668",
+"year": 2019,
+"name": "Shahed-129 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Shahed-149 Gaza UCAV",
+"id": "6432",
+"year": 2022,
+"name": "Shahed-149 Gaza UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Shahed-171 Simorgh UCAV",
+"id": "6418",
+"year": 2016,
+"name": "Shahed-171 Simorgh UCAV [RQ-170 Copy]",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Shahed-181 UCAV",
+"id": "6417",
+"year": 2016,
+"name": "Shahed-181 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Shahed-191 UCAV",
+"id": "6385",
+"year": 2016,
+"name": "Shahed-191 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Su-22M-4K Fitter K",
+"id": "6727",
+"year": 2020,
+"name": "Su-22M-4K Fitter K",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Su-24MK Fencer D",
+"id": "6740",
+"year": 2023,
+"name": "Su-24MK Fencer D",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Su-35S Flanker M",
+"id": "6614",
+"year": 2023,
+"name": "Su-35S Flanker M",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Iran",
+"key": "Toufan II",
+"id": "6716",
+"year": 2022,
+"name": "Toufan II [AH-1J Sea Cobra Copy]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Israel",
+"key": "F-15E Strike Eagle",
+"id": "4894",
+"year": 2019,
+"name": "F-15E Strike Eagle",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Israel",
+"key": "F-15IA Eagle",
+"id": "7703",
+"year": 2031,
+"name": "F-15IA Eagle [Raam]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Israel",
+"key": "KC-46A Pegasus",
+"id": "5514",
+"year": 2023,
+"name": "KC-46A Pegasus",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Israel",
+"key": "Mi-35M Hind E",
+"id": "4897",
+"year": 2018,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Israel",
+"key": "SH-60F Ocean Hawk",
+"id": "5002",
+"year": 2021,
+"name": "SH-60F Ocean Hawk",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "CH-47F Chinook",
+"id": "4202",
+"year": 2015,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "EC-27J Jedi",
+"id": "4986",
+"year": 2015,
+"name": "EC-27J Jedi",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "European MALE RPAS",
+"id": "5210",
+"year": 2025,
+"name": "European MALE RPAS",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Italy",
+"key": "MC-27J Praetorian Pocket Gunship",
+"id": "3941",
+"year": 2017,
+"name": "MC-27J Praetorian Pocket Gunship",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Latvia [1992-]",
+"key": "UH-60M Blackhawk",
+"id": "6188",
+"year": 2022,
+"name": "UH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "NATO",
+"key": "RQ-4D Phoenix UAV",
+"id": "4234",
+"year": 2018,
+"name": "RQ-4D Phoenix UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "C-390 Millennium",
+"id": "5860",
+"year": 2026,
+"name": "C-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "H225M",
+"id": "6751",
+"year": 2023,
+"name": "H225M",
+"type": "Naval Utility"
+},
+{
+"kind": "air",
+"country": "Netherlands",
+"key": "KC-390 Millennium",
+"id": "7232",
+"year": 2024,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "North Macedonia [1991-]",
+"key": "AW.149",
+"id": "7101",
+"year": 2024,
+"name": "AW.149",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "AW.149",
+"id": "5861",
+"year": 2023,
+"name": "AW.149 [Perkoz]",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Poland",
+"key": "S-70i Blackhawk",
+"id": "5509",
+"year": 2019,
+"name": "S-70i Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Portugal",
+"key": "KC-390 Millennium",
+"id": "5342",
+"year": 2023,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Il-76MD-90A Candid B",
+"id": "5131",
+"year": 2016,
+"name": "Il-76MD-90A Candid B [Il-476]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Mi-8-MTPR1 Hip",
+"id": "7092",
+"year": 2015,
+"name": "Mi-8-MTPR1 Hip",
+"type": "Electronic Warfare"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Mi-8AMTSh-VN Hip H",
+"id": "6815",
+"year": 2021,
+"name": "Mi-8AMTSh-VN Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Searcher II",
+"id": "5702",
+"year": 2019,
+"name": "Searcher II [Forpost-R] UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Russia [1992-]",
+"key": "Shahed-129 UCAV",
+"id": "6416",
+"year": 2022,
+"name": "Shahed-129 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Slovakia [1993-]",
+"key": "C-27J Spartan",
+"id": "5483",
+"year": 2023,
+"name": "C-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "CH-47F Chinook",
+"id": "5556",
+"year": 2022,
+"name": "CH-47F Chinook [HT.17]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "European MALE RPAS",
+"id": "5212",
+"year": 2025,
+"name": "European MALE RPAS",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Spain",
+"key": "SH-60F Ocean Hawk",
+"id": "5888",
+"year": 2020,
+"name": "SH-60F Ocean Hawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Sweden",
+"key": "KC-390 Millennium",
+"id": "7535",
+"year": 2025,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Taiwan",
+"key": "F-16C Blk 70 Falcon",
+"id": "4887",
+"year": 2019,
+"name": "F-16C Blk 70 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Taiwan",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "6889",
+"year": 2023,
+"name": "F-16V Blk 70/72 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Taiwan",
+"key": "F-CK-1C Hsiung Ying",
+"id": "6050",
+"year": 2017,
+"name": "F-CK-1C Hsiung Ying [Ching Kuo MLU]",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Taiwan",
+"key": "MQ-8B Fire Scout UAV",
+"id": "4784",
+"year": 2020,
+"name": "MQ-8B Fire Scout UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Taiwan",
+"key": "MQ-9B Guardian UAV",
+"id": "6039",
+"year": 2023,
+"name": "MQ-9B Guardian UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Anka III UCAV",
+"id": "6790",
+"year": 2023,
+"name": "Anka III UCAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Anka+A UCAV",
+"id": "4978",
+"year": 2016,
+"name": "Anka+A UCAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Anka-A UAV",
+"id": "4380",
+"year": 2016,
+"name": "Anka-A UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Anka-B UAV",
+"id": "4750",
+"year": 2019,
+"name": "Anka-B UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Anka-I UAV",
+"id": "4738",
+"year": 2018,
+"name": "Anka-I UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "Anka-S UAV",
+"id": "4977",
+"year": 2016,
+"name": "Anka-S UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "CH-47F Chinook",
+"id": "4748",
+"year": 2017,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Turkey",
+"key": "T-70 Blackhawk",
+"id": "6023",
+"year": 2020,
+"name": "T-70 Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "A.400M Atlas",
+"id": "1420",
+"year": 2016,
+"name": "A.400M Atlas [C.1]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "Chinook H-47 (ER)",
+"id": "5293",
+"year": 2026,
+"name": "Chinook H-47 (ER) [MH-47G Blk II]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United Kingdom",
+"key": "MQ-9B SkyGuardian",
+"id": "4724",
+"year": 2018,
+"name": "MQ-9B SkyGuardian [Protector RG.1] UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "C-130J Hercules",
+"id": "6629",
+"year": 2017,
+"name": "C-130J Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "C-130J-30 Hercules",
+"id": "6630",
+"year": 2017,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "CN-235-300",
+"id": "7664",
+"year": 2017,
+"name": "CN-235-300",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "E-130J Phoenix II",
+"id": "5943",
+"year": 2028,
+"name": "E-130J Phoenix II",
+"type": "Airborne Command Post (ACP)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "E-3D Sentry",
+"id": "5284",
+"year": 2022,
+"name": "E-3D Sentry",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "EC-130SJ Commando Solo III",
+"id": "5467",
+"year": 2022,
+"name": "EC-130SJ Commando Solo III",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "HC-130J-30 Hercules",
+"id": "6996",
+"year": 2022,
+"name": "HC-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "HC-144B Ocean Sentry",
+"id": "7469",
+"year": 2017,
+"name": "HC-144B Ocean Sentry [CN-235-300MPA Persuader]",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "HC-27J Spartan",
+"id": "6897",
+"year": 2023,
+"name": "HC-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "KC-135T Stratotanker",
+"id": "6628",
+"year": 2020,
+"name": "KC-135T Stratotanker",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "MC-12S EMARSS-S",
+"id": "5464",
+"year": 2021,
+"name": "MC-12S EMARSS-S [King Air 350ER MEK]",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "MH-139A Grey Wolf",
+"id": "5277",
+"year": 2025,
+"name": "MH-139A Grey Wolf",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "MH-47G Chinook Blk II",
+"id": "6999",
+"year": 2023,
+"name": "MH-47G Chinook Blk II",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "MH-60M Blackhawk",
+"id": "5254",
+"year": 2021,
+"name": "MH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "MV-75",
+"id": "6161",
+"year": 2030,
+"name": "MV-75",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "NC-37B Compass Call",
+"id": "7665",
+"year": 2021,
+"name": "NC-37B Compass Call",
+"type": "Electronic Warfare"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "RC-12X+ Guardrail",
+"id": "7688",
+"year": 2016,
+"name": "RC-12X+ Guardrail [King Air A200CT]",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "RC-135S Cobra Ball",
+"id": "5877",
+"year": 2020,
+"name": "RC-135S Cobra Ball",
+"type": "Electronic Intelligence (ELINT)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "RC-135U Combat Sent",
+"id": "5853",
+"year": 2020,
+"name": "RC-135U Combat Sent",
+"type": "Electronic Intelligence (ELINT)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "RC-135V Rivet Joint",
+"id": "5832",
+"year": 2020,
+"name": "RC-135V Rivet Joint",
+"type": "Electronic Intelligence (ELINT)"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "SB-1 Defiant",
+"id": "6814",
+"year": 2030,
+"name": "SB-1 Defiant",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "U-28A EQ+ Draco",
+"id": "7783",
+"year": 2017,
+"name": "U-28A EQ+ Draco [Pilatus PC-12]",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "UH-60V Blackhawk",
+"id": "5411",
+"year": 2022,
+"name": "UH-60V Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "United States",
+"key": "WC-135R Constant Phoenix",
+"id": "5878",
+"year": 2022,
+"name": "WC-135R Constant Phoenix",
+"type": "Area Surveillance"
+},
+{
+"kind": "ship",
+"country": "Albania",
+"key": "Stan Patrol 4207",
+"id": "3144",
+"year": 2019,
+"name": "ALS Oriku [Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Australia",
+"key": "Cantabria",
+"id": "3139",
+"year": 2020,
+"name": "A 195 Supply [Cantabria Class]",
+"type": "AOR - Replenishment Oiler "
+},
+{
+"kind": "ship",
+"country": "Australia",
+"key": "Cape",
+"id": "3518",
+"year": 2017,
+"name": "ADV 310 Cape Fourcroy [Cape Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Australia",
+"key": "Darussalam",
+"id": "3407",
+"year": 2025,
+"name": "OPV 1 Arafura [Darussalam Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Australia",
+"key": "Evolved Cape",
+"id": "3519",
+"year": 2022,
+"name": "ADV 314 TBD [Evolved Cape Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Australia",
+"key": "Type 26 City",
+"id": "3414",
+"year": 2027,
+"name": "F XX Hunter [Type 26 City]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Belgium",
+"key": "City MCS",
+"id": "4152",
+"year": 2023,
+"name": "M 940 Oostende [City Class MCS]",
+"type": "MCS - Mine Countermeasures Support Ship "
+},
+{
+"kind": "ship",
+"country": "Bulgaria",
+"key": "90 OPV",
+"id": "4148",
+"year": 2025,
+"name": "12 Hrabri [90 OPV]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Canada",
+"key": "Harry DeWolf",
+"id": "2797",
+"year": 2018,
+"name": "AOPV 430 Harry DeWolf",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 718B Zhaojun",
+"id": "4793",
+"year": 2017,
+"name": "Type 718B Zhaojun [4201 Ganyuan]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 815A Dongdiao II",
+"id": "2926",
+"year": 2017,
+"name": "Type 815A Dongdiao II [856 Kaiyangxing]",
+"type": "AGI - Intelligence Gathering Ship "
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 818 Zhaoduan",
+"id": "3050",
+"year": 2017,
+"name": "Type 818 Zhaoduan [Jiangkai II Mod, 5303 Yongsu]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 918 Shuoshi II",
+"id": "4795",
+"year": 2015,
+"name": "Type 918 Shuoshi II [Haijing 2501]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type 927 Dongjian",
+"id": "4653",
+"year": 2016,
+"name": "Type 927 Dongjian",
+"type": "AGOS - Ocean Surveillance Ship "
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type XXX Hutao I",
+"id": "4802",
+"year": 2015,
+"name": "Type XXX Hutao I [22602 Dongfeng]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type XXX Hutao III",
+"id": "4801",
+"year": 2018,
+"name": "Type XXX Hutao III [21612 Zhangnan]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type XXX Zhaochang",
+"id": "4798",
+"year": 2015,
+"name": "Type XXX Zhaochang [1304 Qushan]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type XXX Zhaogao",
+"id": "4799",
+"year": 2015,
+"name": "Type XXX Zhaogao [Haijing 13104]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "China",
+"key": "Type XXX Zhaotou",
+"id": "3049",
+"year": 2015,
+"name": "Type XXX Zhaotou [2901 Zhoushan]",
+"type": "WPG - Coast Guard Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Finland",
+"key": "Mod. Turva Class",
+"id": "4688",
+"year": 2025,
+"name": "Mod. Turva Class",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "D'Entrecasteaux",
+"id": "4706",
+"year": 2016,
+"name": "A 621 D'Entrecasteaux",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "France",
+"key": "Felix Eboue",
+"id": "3955",
+"year": 2023,
+"name": "P 779 Auguste Benebig [Felix Eboue Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "P355GR",
+"id": "3251",
+"year": 2020,
+"name": "900 Marinos Zampatis [P355GR]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "Saar 4.5",
+"id": "3258",
+"year": 2019,
+"name": "060 Fournoi [Saar 4.5, Nirit Upgrade]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "Stan Patrol 5509",
+"id": "3973",
+"year": 2022,
+"name": "090 Gavdos [Stan Patrol 5509]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Greece",
+"key": "Vosper Europatrol 250 Mk1",
+"id": "3262",
+"year": 2017,
+"name": "050 Arkoi [Vosper Europatrol 250 Mk1]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "India",
+"key": "ASW-SWC",
+"id": "4423",
+"year": 2023,
+"name": "P 68 Arnala [ASW-SWC Class]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "India",
+"key": "Samarth",
+"id": "3532",
+"year": 2021,
+"name": "P 21 Sarthak [Samarth Class, Flight II]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "India",
+"key": "Samarth Flight I",
+"id": "3528",
+"year": 2015,
+"name": "P 11 Samarth [Flight I]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "India",
+"key": "Vikram",
+"id": "3524",
+"year": 2021,
+"name": "P 39 Vigraha [Vikram Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "FS 313-01 Shahid Soleimani",
+"id": "4538",
+"year": 2023,
+"name": "FS 313-01 Shahid Soleimani",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "Makran",
+"id": "3769",
+"year": 2021,
+"name": "441 Makran",
+"type": "ESB - Expeditionary Mobile Base"
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "Moudge",
+"id": "4898",
+"year": 2023,
+"name": "78 Deylaman [Moudge Class]",
+"type": "PF - Patrol Frigate"
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "P 313-11 Shahid Rouhi",
+"id": "4095",
+"year": 2022,
+"name": "P 313-11 Shahid Rouhi",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "PC 313-01 Shahid Abu Mahdi al-Muhandis",
+"id": "4708",
+"year": 2024,
+"name": "PC 313-01 Shahid Abu Mahdi al-Muhandis",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "Shahid Nazeri",
+"id": "3391",
+"year": 2016,
+"name": "Shahid Nazeri",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "Shahin",
+"id": "3784",
+"year": 2021,
+"name": "M 111 Shahin",
+"type": "MHC - Coastal Minehunter "
+},
+{
+"kind": "ship",
+"country": "Iran",
+"key": "Zulfiqar Air Defense Boat",
+"id": "4539",
+"year": 2023,
+"name": "Zulfiqar Air Defense Boat",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Israel",
+"key": "Nahshon",
+"id": "4454",
+"year": 2023,
+"name": "Nahshon",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Israel",
+"key": "Saar 6",
+"id": "3224",
+"year": 2021,
+"name": "601 Magen [Saar 6]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "Angelo Cabrini",
+"id": "3300",
+"year": 2019,
+"name": "P 420 Angelo Cabrini",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "Orizzonte Sistemi Navali OPV",
+"id": "4453",
+"year": 2025,
+"name": "Orizzonte Sistemi Navali OPV",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "Paolo Thaon di Revel",
+"id": "3303",
+"year": 2022,
+"name": "P 430 Paolo Thaon di Revel",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Italy",
+"key": "Thaon di Revel",
+"id": "3311",
+"year": 2024,
+"name": "P 433 Marcantonio Colonna [Thaon di Revel Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Lithuania [1992-]",
+"key": "Flyvefisken (Series 1)",
+"id": "3573",
+"year": 2022,
+"name": "P 11 Zemaitis [Flyvefisken Class (Series 1), Stanflex 300]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Lithuania [1992-]",
+"key": "Flyvefisken (Series 2)",
+"id": "3574",
+"year": 2022,
+"name": "P 14 Aukstaitis [Flyvefisken Class (Series 2), Stanflex 300]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Netherlands",
+"key": "City MCS",
+"id": "4752",
+"year": 2024,
+"name": "M 840 Vlissingen [City Class MCS]",
+"type": "MCS - Mine Countermeasures Support Ship "
+},
+{
+"kind": "ship",
+"country": "Norway",
+"key": "Pr.6615",
+"id": "3654",
+"year": 2021,
+"name": "W 310 Jan Mayen [Pr.6615]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Poland",
+"key": "Meko 100 Mod",
+"id": "4707",
+"year": 2019,
+"name": "241 Slazak [Meko 100 Mod]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Poland",
+"key": "Pr.258 Kormoran II",
+"id": "3655",
+"year": 2017,
+"name": "601 Kormoran [Pr.258 Kormoran II]",
+"type": "MCM - Mine Countermeasures Ship "
+},
+{
+"kind": "ship",
+"country": "Portugal",
+"key": "Stanflex 300",
+"id": "4397",
+"year": 2015,
+"name": "P 590 Tejo [Stanflex 300]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.12700 Aleksandrit",
+"id": "3620",
+"year": 2016,
+"name": "Aleksandr Obukhov [Pr.12700 Aleksandrit]",
+"type": "MSO - Ocean Minesweeper "
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.18280",
+"id": "2884",
+"year": 2015,
+"name": "SSV Yury Ivanov [Pr.18280]",
+"type": "AGI - Intelligence Gathering Ship "
+},
+{
+"kind": "ship",
+"country": "Russia [1992-]",
+"key": "Pr.19920",
+"id": "4291",
+"year": 2022,
+"name": "BGK-2150 Anatoly Knyazev [Pr.19920]",
+"type": "AGOS - Ocean Surveillance Ship "
+},
+{
+"kind": "ship",
+"country": "Sweden",
+"key": "Artemis",
+"id": "4765",
+"year": 2023,
+"name": "A 202 Artemis",
+"type": "AGI - Intelligence Gathering Ship "
+},
+{
+"kind": "ship",
+"country": "Taiwan",
+"key": "Anping",
+"id": "3439",
+"year": 2020,
+"name": "CG 601 Anping",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Taiwan",
+"key": "Light AAW Frigate",
+"id": "4766",
+"year": 2026,
+"name": "Light AAW Frigate",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Taiwan",
+"key": "Light ASW Frigate",
+"id": "4767",
+"year": 2026,
+"name": "Light ASW Frigate",
+"type": "FF - Frigate"
+},
+{
+"kind": "ship",
+"country": "Taiwan",
+"key": "Min Jiang",
+"id": "3621",
+"year": 2020,
+"name": "FMLB 1 [Min Jiang Class]",
+"type": "ML - Minelayer "
+},
+{
+"kind": "ship",
+"country": "Taiwan",
+"key": "Panshih",
+"id": "3077",
+"year": 2015,
+"name": "AOE 532 Panshih",
+"type": "AOE - Fast Combat Support Ship "
+},
+{
+"kind": "ship",
+"country": "Taiwan",
+"key": "Yu Shan",
+"id": "3397",
+"year": 2022,
+"name": "1401 Yu Shan",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "United Kingdom",
+"key": "BAE 90-Meter (OPV)",
+"id": "3204",
+"year": 2015,
+"name": "BAE 90-Meter (OPV)",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "United States",
+"key": "T-HST-1 Guam",
+"id": "5079",
+"year": 2019,
+"name": "T-HST-1 Guam",
+"type": "EPF - Expeditionary Fast Transport"
+},
+{
+"kind": "sub",
+"country": "Iran",
+"key": "Fateh",
+"id": "450",
+"year": 2019,
+"name": "920 Fateh",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Taiwan",
+"key": "Hai Kun",
+"id": "754",
+"year": 2025,
+"name": "SS 711 Hai Kun",
+"type": "SSK - Hunter-Killer Submarine "
+}
+]

@@ -1,0 +1,4610 @@
+[
+{
+"kind": "air",
+"country": "Afghanistan",
+"key": "A-29B Super Tucano",
+"id": "4354",
+"year": 2016,
+"name": "A-29B Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Afghanistan",
+"key": "Cessna AC-208B Combat Caravan",
+"id": "5362",
+"year": 2017,
+"name": "Cessna AC-208B Combat Caravan",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "C-130J-30 Hercules",
+"id": "5572",
+"year": 2022,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "CH-4B Rainbow",
+"id": "4786",
+"year": 2018,
+"name": "CH-4B Rainbow [Predator Copy] UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "6780",
+"year": 2023,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "Lynx Mk300",
+"id": "4537",
+"year": 2015,
+"name": "Lynx Mk300 [Mk140]",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "Mi-26T2 Halo",
+"id": "4950",
+"year": 2015,
+"name": "Mi-26T2 Halo",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "Mi-28NE Havoc",
+"id": "4583",
+"year": 2016,
+"name": "Mi-28NE Havoc",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "MiG-29M2 Fulcrum E",
+"id": "5628",
+"year": 2021,
+"name": "MiG-29M2 Fulcrum E",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "Su-35S Flanker M",
+"id": "7629",
+"year": 2025,
+"name": "Su-35S Flanker M",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Algeria",
+"key": "Yabhon United 40 Blk 5 UAV",
+"id": "5775",
+"year": 2018,
+"name": "Yabhon United 40 Blk 5 UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Angola",
+"key": "Kodiak 100",
+"id": "7104",
+"year": 2021,
+"name": "Kodiak 100",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Angola",
+"key": "Su-30MK Flanker G",
+"id": "4465",
+"year": 2016,
+"name": "Su-30MK Flanker G",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "AW-109M Agusta",
+"id": "6967",
+"year": 2024,
+"name": "AW-109M Agusta",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "BT-67A Turbo Dakota",
+"id": "7212",
+"year": 2024,
+"name": "BT-67A Turbo Dakota [DC-3]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "F-16AM Falcon MLU",
+"id": "7227",
+"year": 2024,
+"name": "F-16AM Falcon MLU",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "P-3C Orion Update III",
+"id": "7009",
+"year": 2023,
+"name": "P-3C Orion Update III",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "P-3N Orion",
+"id": "7010",
+"year": 2023,
+"name": "P-3N Orion",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "SH-3H Sea King",
+"id": "5516",
+"year": 2022,
+"name": "SH-3H Sea King",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Argentina",
+"key": "TC-12B Huron",
+"id": "7260",
+"year": 2023,
+"name": "TC-12B Huron [B-200 Cormoran]",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Armenia",
+"key": "Mi-17V5 Hip",
+"id": "6927",
+"year": 2022,
+"name": "Mi-17V5 Hip",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Armenia",
+"key": "Su-30SM Flanker G",
+"id": "5688",
+"year": 2019,
+"name": "Su-30SM Flanker G",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Austria",
+"key": "KC-390 Millennium",
+"id": "6965",
+"year": 2024,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "AB.412EP",
+"id": "6945",
+"year": 2018,
+"name": "AB.412EP",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "Bayraktar Akinci UCAV",
+"id": "6950",
+"year": 2025,
+"name": "Bayraktar Akinci UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "Bayraktar TB2 UCAV",
+"id": "5397",
+"year": 2020,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "Bell 407",
+"id": "6961",
+"year": 2016,
+"name": "Bell 407",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "C-27J Spartan",
+"id": "6750",
+"year": 2024,
+"name": "C-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "Mi-17V5 Hip H",
+"id": "6798",
+"year": 2021,
+"name": "Mi-17V5 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "Mi-8MTV Hip H",
+"id": "6799",
+"year": 2021,
+"name": "Mi-8MTV Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Azerbaijan",
+"key": "MiG-29 Fulcrum C",
+"id": "7027",
+"year": 2018,
+"name": "MiG-29 Fulcrum C",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Bahrain",
+"key": "AH-1FB Cobra",
+"id": "6271",
+"year": 2022,
+"name": "AH-1FB Cobra",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Bahrain",
+"key": "AH-1W Super Cobra",
+"id": "6671",
+"year": 2024,
+"name": "AH-1W Super Cobra",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Bahrain",
+"key": "AH-1Z Viper",
+"id": "5194",
+"year": 2021,
+"name": "AH-1Z Viper [Super Cobra]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Bahrain",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "4953",
+"year": 2024,
+"name": "F-16V Blk 70/72 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Bahrain",
+"key": "Hercules C.5",
+"id": "6275",
+"year": 2018,
+"name": "Hercules C.5 [C-130J]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Bangladesh",
+"key": "Bayraktar TB2 UCAV",
+"id": "5951",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Bangladesh",
+"key": "F-7BGI Fishcan",
+"id": "4983",
+"year": 2020,
+"name": "F-7BGI Fishcan [MiG-21 Copy]",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Bangladesh",
+"key": "Hercules C.5",
+"id": "6759",
+"year": 2019,
+"name": "Hercules C.5 [C-130J]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Belarus [1992-]",
+"key": "Mi-17V5 Hip",
+"id": "5900",
+"year": 2016,
+"name": "Mi-17V5 Hip",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Belarus [1992-]",
+"key": "Mi-35M Hind E",
+"id": "7003",
+"year": 2023,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Belarus [1992-]",
+"key": "Su-30M2 Flanker G",
+"id": "7695",
+"year": 2025,
+"name": "Su-30M2 Flanker G",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Belarus [1992-]",
+"key": "Su-30SM Flanker H",
+"id": "5910",
+"year": 2020,
+"name": "Su-30SM Flanker H",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Benin [1961-]",
+"key": "AS.332B1 Super Puma",
+"id": "6819",
+"year": 2023,
+"name": "AS.332B1 Super Puma",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "A-4KU Skyhawk",
+"id": "5729",
+"year": 2015,
+"name": "A-4KU Skyhawk [AF-1B Falcao]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "AMX",
+"id": "2945",
+"year": 2015,
+"name": "AMX [A-1M]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "Airbus A.330-200 MRTT",
+"id": "6065",
+"year": 2023,
+"name": "Airbus A.330-200 MRTT [KC-30]",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "EMB-145 AEWC",
+"id": "5887",
+"year": 2020,
+"name": "EMB-145 AEWC [E-99M]",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "EMB-145 RS",
+"id": "5797",
+"year": 2021,
+"name": "EMB-145 RS [R-99B]",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "F-5EM Tiger II",
+"id": "6373",
+"year": 2019,
+"name": "F-5EM Tiger II [F-5BR]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "F-5FM Tiger II",
+"id": "6372",
+"year": 2019,
+"name": "F-5FM Tiger II [F-5BR]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "H225M",
+"id": "6005",
+"year": 2021,
+"name": "H225M [UH-15 Super Cougar]",
+"type": "Naval Utility"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "Heron UAV",
+"id": "5826",
+"year": 2019,
+"name": "Heron UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "JAS 39E Gripen NG",
+"id": "5004",
+"year": 2021,
+"name": "JAS 39E Gripen NG",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "KC-390 Millennium",
+"id": "4013",
+"year": 2018,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "P-3AM Orion",
+"id": "5829",
+"year": 2016,
+"name": "P-3AM Orion",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "P-95M",
+"id": "5796",
+"year": 2015,
+"name": "P-95M [EMB-111BM Bandeirulha]",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "S-70B Seahawk",
+"id": "5828",
+"year": 2021,
+"name": "S-70B Seahawk [SH-16]",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "TA-4KU Skyhawk",
+"id": "4397",
+"year": 2016,
+"name": "TA-4KU Skyhawk [AF-1MA Falcao]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "UH-17",
+"id": "5496",
+"year": 2020,
+"name": "UH-17 [H.135 T3]",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Brazil",
+"key": "Wild Lynx Mk21B",
+"id": "5780",
+"year": 2019,
+"name": "Wild Lynx Mk21B [AH-11B]",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Brunei",
+"key": "C-295MW",
+"id": "6174",
+"year": 2023,
+"name": "C-295MW",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Burkina Faso [1960-]",
+"key": "Bayraktar Akinci UCAV",
+"id": "7205",
+"year": 2024,
+"name": "Bayraktar Akinci UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Burkina Faso [1960-]",
+"key": "Bayraktar TB2 UCAV",
+"id": "6045",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Cameroon",
+"key": "Cessna 208B Grand Caravan EX",
+"id": "7459",
+"year": 2018,
+"name": "Cessna 208B Grand Caravan EX",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Cameroon",
+"key": "Mi-17 Hip H",
+"id": "4394",
+"year": 2015,
+"name": "Mi-17 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Cameroon",
+"key": "Mi-24V Hind E",
+"id": "7276",
+"year": 2016,
+"name": "Mi-24V Hind E [Mi-35]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Cameroon",
+"key": "Z-9WE Haitun",
+"id": "4395",
+"year": 2015,
+"name": "Z-9WE Haitun",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Chad [1960-]",
+"key": "Aksungur UCAV",
+"id": "7214",
+"year": 2024,
+"name": "Aksungur UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Chad [1960-]",
+"key": "Anka-S UAV",
+"id": "6781",
+"year": 2023,
+"name": "Anka-S UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Chile",
+"key": "E-3D Sentry",
+"id": "5555",
+"year": 2022,
+"name": "E-3D Sentry",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "Chile",
+"key": "KC-130R Hercules",
+"id": "7239",
+"year": 2016,
+"name": "KC-130R Hercules",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Colombia",
+"key": "AH-60L Arpia IV",
+"id": "4250",
+"year": 2015,
+"name": "AH-60L Arpia IV [Blackhawk]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Djibouti [1977-]",
+"key": "Bayraktar TB2 UCAV",
+"id": "5875",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Dominican Republic",
+"key": "Cessna 208B Grand Caravan EX",
+"id": "6237",
+"year": 2022,
+"name": "Cessna 208B Grand Caravan EX",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Dominican Republic",
+"key": "Cessna 404 Titan",
+"id": "6239",
+"year": 2016,
+"name": "Cessna 404 Titan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Ecuador",
+"key": "AW.119Ke",
+"id": "5520",
+"year": 2019,
+"name": "AW.119Ke",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Ecuador",
+"key": "H145",
+"id": "5517",
+"year": 2019,
+"name": "H145",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "AW.149",
+"id": "6741",
+"year": 2021,
+"name": "AW.149",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "C-130J-30 Hercules",
+"id": "5574",
+"year": 2022,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "CH-47F Chinook",
+"id": "5819",
+"year": 2022,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "F-16CJ Blk 52 Falcon",
+"id": "3720",
+"year": 2015,
+"name": "F-16CJ Blk 52 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "F-16DJ Blk 52 Falcon",
+"id": "3721",
+"year": 2015,
+"name": "F-16DJ Blk 52 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "FA-50 Golden Eagle",
+"id": "6442",
+"year": 2023,
+"name": "FA-50 Golden Eagle",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "4788",
+"year": 2018,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "Il-76MF Candid B",
+"id": "5807",
+"year": 2019,
+"name": "Il-76MF Candid B",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "Ka-52 Hokum B",
+"id": "4988",
+"year": 2018,
+"name": "Ka-52 Hokum B [Nile Crocodile]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "Ka-52K Hokum B",
+"id": "5073",
+"year": 2018,
+"name": "Ka-52K Hokum B [Katran]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "MiG-29M2 Fulcrum E",
+"id": "4868",
+"year": 2019,
+"name": "MiG-29M2 Fulcrum E",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "MiG-35 Fulcrum F",
+"id": "4985",
+"year": 2020,
+"name": "MiG-35 Fulcrum F",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Egypt",
+"key": "NH90 NFH",
+"id": "4364",
+"year": 2017,
+"name": "NH90 NFH",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Equatorial Guinea",
+"key": "Z-9WE Haitun",
+"id": "7604",
+"year": 2024,
+"name": "Z-9WE Haitun",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ethiopia",
+"key": "Bayraktar Akinci UCAV",
+"id": "7106",
+"year": 2024,
+"name": "Bayraktar Akinci UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Ethiopia",
+"key": "Bayraktar TB2 UCAV",
+"id": "5923",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Ethiopia",
+"key": "GJ-1 Wing Loong I UAV",
+"id": "5733",
+"year": 2021,
+"name": "GJ-1 Wing Loong I UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Ethiopia",
+"key": "Su-30MK Flanker G",
+"id": "7105",
+"year": 2024,
+"name": "Su-30MK Flanker G",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Honduras",
+"key": "H145",
+"id": "7217",
+"year": 2023,
+"name": "H145",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "A.400M Atlas",
+"id": "5470",
+"year": 2022,
+"name": "A.400M Atlas",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "AH-64E Apache Guardian",
+"id": "4088",
+"year": 2018,
+"name": "AH-64E Apache Guardian",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "AS.550 Fennec",
+"id": "4091",
+"year": 2016,
+"name": "AS.550 Fennec",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "AS.555 Fennec",
+"id": "4090",
+"year": 2016,
+"name": "AS.555 Fennec",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "AS.565MBe Panther",
+"id": "4096",
+"year": 2018,
+"name": "AS.565MBe Panther",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "Airbus A.330-200 MRTT",
+"id": "6898",
+"year": 2024,
+"name": "Airbus A.330-200 MRTT",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "Anka-S UAV",
+"id": "7124",
+"year": 2024,
+"name": "Anka-S UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "Bell 412EPI",
+"id": "5334",
+"year": 2020,
+"name": "Bell 412EPI",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "C-130H Hercules",
+"id": "5455",
+"year": 2022,
+"name": "C-130H Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "C-130J-30 Hercules",
+"id": "6153",
+"year": 2023,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "CH-4B Rainbow",
+"id": "5195",
+"year": 2019,
+"name": "CH-4B Rainbow [Predator Copy] UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "Elang Hitam UAV",
+"id": "5939",
+"year": 2022,
+"name": "Elang Hitam UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "F-15EX Eagle II",
+"id": "6887",
+"year": 2024,
+"name": "F-15EX Eagle II",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "Falcon 8X",
+"id": "7071",
+"year": 2023,
+"name": "Falcon 8X",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "NC-212i",
+"id": "5444",
+"year": 2022,
+"name": "NC-212i",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "Rafale C",
+"id": "5589",
+"year": 2027,
+"name": "Rafale C",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Indonesia",
+"key": "S-70M Blackhawk",
+"id": "6888",
+"year": 2023,
+"name": "S-70M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "Bell 412EPX",
+"id": "6480",
+"year": 2023,
+"name": "Bell 412EPX",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "CH-4B Rainbow",
+"id": "4539",
+"year": 2015,
+"name": "CH-4B Rainbow [Predator Copy] UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "CH-5 Rainbow UCAV",
+"id": "7123",
+"year": 2023,
+"name": "CH-5 Rainbow UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "F-16C Blk 52IQ Falcon",
+"id": "3719",
+"year": 2015,
+"name": "F-16C Blk 52IQ Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "IA-407",
+"id": "6482",
+"year": 2017,
+"name": "IA-407",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "IA-407M",
+"id": "6483",
+"year": 2023,
+"name": "IA-407M",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "L-159A Alca",
+"id": "4604",
+"year": 2015,
+"name": "L-159A Alca",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "L-159T1 Alca",
+"id": "6765",
+"year": 2015,
+"name": "L-159T1 Alca",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "Mi-28NE Havoc",
+"id": "3785",
+"year": 2015,
+"name": "Mi-28NE Havoc",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Iraq",
+"key": "T-50IQ Golden Eagle",
+"id": "5339",
+"year": 2022,
+"name": "T-50IQ Golden Eagle",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Ireland",
+"key": "C-295MPA",
+"id": "6783",
+"year": 2023,
+"name": "C-295MPA",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "AW.101 Merlin Mk.518",
+"id": "3899",
+"year": 2017,
+"name": "AW.101 Merlin Mk.518 [CH-101]",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "AW.101 Merlin Mk.518 AMCM",
+"id": "3898",
+"year": 2017,
+"name": "AW.101 Merlin Mk.518 AMCM [MCH-101]",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "Bell 412EPX",
+"id": "5872",
+"year": 2025,
+"name": "Bell 412EPX",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "C-2",
+"id": "2937",
+"year": 2015,
+"name": "C-2",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "H225M",
+"id": "7207",
+"year": 2024,
+"name": "H225M",
+"type": "Naval Utility"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "MQ-9B Guardian UAV",
+"id": "5897",
+"year": 2022,
+"name": "MQ-9B Guardian UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "MV-22B Osprey",
+"id": "4317",
+"year": 2017,
+"name": "MV-22B Osprey",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "RC-2",
+"id": "4744",
+"year": 2020,
+"name": "RC-2",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "RQ-4B Global Hawk UAV",
+"id": "4541",
+"year": 2023,
+"name": "RQ-4B Global Hawk UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Japan",
+"key": "UH-2",
+"id": "5290",
+"year": 2022,
+"name": "UH-2 [Bell 412EPX]",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Jordan",
+"key": "AC-235 Pocket Gunship",
+"id": "3939",
+"year": 2015,
+"name": "AC-235 Pocket Gunship",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Jordan",
+"key": "AC-295 Pocket Gunship",
+"id": "3940",
+"year": 2016,
+"name": "AC-295 Pocket Gunship",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Jordan",
+"key": "CH-4B Rainbow",
+"id": "6657",
+"year": 2016,
+"name": "CH-4B Rainbow [Predator Copy] UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Jordan",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "5859",
+"year": 2022,
+"name": "F-16V Blk 70/72 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Jordan",
+"key": "Mi-26T2 Halo",
+"id": "5789",
+"year": 2018,
+"name": "Mi-26T2 Halo",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "A.400M Atlas",
+"id": "5371",
+"year": 2024,
+"name": "A.400M Atlas",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "Anka+A UCAV",
+"id": "5895",
+"year": 2022,
+"name": "Anka+A UCAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "C-295M",
+"id": "5550",
+"year": 2019,
+"name": "C-295M",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "GJ-1 Wing Loong I UAV",
+"id": "4595",
+"year": 2016,
+"name": "GJ-1 Wing Loong I UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "Mi-35M Hind E",
+"id": "6468",
+"year": 2016,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "Su-30SM Flanker G",
+"id": "6471",
+"year": 2015,
+"name": "Su-30SM Flanker G",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Kazakhstan [1992-]",
+"key": "Y-8F-200W Cub",
+"id": "5707",
+"year": 2018,
+"name": "Y-8F-200W Cub",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Kenya",
+"key": "AH-1F Cobra",
+"id": "4812",
+"year": 2019,
+"name": "AH-1F Cobra",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Kenya",
+"key": "AS.550 Fennec",
+"id": "7286",
+"year": 2018,
+"name": "AS.550 Fennec",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Kenya",
+"key": "Bayraktar TB2 UCAV",
+"id": "7464",
+"year": 2025,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Kuwait",
+"key": "Bayraktar TB2 UCAV",
+"id": "6297",
+"year": 2023,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Kuwait",
+"key": "EF2000 Typhoon",
+"id": "4586",
+"year": 2020,
+"name": "EF2000 Typhoon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Kuwait",
+"key": "F/A-18E Super Hornet Blk III",
+"id": "5387",
+"year": 2021,
+"name": "F/A-18E Super Hornet Blk III",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Kuwait",
+"key": "F/A-18F Super Hornet Blk III",
+"id": "5388",
+"year": 2021,
+"name": "F/A-18F Super Hornet Blk III",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Kuwait",
+"key": "H225M",
+"id": "6369",
+"year": 2021,
+"name": "H225M",
+"type": "Naval Utility"
+},
+{
+"kind": "air",
+"country": "Kyrgyzstan",
+"key": "Bayraktar TB2 UCAV",
+"id": "6195",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Lebanon",
+"key": "A-29A Super Tucano",
+"id": "4823",
+"year": 2019,
+"name": "A-29A Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Lebanon",
+"key": "MH-6M Little Bird",
+"id": "5407",
+"year": 2021,
+"name": "MH-6M Little Bird [MD-530F]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Libya",
+"key": "Bayraktar TB2 UCAV",
+"id": "5396",
+"year": 2019,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Malaysia",
+"key": "A.400M Atlas",
+"id": "5805",
+"year": 2015,
+"name": "A.400M Atlas",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Malaysia",
+"key": "ATR-72MP",
+"id": "6091",
+"year": 2025,
+"name": "ATR-72MP",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "Malaysia",
+"key": "AW.139",
+"id": "6156",
+"year": 2022,
+"name": "AW.139",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Malaysia",
+"key": "Anka-S UAV",
+"id": "6090",
+"year": 2025,
+"name": "Anka-S UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Malaysia",
+"key": "CN-235-220M",
+"id": "5993",
+"year": 2022,
+"name": "CN-235-220M",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Malaysia",
+"key": "FA-50M Golden Eagle",
+"id": "7671",
+"year": 2030,
+"name": "FA-50M Golden Eagle",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Maldives [1965-]",
+"key": "Bayraktar TB2 UCAV",
+"id": "7216",
+"year": 2024,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "A-29B Super Tucano",
+"id": "6219",
+"year": 2018,
+"name": "A-29B Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "AS.332 Super Puma",
+"id": "6215",
+"year": 2016,
+"name": "AS.332 Super Puma",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Bayraktar Akinci UCAV",
+"id": "7460",
+"year": 2024,
+"name": "Bayraktar Akinci UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Bayraktar TB2 UCAV",
+"id": "6220",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Boeing 737-700 BBJ",
+"id": "6225",
+"year": 2015,
+"name": "Boeing 737-700 BBJ",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "C-295MW",
+"id": "6214",
+"year": 2016,
+"name": "C-295MW",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Cessna 208B Grand Caravan EX",
+"id": "6217",
+"year": 2019,
+"name": "Cessna 208B Grand Caravan EX",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Mi-24P Hind F",
+"id": "6213",
+"year": 2022,
+"name": "Mi-24P Hind F",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Mi-35M Hind E",
+"id": "6218",
+"year": 2017,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Mi-8MT Hip H",
+"id": "6211",
+"year": 2022,
+"name": "Mi-8MT Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Su-25 Frogfoot A",
+"id": "6222",
+"year": 2022,
+"name": "Su-25 Frogfoot A",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Mali [1960-]",
+"key": "Y-12 (II)",
+"id": "6223",
+"year": 2017,
+"name": "Y-12 (II)",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Mauritania [1960-]",
+"key": "BZK-005E Giant Eagle UAV",
+"id": "7607",
+"year": 2024,
+"name": "BZK-005E Giant Eagle UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "Bayraktar TB2 UCAV",
+"id": "5402",
+"year": 2021,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "C-390 Millennium",
+"id": "7409",
+"year": 2025,
+"name": "C-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "CH-47D Chinook",
+"id": "7098",
+"year": 2015,
+"name": "CH-47D Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "F-16V Blk 70/72 Falcon",
+"id": "4913",
+"year": 2022,
+"name": "F-16V Blk 70/72 Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "GJ-1 Wing Loong I UAV",
+"id": "6227",
+"year": 2021,
+"name": "GJ-1 Wing Loong I UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "7616",
+"year": 2023,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Morocco",
+"key": "Harfang UAV",
+"id": "5383",
+"year": 2020,
+"name": "Harfang UAV [Heron Mod]",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "AS.365N2 Dauphin 2",
+"id": "5502",
+"year": 2021,
+"name": "AS.365N2 Dauphin 2",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "FTC-2000G Mountain Eagle",
+"id": "6145",
+"year": 2022,
+"name": "FTC-2000G Mountain Eagle",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "JF-17A Thunder Blk 2",
+"id": "5730",
+"year": 2018,
+"name": "JF-17A Thunder Blk 2 [FC-1]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "JF-17B Thunder Blk 2",
+"id": "5731",
+"year": 2018,
+"name": "JF-17B Thunder Blk 2 [FC-1B]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "Ka-28PL Helix A",
+"id": "7582",
+"year": 2022,
+"name": "Ka-28PL Helix A",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "Su-30SME Flanker G",
+"id": "5919",
+"year": 2022,
+"name": "Su-30SME Flanker G",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "Y-12 (II)",
+"id": "5501",
+"year": 2016,
+"name": "Y-12 (II)",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "Y-8D Cub",
+"id": "7603",
+"year": 2016,
+"name": "Y-8D Cub",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Myanmar",
+"key": "Y-8F-200W Cub",
+"id": "7602",
+"year": 2024,
+"name": "Y-8F-200W Cub",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Namibia",
+"key": "Y-9 Cub",
+"id": "7573",
+"year": 2024,
+"name": "Y-9 Cub",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Namibia",
+"key": "Y-9E Cub",
+"id": "7605",
+"year": 2024,
+"name": "Y-9E Cub",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Nepal",
+"key": "M28 Skytruck",
+"id": "6368",
+"year": 2019,
+"name": "M28 Skytruck [An-28 Copy]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "New Zealand",
+"key": "C-130J-30 Hercules",
+"id": "5137",
+"year": 2024,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "New Zealand",
+"key": "P-8A Poseidon",
+"id": "4742",
+"year": 2023,
+"name": "P-8A Poseidon",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Niger",
+"key": "AB.412EP",
+"id": "6109",
+"year": 2022,
+"name": "AB.412EP",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Niger",
+"key": "Aksungur UCAV",
+"id": "7694",
+"year": 2025,
+"name": "Aksungur UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Niger",
+"key": "Bayraktar TB2 UCAV",
+"id": "5476",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Niger",
+"key": "C-130H Hercules",
+"id": "5492",
+"year": 2021,
+"name": "C-130H Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Niger",
+"key": "Cessna 208B Grand Caravan EX",
+"id": "7458",
+"year": 2016,
+"name": "Cessna 208B Grand Caravan EX",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "A-29A Super Tucano",
+"id": "4825",
+"year": 2020,
+"name": "A-29A Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "AH-1Z Viper",
+"id": "7077",
+"year": 2024,
+"name": "AH-1Z Viper [Super Cobra]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "AW-109M Agusta",
+"id": "6681",
+"year": 2018,
+"name": "AW-109M Agusta",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "AW.139",
+"id": "5548",
+"year": 2018,
+"name": "AW.139",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "Bayraktar TB2 UCAV",
+"id": "6043",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "CH-4B Rainbow",
+"id": "7372",
+"year": 2020,
+"name": "CH-4B Rainbow [Predator Copy] UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "Cessna CJ3 SMA",
+"id": "7031",
+"year": 2021,
+"name": "Cessna CJ3 SMA",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "Diamond DA62",
+"id": "6991",
+"year": 2023,
+"name": "Diamond DA62",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "Do 228-212",
+"id": "7461",
+"year": 2025,
+"name": "Do 228-212",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "GJ-1 Wing Loong I UAV",
+"id": "6659",
+"year": 2021,
+"name": "GJ-1 Wing Loong I UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "7619",
+"year": 2021,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "JF-17N Thunder Blk 2",
+"id": "5261",
+"year": 2021,
+"name": "JF-17N Thunder Blk 2 [JF-17A, FC-1]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "M.346FA Master",
+"id": "5262",
+"year": 2025,
+"name": "M.346FA Master",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Nigeria",
+"key": "T-129B ATAK Raid Helicopter",
+"id": "5945",
+"year": 2022,
+"name": "T-129B ATAK Raid Helicopter",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Oman",
+"key": "C-295MPA",
+"id": "3942",
+"year": 2015,
+"name": "C-295MPA",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Oman",
+"key": "EF2000 Typhoon",
+"id": "6244",
+"year": 2017,
+"name": "EF2000 Typhoon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "ATR-72 ASW",
+"id": "5737",
+"year": 2019,
+"name": "ATR-72 ASW [RAS-72-500 Sea Eagle]",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Bayraktar Akinci UCAV",
+"id": "7001",
+"year": 2024,
+"name": "Bayraktar Akinci UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Bayraktar TB2 UCAV",
+"id": "5708",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "7620",
+"year": 2021,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "J-10CE Firebird",
+"id": "5521",
+"year": 2022,
+"name": "J-10CE Firebird",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "JF-17A Thunder Blk 1",
+"id": "7627",
+"year": 2019,
+"name": "JF-17A Thunder Blk 1 [FC-1]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "JF-17A Thunder Blk 2",
+"id": "3298",
+"year": 2015,
+"name": "JF-17A Thunder Blk 2 [FC-1]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "JF-17B Thunder Blk 1",
+"id": "7628",
+"year": 2019,
+"name": "JF-17B Thunder Blk 1 [FC-1B]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "JF-17B Thunder Blk 2",
+"id": "4729",
+"year": 2015,
+"name": "JF-17B Thunder Blk 2 [FC-1B]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "JF-17C Thunder Blk 3",
+"id": "4827",
+"year": 2022,
+"name": "JF-17C Thunder Blk 3 [FC-1]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Mi-35M Hind E",
+"id": "4509",
+"year": 2017,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Sea King Commando Mk3",
+"id": "5587",
+"year": 2021,
+"name": "Sea King Commando Mk3",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Y-8J Cub",
+"id": "7415",
+"year": 2016,
+"name": "Y-8J Cub [ZDK-03]",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Z-10 Fierce Thunderbolt",
+"id": "4032",
+"year": 2017,
+"name": "Z-10 Fierce Thunderbolt",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Pakistan",
+"key": "Z-10ME Fierce Thunderbolt",
+"id": "7033",
+"year": 2023,
+"name": "Z-10ME Fierce Thunderbolt",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Papua New Guinea",
+"key": "P-750",
+"id": "5119",
+"year": 2018,
+"name": "P-750",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Paraguay",
+"key": "A-29B Super Tucano",
+"id": "7587",
+"year": 2025,
+"name": "A-29B Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Peru",
+"key": "JAS 39C Gripen",
+"id": "7696",
+"year": 2028,
+"name": "JAS 39C Gripen",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Peru",
+"key": "SH-2G Seasprite",
+"id": "4406",
+"year": 2017,
+"name": "SH-2G Seasprite",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Peru",
+"key": "SH-3H Sea King",
+"id": "7251",
+"year": 2023,
+"name": "SH-3H Sea King",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "A-29B Super Tucano",
+"id": "5100",
+"year": 2020,
+"name": "A-29B Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "AH-1F Cobra",
+"id": "4810",
+"year": 2020,
+"name": "AH-1F Cobra",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "AW.159 Wildcat Mk210",
+"id": "5103",
+"year": 2019,
+"name": "AW.159 Wildcat Mk210",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "Agusta A-109 Power",
+"id": "4765",
+"year": 2015,
+"name": "Agusta A-109 Power",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "Bo-105C",
+"id": "5530",
+"year": 2021,
+"name": "Bo-105C",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "C-130H Hercules",
+"id": "5098",
+"year": 2021,
+"name": "C-130H Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "C-130J-30 Hercules",
+"id": "7008",
+"year": 2026,
+"name": "C-130J-30 Hercules",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "C-295M",
+"id": "5735",
+"year": 2021,
+"name": "C-295M",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "Cessna 208B Grand Caravan EX",
+"id": "5380",
+"year": 2021,
+"name": "Cessna 208B Grand Caravan EX",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "FA-50PH Golden Eagle",
+"id": "6905",
+"year": 2020,
+"name": "FA-50PH Golden Eagle",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "NC-212i",
+"id": "6639",
+"year": 2018,
+"name": "NC-212i",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "OV-10G+ Bronco",
+"id": "5777",
+"year": 2018,
+"name": "OV-10G+ Bronco [Combat Dragon II]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "S-70i Blackhawk",
+"id": "5099",
+"year": 2020,
+"name": "S-70i Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Philippines",
+"key": "T-129B ATAK Raid Helicopter",
+"id": "5265",
+"year": 2021,
+"name": "T-129B ATAK Raid Helicopter",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "AH-64E Apache Guardian",
+"id": "4434",
+"year": 2020,
+"name": "AH-64E Apache Guardian",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "Bayraktar TB2 UCAV",
+"id": "5398",
+"year": 2020,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "EF2000 Typhoon",
+"id": "6288",
+"year": 2022,
+"name": "EF2000 Typhoon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "F-15QA Ababil",
+"id": "4770",
+"year": 2022,
+"name": "F-15QA Ababil",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "MQ-9B SkyGuardian UAV",
+"id": "7625",
+"year": 2025,
+"name": "MQ-9B SkyGuardian UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "NH90 NFH",
+"id": "5504",
+"year": 2022,
+"name": "NH90 NFH",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Qatar",
+"key": "NH90 TTH",
+"id": "5503",
+"year": 2022,
+"name": "NH90 TTH",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Rwanda [1962-]",
+"key": "Mi-35M Hind E",
+"id": "7651",
+"year": 2021,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Rwanda [1962-]",
+"key": "SA.342L Gazelle",
+"id": "5632",
+"year": 2022,
+"name": "SA.342L Gazelle",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "Bayraktar Akinci UCAV",
+"id": "6804",
+"year": 2023,
+"name": "Bayraktar Akinci UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "CH-47F Chinook",
+"id": "5570",
+"year": 2022,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "CH-4B Rainbow",
+"id": "4667",
+"year": 2016,
+"name": "CH-4B Rainbow [Predator Copy] UAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "EF2000 Typhoon",
+"id": "3892",
+"year": 2021,
+"name": "EF2000 Typhoon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "5256",
+"year": 2018,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "GlobalEye AEW",
+"id": "4999",
+"year": 2021,
+"name": "GlobalEye AEW [G6000]",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "KC-130J Hercules",
+"id": "5804",
+"year": 2016,
+"name": "KC-130J Hercules",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "MH-60R Seahawk",
+"id": "4715",
+"year": 2019,
+"name": "MH-60R Seahawk",
+"type": "Anti-Submarine Warfare (ASW)"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "S-70 Desert Hawk",
+"id": "5513",
+"year": 2021,
+"name": "S-70 Desert Hawk [UH-60M]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Saudi Arabia",
+"key": "TB-001 Twin-Tailed Scorpion UCAV",
+"id": "7618",
+"year": 2025,
+"name": "TB-001 Twin-Tailed Scorpion UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Senegal",
+"key": "C-295M",
+"id": "5948",
+"year": 2022,
+"name": "C-295M",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Senegal",
+"key": "CN-235-220",
+"id": "5706",
+"year": 2021,
+"name": "CN-235-220",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Serbia [1992-]",
+"key": "C-295M",
+"id": "5437",
+"year": 2022,
+"name": "C-295M",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Serbia [1992-]",
+"key": "Mi-17V5 Hip H",
+"id": "7655",
+"year": 2016,
+"name": "Mi-17V5 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Serbia [1992-]",
+"key": "Mi-35M Hind E",
+"id": "6068",
+"year": 2019,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Serbia [1992-]",
+"key": "Mi-35P Hind F",
+"id": "7234",
+"year": 2023,
+"name": "Mi-35P Hind F",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Serbia [1992-]",
+"key": "MiG-29SM+ Fulcrum C",
+"id": "5795",
+"year": 2021,
+"name": "MiG-29SM+ Fulcrum C",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "Airbus A.330-200 MRTT",
+"id": "4861",
+"year": 2018,
+"name": "Airbus A.330-200 MRTT [Phoenix]",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "CH-47F Chinook",
+"id": "5264",
+"year": 2021,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "F-16CJ Blk 52 Falcon",
+"id": "6654",
+"year": 2022,
+"name": "F-16CJ Blk 52 Falcon [Peace Carvin II/III]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "F-16DJ Blk 52 Falcon",
+"id": "6490",
+"year": 2017,
+"name": "F-16DJ Blk 52 Falcon [Peace Carvin II/III]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "F-16DJ Blk 52+ Falcon",
+"id": "6655",
+"year": 2022,
+"name": "F-16DJ Blk 52+ Falcon [Peace Carvin IV]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "F-35A Lightning II",
+"id": "7122",
+"year": 2025,
+"name": "F-35A Lightning II",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "F-35B Lightning II",
+"id": "6440",
+"year": 2026,
+"name": "F-35B Lightning II",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "H225M",
+"id": "5130",
+"year": 2021,
+"name": "H225M [EC.725 Caracal]",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Singapore",
+"key": "P-8A Poseidon",
+"id": "7691",
+"year": 2026,
+"name": "P-8A Poseidon",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Somalia",
+"key": "T-129B ATAK Raid Helicopter",
+"id": "7659",
+"year": 2025,
+"name": "T-129B ATAK Raid Helicopter",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "CH-47F Chinook",
+"id": "5938",
+"year": 2022,
+"name": "CH-47F Chinook",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "Heron UAV",
+"id": "7040",
+"year": 2016,
+"name": "Heron UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "KC-390 Millennium",
+"id": "7065",
+"year": 2025,
+"name": "KC-390 Millennium",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "KUH-1 Amphibious",
+"id": "4497",
+"year": 2017,
+"name": "KUH-1 Amphibious",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "South Korea",
+"key": "RQ-4B Global Hawk UAV",
+"id": "3961",
+"year": 2019,
+"name": "RQ-4B Global Hawk UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Sri Lanka",
+"key": "AB.212",
+"id": "7109",
+"year": 2024,
+"name": "AB.212",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Sri Lanka",
+"key": "Do 228-101",
+"id": "6152",
+"year": 2022,
+"name": "Do 228-101",
+"type": "Maritime Patrol Aircraft (MPA)"
+},
+{
+"kind": "air",
+"country": "Switzerland",
+"key": "F-35A Lightning II",
+"id": "5484",
+"year": 2025,
+"name": "F-35A Lightning II",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Syria",
+"key": "L-39ZA Albatros",
+"id": "4657",
+"year": 2016,
+"name": "L-39ZA Albatros",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Syria",
+"key": "Su-22M-3K Fitter J",
+"id": "4656",
+"year": 2016,
+"name": "Su-22M-3K Fitter J",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Syria",
+"key": "Su-22M-4K Fitter K",
+"id": "4655",
+"year": 2016,
+"name": "Su-22M-4K Fitter K",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Tanzania",
+"key": "C-27J Spartan",
+"id": "7089",
+"year": 2024,
+"name": "C-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Thailand",
+"key": "AH-6I Little Bird",
+"id": "5016",
+"year": 2023,
+"name": "AH-6I Little Bird [MD-530F]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Thailand",
+"key": "Airbus A.330-800 MRTT",
+"id": "7690",
+"year": 2029,
+"name": "Airbus A.330-800 MRTT",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "Thailand",
+"key": "F-5F Tiger II",
+"id": "6446",
+"year": 2022,
+"name": "F-5F Tiger II [F-5TFH Super Tigris]",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Thailand",
+"key": "T-50TH Golden Eagle",
+"id": "5178",
+"year": 2019,
+"name": "T-50TH Golden Eagle",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Timor Leste [1975-]",
+"key": "Cessna 206 Stationair",
+"id": "6454",
+"year": 2022,
+"name": "Cessna 206 Stationair",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Togo",
+"key": "Bayraktar TB2 UCAV",
+"id": "6044",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Tunisia",
+"key": "Bell 412EPX",
+"id": "7632",
+"year": 2025,
+"name": "Bell 412EPX",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Tunisia",
+"key": "Cessna 208B Grand Caravan EX",
+"id": "5693",
+"year": 2022,
+"name": "Cessna 208B Grand Caravan EX",
+"type": "Recon"
+},
+{
+"kind": "air",
+"country": "Turkmenistan",
+"key": "A-29B Super Tucano",
+"id": "5361",
+"year": 2021,
+"name": "A-29B Super Tucano [EMB-314]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Turkmenistan",
+"key": "Bayraktar TB2 UCAV",
+"id": "5399",
+"year": 2020,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Turkmenistan",
+"key": "C-27J Spartan",
+"id": "5360",
+"year": 2021,
+"name": "C-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Turkmenistan",
+"key": "M.346FA Master",
+"id": "5358",
+"year": 2021,
+"name": "M.346FA Master",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "AH-60M Battlehawk",
+"id": "6745",
+"year": 2019,
+"name": "AH-60M Battlehawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "AH-64E Apache Guardian",
+"id": "6031",
+"year": 2023,
+"name": "AH-64E Apache Guardian",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Airbus A.330-200 MRTT",
+"id": "5515",
+"year": 2027,
+"name": "Airbus A.330-200 MRTT",
+"type": "Tanker (Air Refueling)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Bayraktar TB2 UCAV",
+"id": "6473",
+"year": 2022,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "C-17A Globemaster III",
+"id": "4670",
+"year": 2015,
+"name": "C-17A Globemaster III",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Calidus B-250",
+"id": "6365",
+"year": 2019,
+"name": "Calidus B-250",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Cessna 208B Grand Caravan",
+"id": "6363",
+"year": 2020,
+"name": "Cessna 208B Grand Caravan",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "GJ-2 Wing Loong II UCAV",
+"id": "4726",
+"year": 2018,
+"name": "GJ-2 Wing Loong II UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "GlobalEye AEW",
+"id": "5732",
+"year": 2020,
+"name": "GlobalEye AEW [G6000]",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "H225M",
+"id": "6370",
+"year": 2021,
+"name": "H225M",
+"type": "Naval Utility"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "IOMAX Archangel",
+"id": "4470",
+"year": 2016,
+"name": "IOMAX Archangel [S2R-T660]",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "RQ-1 Predator XP UAV",
+"id": "4378",
+"year": 2016,
+"name": "RQ-1 Predator XP UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Rafale C",
+"id": "6371",
+"year": 2027,
+"name": "Rafale C",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "UH-60L Blackhawk",
+"id": "6746",
+"year": 2015,
+"name": "UH-60L Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "UH-60M Blackhawk",
+"id": "6747",
+"year": 2015,
+"name": "UH-60M Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Yabhon United 40 Blk 5 UAV",
+"id": "4375",
+"year": 2017,
+"name": "Yabhon United 40 Blk 5 UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "UAE",
+"key": "Yabhon United 40 Blk 6 MPA UAV",
+"id": "4376",
+"year": 2017,
+"name": "Yabhon United 40 Blk 6 MPA UAV",
+"type": "Unmanned Aerial Vehicle (UAV)"
+},
+{
+"kind": "air",
+"country": "Uganda",
+"key": "Mi-28NE Havoc",
+"id": "5858",
+"year": 2022,
+"name": "Mi-28NE Havoc",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Bayraktar TB2 UCAV",
+"id": "5401",
+"year": 2021,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "EC.225 Super Puma",
+"id": "6871",
+"year": 2021,
+"name": "EC.225 Super Puma",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Ka-226 Hoodlum",
+"id": "5479",
+"year": 2018,
+"name": "Ka-226 Hoodlum",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "L-39ZA Albatros",
+"id": "7213",
+"year": 2024,
+"name": "L-39ZA Albatros",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Mi-17V-5 Hip H",
+"id": "6852",
+"year": 2022,
+"name": "Mi-17V-5 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Mi-24PU1 Hind F",
+"id": "6884",
+"year": 2016,
+"name": "Mi-24PU1 Hind F",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Mi-24V Hind E",
+"id": "6820",
+"year": 2022,
+"name": "Mi-24V Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Mi-8MSB-W Hip H",
+"id": "6885",
+"year": 2018,
+"name": "Mi-8MSB-W Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Mi-8MTV-1 Hip H",
+"id": "6856",
+"year": 2023,
+"name": "Mi-8MTV-1 Hip H",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "MiG-29 Fulcrum C",
+"id": "6847",
+"year": 2023,
+"name": "MiG-29 Fulcrum C",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "MiG-29AS Fulcrum A",
+"id": "6849",
+"year": 2023,
+"name": "MiG-29AS Fulcrum A",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "MiG-29MU2 Fulcrum E",
+"id": "6883",
+"year": 2023,
+"name": "MiG-29MU2 Fulcrum E",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Saab 340 AEW",
+"id": "7238",
+"year": 2024,
+"name": "Saab 340 AEW",
+"type": "Airborne Early Warning (AEW)"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Sea King Mk41",
+"id": "7107",
+"year": 2024,
+"name": "Sea King Mk41",
+"type": "Area Surveillance"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Su-25M1 Frogfoot A",
+"id": "6879",
+"year": 2022,
+"name": "Su-25M1 Frogfoot A",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Su-25M1K Frogfoot A",
+"id": "6880",
+"year": 2022,
+"name": "Su-25M1K Frogfoot A",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Su-27P1M Flanker B",
+"id": "6863",
+"year": 2015,
+"name": "Su-27P1M Flanker B",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "Su-27S1M Flanker B",
+"id": "6892",
+"year": 2023,
+"name": "Su-27S1M Flanker B",
+"type": "Fighter"
+},
+{
+"kind": "air",
+"country": "Ukraine [1992-]",
+"key": "UH-60A Blackhawk",
+"id": "6441",
+"year": 2023,
+"name": "UH-60A Blackhawk",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Uzbekistan",
+"key": "Bayraktar TB2 UCAV",
+"id": "7068",
+"year": 2023,
+"name": "Bayraktar TB2 UCAV",
+"type": "Unmanned Combat Aerial Vehicle (UCAV)"
+},
+{
+"kind": "air",
+"country": "Uzbekistan",
+"key": "C-295MW",
+"id": "7579",
+"year": 2016,
+"name": "C-295MW",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Uzbekistan",
+"key": "Mi-35M Hind E",
+"id": "7591",
+"year": 2021,
+"name": "Mi-35M Hind E",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Vietnam [1975-]",
+"key": "C-295M",
+"id": "7257",
+"year": 2016,
+"name": "C-295M",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Yemen [1990-]",
+"key": "AT-802i Blk 2",
+"id": "4472",
+"year": 2015,
+"name": "AT-802i Blk 2",
+"type": "Attack"
+},
+{
+"kind": "air",
+"country": "Zambia",
+"key": "Bell 412EPX",
+"id": "7624",
+"year": 2025,
+"name": "Bell 412EPX",
+"type": "Utility"
+},
+{
+"kind": "air",
+"country": "Zambia",
+"key": "C-27J Spartan",
+"id": "5066",
+"year": 2015,
+"name": "C-27J Spartan",
+"type": "Transport"
+},
+{
+"kind": "air",
+"country": "Zambia",
+"key": "L-15Z Falcon",
+"id": "4932",
+"year": 2015,
+"name": "L-15Z Falcon",
+"type": "Multirole (Fighter/Attack)"
+},
+{
+"kind": "ship",
+"country": "Algeria",
+"key": "C28A",
+"id": "2976",
+"year": 2017,
+"name": "920 Adhafer [C28A]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Algeria",
+"key": "El Kasseh",
+"id": "4123",
+"year": 2017,
+"name": "501 El Kasseh",
+"type": "MHC - Coastal Minehunter "
+},
+{
+"kind": "ship",
+"country": "Algeria",
+"key": "Improved San Giorgio",
+"id": "2843",
+"year": 2015,
+"name": "474 Kalaat Beni Abbes [Improved San Giorgio Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Algeria",
+"key": "Meko A-200AN",
+"id": "3020",
+"year": 2016,
+"name": "910 Erradii [Meko A-200AN]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Algeria",
+"key": "Type 056A Jiangdao II",
+"id": "4977",
+"year": 2023,
+"name": "Type 056A Jiangdao II [940 El Moutassadi]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Angola",
+"key": "Damen FRV 7417",
+"id": "3916",
+"year": 2018,
+"name": "Baia Farta [Damen FRV 7417]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Angola",
+"key": "Macae Class",
+"id": "2932",
+"year": 2018,
+"name": "Macae Class",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Angola",
+"key": "Ocean Eagle 43",
+"id": "4133",
+"year": 2022,
+"name": "Ocean Eagle 43",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Argentina",
+"key": "Gowind",
+"id": "3533",
+"year": 2020,
+"name": "OPV 87 Bouchard [Gowind Class]",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Azerbaijan",
+"key": "Pr.205U Osa II",
+"id": "4506",
+"year": 2015,
+"name": "G 126 [Pr.205U Osa II]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Azerbaijan",
+"key": "Saar 62",
+"id": "3642",
+"year": 2015,
+"name": "S 201 [Saar 62]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Bahrain",
+"key": "Cyclone",
+"id": "3728",
+"year": 2022,
+"name": "Al Gurairiyah [Cyclone Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Bahrain",
+"key": "FPV-35",
+"id": "4195",
+"year": 2021,
+"name": "12 Mashhoor [FPV-35]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Bahrain",
+"key": "River",
+"id": "3632",
+"year": 2020,
+"name": "80 Al Zubara [River Class, Batch 1b]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Bangladesh",
+"key": "FFG-16 BNS Umar Farooq",
+"id": "3156",
+"year": 2017,
+"name": "FFG-16 BNS Umar Farooq",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Bangladesh",
+"key": "FFG-19 BNS Khalid Bin Walid",
+"id": "3157",
+"year": 2017,
+"name": "FFG-19 BNS Khalid Bin Walid",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Bangladesh",
+"key": "P-911 BNS Madhumati",
+"id": "3160",
+"year": 2015,
+"name": "P-911 BNS Madhumati",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Bangladesh",
+"key": "Type 056",
+"id": "2846",
+"year": 2016,
+"name": "F 111 Shadhinota [Type 056]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Atlantico",
+"id": "3123",
+"year": 2018,
+"name": "A 140 Atlantico",
+"type": "LPH - Amphibious Assault Helicopter Carrier"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "BAE 90-Meter (OPV)",
+"id": "3206",
+"year": 2015,
+"name": "BAE 90-Meter (OPV)",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Foudre",
+"id": "4644",
+"year": 2023,
+"name": "G 40 Bahia [Foudre]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Meko A-100",
+"id": "3908",
+"year": 2025,
+"name": "F 35 Tamandare [Meko A-100]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Brazil",
+"key": "Type 22 Batch 1",
+"id": "4932",
+"year": 2025,
+"name": "F 46 Greenhalgh [Type 22 Batch 1]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Brunei",
+"key": "Fearless",
+"id": "4304",
+"year": 2023,
+"name": "As-Siddiq [Fearless Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Adelaide",
+"id": "5078",
+"year": 2025,
+"name": "FFG 11 Capitan Prat [Adelaide Class, Perry Class]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Karel Doorman",
+"id": "3082",
+"year": 2017,
+"name": "FF 18 Almirante Blanco Encalada [Karel Doorman]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Chile",
+"key": "Type 23",
+"id": "3637",
+"year": 2020,
+"name": "FF 05 Almirante Cochrane [Type 23]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Po Hang",
+"id": "4047",
+"year": 2020,
+"name": "CM 56 Almirante Tono [Po Hang Class, Flight IV]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Colombia",
+"key": "Type FS 1500",
+"id": "2738",
+"year": 2015,
+"name": "CM 51 Almirante Padilla [Type FS 1500]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Cyprus",
+"key": "Saar 62",
+"id": "3145",
+"year": 2018,
+"name": "P 61 Commodore Andreas Ioannides [Saar 62]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Djibouti [1977-]",
+"key": "Stan Patrol 5009",
+"id": "3576",
+"year": 2021,
+"name": "P 20 Capt Elmi Robleh [Stan Patrol 5009]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Djibouti [1977-]",
+"key": "Type 074 Yuhai",
+"id": "3577",
+"year": 2021,
+"name": "Type 074 Yuhai",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Ecuador",
+"key": "Stan Patrol 5009",
+"id": "3231",
+"year": 2017,
+"name": "LG 30 Isla San Cristobal [Stan Patrol 5009]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Abd Barral-Seddeq",
+"id": "3548",
+"year": 2021,
+"name": "710 Abd Barral-Seddeq",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Carlo Bergamini",
+"id": "3520",
+"year": 2020,
+"name": "FFG 1002 Al Galala [Carlo Bergamini Class, FREMM GP]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Cyclone Class",
+"id": "4329",
+"year": 2023,
+"name": "Cyclone Class",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "FREMM ASW",
+"id": "2838",
+"year": 2015,
+"name": "1001 Tahya Misr [FREMM ASW]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Fort",
+"id": "3702",
+"year": 2021,
+"name": "Abu Simbel [Fort Class]",
+"type": "AFS - Combat Stores Ship"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Meko A-200EN",
+"id": "4086",
+"year": 2022,
+"name": "F 904 Al-Aziz [Meko A-200EN]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Mistral",
+"id": "3044",
+"year": 2018,
+"name": "L 1010 Gamal Abdel Nasser [Mistral]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "OPB 41",
+"id": "3547",
+"year": 2020,
+"name": "701 [OPB 41]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Perry",
+"id": "4892",
+"year": 2020,
+"name": "F 911 Alexandria [Perry Class]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Shbab Misr Flight III, Po Hang Class",
+"id": "4421",
+"year": 2017,
+"name": "P 1000 Shbab Misr [Flight III, Po Hang Class]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Egypt",
+"key": "Tarantul III Mod",
+"id": "2964",
+"year": 2016,
+"name": "C 801 Ahmed Fadel [Tarantul III Mod, Pr.1242.1 Molniya]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Fiji",
+"key": "Guardian",
+"id": "3342",
+"year": 2020,
+"name": "401 Savenaca [Guardian Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "90m OPV",
+"id": "3492",
+"year": 2024,
+"name": "878 Butana [90m OPV]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "Arrowhead 140",
+"id": "4476",
+"year": 2027,
+"name": "Red White Frigate [Arrowhead 140]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "Bung Karno",
+"id": "4349",
+"year": 2023,
+"name": "369 Bung Karno",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "CV X TBD",
+"id": "5170",
+"year": 2026,
+"name": "CV X TBD",
+"type": "CV - Aircraft Carrier"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "KCR-60M",
+"id": "3431",
+"year": 2023,
+"name": "625 Kapak [KCR-60M, Batch 3]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "Klewang",
+"id": "3623",
+"year": 2022,
+"name": "688 Golok [Klewang Class]",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "Teluk Bintuni",
+"id": "3249",
+"year": 2021,
+"name": "521 Teluk Lada [Teluk Bintuni Class]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Indonesia",
+"key": "Thaon di Revel",
+"id": "4924",
+"year": 2025,
+"name": "P 433 Marcantonio Colonna [Thaon di Revel Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Ireland",
+"key": "Lake",
+"id": "3653",
+"year": 2024,
+"name": "P 71 Aoibhinn [Lake Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Jamaica [1962-]",
+"key": "Stan FCS 5009",
+"id": "4430",
+"year": 2020,
+"name": "Nanny of the Maroons [Stan FCS 5009]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Awaji",
+"id": "3320",
+"year": 2017,
+"name": "MSO 304 Awaji",
+"type": "MSO - Ocean Minesweeper "
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Mizuho",
+"id": "3813",
+"year": 2019,
+"name": "PLH 41 Mizuho",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Japan",
+"key": "Mod. Shikishima",
+"id": "3809",
+"year": 2020,
+"name": "PLH 33 Reimei [Mod. Shikishima]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Malaysia",
+"key": "Assad",
+"id": "4409",
+"year": 2022,
+"name": "F 136 Laksamana Muhammad Amin [Assad Class]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Malaysia",
+"key": "Ex-WMEC 23 Steadfast",
+"id": "4947",
+"year": 2024,
+"name": "Ex-WMEC 23 Steadfast",
+"type": "WMEC - Coast Guard Medium Endurance Cutter"
+},
+{
+"kind": "ship",
+"country": "Malaysia",
+"key": "Gagah Samudera",
+"id": "3939",
+"year": 2018,
+"name": "271 Gagah Samudera",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Malaysia",
+"key": "Keris",
+"id": "3321",
+"year": 2020,
+"name": "111 Keris",
+"type": "LCS - Littoral Combat Ship"
+},
+{
+"kind": "ship",
+"country": "Malaysia",
+"key": "Mod. Gowind 2500",
+"id": "3926",
+"year": 2025,
+"name": "2501 Maharaja Lela [Mod. Gowind 2500 Class]",
+"type": "LCS - Littoral Combat Ship"
+},
+{
+"kind": "ship",
+"country": "Malaysia",
+"key": "OPV 1800",
+"id": "3933",
+"year": 2023,
+"name": "8305 Tun Fatimah [OPV 1800 Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Malta",
+"key": "Emer",
+"id": "3881",
+"year": 2015,
+"name": "P 62 [Emer Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Malta",
+"key": "OPV 748",
+"id": "4094",
+"year": 2022,
+"name": "P 71 [OPV 748]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mexico",
+"key": "Sigma 10514",
+"id": "4445",
+"year": 2018,
+"name": "F 101 Benito Juarez [Sigma 10514]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Morocco",
+"key": "OPV 1800",
+"id": "4432",
+"year": 2023,
+"name": "TBD [OPV 1800 Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Mozambique",
+"key": "Ocean Eagle 43",
+"id": "3745",
+"year": 2016,
+"name": "Ocean Eagle 43",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Myanmar",
+"key": "5 Series",
+"id": "3517",
+"year": 2021,
+"name": "P 312 [5 Series, FAC (Missile)]",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Myanmar",
+"key": "FF-135",
+"id": "4963",
+"year": 2025,
+"name": "F 19 King Thalun [FF-135 Class]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Myanmar",
+"key": "Kyan Sittha",
+"id": "4913",
+"year": 2024,
+"name": "F 12 Kyan Sittha",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Myanmar",
+"key": "Makassar",
+"id": "3748",
+"year": 2021,
+"name": "1501 Moattama [Makassar Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Myanmar",
+"key": "Pr. PB-049",
+"id": "4401",
+"year": 2020,
+"name": "492 [Pr. PB-049]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Myanmar",
+"key": "Sin Phyu Shin",
+"id": "4881",
+"year": 2023,
+"name": "F 14 Sin Phyu Shin",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Namibia",
+"key": "Type 037IS Haiqing",
+"id": "4976",
+"year": 2017,
+"name": "Type 037IS Haiqing [C 12 Daures]",
+"type": "PC - Submarine Chaser"
+},
+{
+"kind": "ship",
+"country": "New Zealand",
+"key": "Aotearoa",
+"id": "3363",
+"year": 2021,
+"name": "A 11 Aotearoa",
+"type": "AOR - Replenishment Oiler "
+},
+{
+"kind": "ship",
+"country": "Nicaragua",
+"key": "Damen Stan Patrol 4207",
+"id": "4879",
+"year": 2019,
+"name": "409 Soberania I [Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Nigeria",
+"key": "LST 100",
+"id": "3834",
+"year": 2022,
+"name": "LST 1314 Kada [LST 100 Class]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Nigeria",
+"key": "Mod. Andoni",
+"id": "4391",
+"year": 2022,
+"name": "P 275 Oji [Mod. Andoni Class]",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Nigeria",
+"key": "OPV 76",
+"id": "3566",
+"year": 2025,
+"name": "P 203 [OPV 76]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Nigeria",
+"key": "P-18N OPV",
+"id": "2685",
+"year": 2015,
+"name": "F 91 Centenary [P-18N OPV]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Oman",
+"key": "Ofouq",
+"id": "2686",
+"year": 2016,
+"name": "Z 20 Al Seeb [Ofouq Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Pakistan",
+"key": "Damen OPV 2600",
+"id": "4084",
+"year": 2024,
+"name": "TBD [Damen OPV 2600]",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Pakistan",
+"key": "Mod. Damen OPV 1900",
+"id": "3865",
+"year": 2020,
+"name": "F 271 Yarmook [Mod. Damen OPV 1900]",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Pakistan",
+"key": "Type 054A/P Jiangkai II",
+"id": "3568",
+"year": 2021,
+"name": "FFG 261 Tughril [Type 054A/P Jiangkai II]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Papua New Guinea",
+"key": "Guardian",
+"id": "3332",
+"year": 2019,
+"name": "P 401 Ngahau Koula [Guardian Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "Guise Flight IV, Po Hang Class",
+"id": "3579",
+"year": 2021,
+"name": "CM 28 Guise [Flight IV, Po Hang Class]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "Makassar",
+"id": "2706",
+"year": 2016,
+"name": "LPD Paita [Makassar Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Peru",
+"key": "Tacna",
+"id": "2701",
+"year": 2015,
+"name": "ARL 158 Tacna",
+"type": "AOR - Replenishment Oiler "
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "Gabriela Silang",
+"id": "4419",
+"year": 2020,
+"name": "OPV 8301 Gabriela Silang",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "HDP-2200+",
+"id": "4378",
+"year": 2025,
+"name": "HDP-2200+",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "Makassar",
+"id": "3042",
+"year": 2017,
+"name": "LD 601 Tarlac [Makassar Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "Modified Incheon",
+"id": "3545",
+"year": 2022,
+"name": "FF 150 Jose Rizal [Modified Incheon Class]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "Multi-Purpose Assault Craft Mk.3",
+"id": "4702",
+"year": 2017,
+"name": "Multi-Purpose Assault Craft Mk.3",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "Parola",
+"id": "4417",
+"year": 2019,
+"name": "MRRV 4401 Tubbataha [Parola Class]",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Philippines",
+"key": "Teresa Magbanua",
+"id": "3625",
+"year": 2022,
+"name": "9701 Teresa Magbanua",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "ARES 150 Hercules",
+"id": "3274",
+"year": 2020,
+"name": "QC 901 [ARES 150 Hercules]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "C-151",
+"id": "3525",
+"year": 2022,
+"name": "QL 80 Fuwarait [C-151 Class]",
+"type": "LST - Tank Landing Ship"
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "Class",
+"id": "4962",
+"year": 2025,
+"name": "FAC 50 Class",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "Doha",
+"id": "3272",
+"year": 2021,
+"name": "F 101 Al Zubarah [Doha Class]",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "Improved San Giorgio",
+"id": "4073",
+"year": 2026,
+"name": "L 141 Al Fulk [Improved San Giorgio Class]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "Musherib",
+"id": "3273",
+"year": 2022,
+"name": "Q 61 Musherib",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Qatar",
+"key": "Stan Patrol 5009",
+"id": "4211",
+"year": 2024,
+"name": "Stan Patrol 5009",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Saudi Arabia",
+"key": "LCS Freedom Mod",
+"id": "3120",
+"year": 2022,
+"name": "Multi-Mission Combat Ship [LCS Freedom Mod]",
+"type": "LCS - Littoral Combat Ship"
+},
+{
+"kind": "ship",
+"country": "Saudi Arabia",
+"key": "Mod. Avante 2200 Combatant",
+"id": "3721",
+"year": 2022,
+"name": "828 Al Jubail [Mod. Avante 2200 Combatant]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Saudi Arabia",
+"key": "OPB 41",
+"id": "4060",
+"year": 2017,
+"name": "TR5243 Jeddah [OPB 41]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Senegal",
+"key": "OPV 58 S",
+"id": "4043",
+"year": 2022,
+"name": "Walo [OPV 58 S]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Singapore",
+"key": "LMV",
+"id": "3105",
+"year": 2017,
+"name": "P 15 Independence [LMV]",
+"type": "LCS - Littoral Combat Ship"
+},
+{
+"kind": "ship",
+"country": "Singapore",
+"key": "Sentinel",
+"id": "4974",
+"year": 2021,
+"name": "MSRV 55 Sentinel",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Solomon Islands",
+"key": "Guardian",
+"id": "3415",
+"year": 2019,
+"name": "05 Gizo [Guardian Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "South Africa",
+"key": "Sekhukhune",
+"id": "3835",
+"year": 2022,
+"name": "P 1571 Sekhukhune",
+"type": "PC - Coastal Patrol Boat"
+},
+{
+"kind": "ship",
+"country": "Sri Lanka",
+"key": "Hamilton",
+"id": "3719",
+"year": 2019,
+"name": "P 626 Gajabahu [Hamilton Class]",
+"type": "WHEC - Coast Guard High Endurance Cutter"
+},
+{
+"kind": "ship",
+"country": "Sri Lanka",
+"key": "Type 053H2G Jiangwei I",
+"id": "3718",
+"year": 2019,
+"name": "P 625 Parakramabahu [Type 053H2G Jiangwei I]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Thailand",
+"key": "DW-3000",
+"id": "3234",
+"year": 2020,
+"name": "FFG 471 Bhumibol Adulyadej [DW-3000]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "ship",
+"country": "Thailand",
+"key": "M58",
+"id": "3239",
+"year": 2016,
+"name": "OPV 561 Leamsing [M58]",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Thailand",
+"key": "Prachuap Khiri Khan",
+"id": "3233",
+"year": 2021,
+"name": "P 552 Prachuap Khiri Khan",
+"type": "PCF - Fast Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Thailand",
+"key": "Type 071E Yuzhao",
+"id": "3238",
+"year": 2023,
+"name": "792 Chang [Type 071E Yuzhao]",
+"type": "LPD - Amphibious Transport Dock Vessel"
+},
+{
+"kind": "ship",
+"country": "Timor Leste [1975-]",
+"key": "Guardian",
+"id": "4297",
+"year": 2023,
+"name": "P 101 Aitana [Guardian Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Tonga",
+"key": "Guardian",
+"id": "3326",
+"year": 2019,
+"name": "P 301 Ngahau Koula [Guardian Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Trinidad and Tobago [1962-]",
+"key": "Cape",
+"id": "3588",
+"year": 2021,
+"name": "CG 41 Port of Spain [Cape Class]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Trinidad and Tobago [1962-]",
+"key": "Stan FCS 5009",
+"id": "4369",
+"year": 2015,
+"name": "CG 23 Point Lisas [Stan FCS 5009]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Trinidad and Tobago [1962-]",
+"key": "Stan Patrol 5009",
+"id": "4370",
+"year": 2015,
+"name": "CG 25 Speyside [Stan Patrol 5009]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Turkmenistan",
+"key": "C92",
+"id": "3462",
+"year": 2021,
+"name": "01 Deniz Han [C92]",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Turkmenistan",
+"key": "FAC 33",
+"id": "4896",
+"year": 2015,
+"name": "SG119 Nayza [FAC 33 Class]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "UAE",
+"key": "Damen Sea Axe 6711",
+"id": "4274",
+"year": 2017,
+"name": "Arialah [Damen Sea Axe 6711]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "UAE",
+"key": "Gowind 2500",
+"id": "3585",
+"year": 2022,
+"name": "P 110 Bani Yas [Gowind 2500 Class]",
+"type": "PG - Corvette "
+},
+{
+"kind": "ship",
+"country": "Ukraine [1992-]",
+"key": "Pr.130 Bereza",
+"id": "4552",
+"year": 2015,
+"name": "U 811 Balta [Pr.130 Bereza]",
+"type": "ML - Minelayer "
+},
+{
+"kind": "ship",
+"country": "Ukraine [1992-]",
+"key": "Pr.502EM",
+"id": "4557",
+"year": 2019,
+"name": "A 505 Simferopol [Pr.502EM, Intelligence Mod]",
+"type": "AGI - Intelligence Gathering Ship "
+},
+{
+"kind": "ship",
+"country": "Ukraine [1992-]",
+"key": "Sandown",
+"id": "3460",
+"year": 2022,
+"name": "M 310 Chernihiv [Sandown Class]",
+"type": "MCM - Mine Countermeasures Ship "
+},
+{
+"kind": "ship",
+"country": "Ukraine [1992-]",
+"key": "Tripartite Class",
+"id": "4456",
+"year": 2025,
+"name": "Tripartite Class",
+"type": "MHC - Coastal Minehunter "
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Avante 2200 Combatant",
+"id": "4428",
+"year": 2023,
+"name": "PO 11 Guaiqueri [Avante 2200 Combatant]",
+"type": "PGM - Missile Gunboat"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Guaiqueri",
+"id": "4882",
+"year": 2023,
+"name": "PO 13 Yekuana [Guaiqueri Class, Avante 2200 Combatant]",
+"type": "PG - Patrol Gunboat"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Stan Patrol 4207",
+"id": "2802",
+"year": 2016,
+"name": "PG 61 Fernando Gomez De Saa [Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Stan Patrol 5009",
+"id": "2803",
+"year": 2016,
+"name": "PG 71 Carite [Stan Patrol 5009]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Venezuela",
+"key": "Zolfaghar",
+"id": "4880",
+"year": 2024,
+"name": "Peykaap III [Zolfaghar]",
+"type": "PCFG - Fast Guided Missile Patrol Craft"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "Damen Stan Patrol 4207",
+"id": "4910",
+"year": 2019,
+"name": "BP28-01-01 [Damen Stan Patrol 4207]",
+"type": "OPV - Offshore Patrol Vessel"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "HQ 18 Flight III, Po Hang Class",
+"id": "4967",
+"year": 2017,
+"name": "HQ 18 [Flight III, Po Hang Class]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "Hamilton",
+"id": "3722",
+"year": 2018,
+"name": "CSB 8020 [Hamilton Class]",
+"type": "WHEC - Coast Guard High Endurance Cutter"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "Pr.159A Petya II",
+"id": "4966",
+"year": 2023,
+"name": "HQ 13 [Pr.159A Petya II]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "Pr.159AE Petya III",
+"id": "4965",
+"year": 2023,
+"name": "HQ 09 [Pr.159AE Petya III]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "Pr.25",
+"id": "4431",
+"year": 2023,
+"name": "HQ 26 [Pr.25]",
+"type": "FFL - Corvette"
+},
+{
+"kind": "ship",
+"country": "Vietnam [1975-]",
+"key": "SKR Gepard 3.9",
+"id": "4964",
+"year": 2017,
+"name": "HQ 15 Tran Hung Dao [SKR Gepard 3.9, Pr.1166.1E]",
+"type": "FFG - Guided Missile Frigate"
+},
+{
+"kind": "sub",
+"country": "Bangladesh",
+"key": "Type 035G Ming",
+"id": "643",
+"year": 2018,
+"name": "S 161 Nabajatra [Type 035G Ming]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Brazil",
+"key": "Scorpene",
+"id": "628",
+"year": 2022,
+"name": "S 40 Riachuelo [Scorpene]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Colombia",
+"key": "Type 206A",
+"id": "601",
+"year": 2016,
+"name": "SS 30 Intrepido [Type 206A]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Egypt",
+"key": "PL-633 Romeo",
+"id": "679",
+"year": 2017,
+"name": "S 32 [PL-633 Romeo]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Egypt",
+"key": "Type 209-1400",
+"id": "639",
+"year": 2017,
+"name": "S 41 [Type 209-1400]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Myanmar",
+"key": "PL-877E Kilo",
+"id": "711",
+"year": 2020,
+"name": "71 Minye Theinkhathu [PL-877E Kilo]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Myanmar",
+"key": "Type 035B Ming",
+"id": "705",
+"year": 2021,
+"name": "72 Minye Kyaw Htin [Type 035B Ming]",
+"type": "SS - Attack/Fleet Submarine "
+},
+{
+"kind": "sub",
+"country": "Singapore",
+"key": "Type 218SG",
+"id": "704",
+"year": 2022,
+"name": "Invincible [Type 218SG]",
+"type": "SSK - Hunter-Killer Submarine "
+},
+{
+"kind": "sub",
+"country": "Thailand",
+"key": "Type S26T",
+"id": "680",
+"year": 2024,
+"name": "Type S26T",
+"type": "SS - Attack/Fleet Submarine "
+}
+]

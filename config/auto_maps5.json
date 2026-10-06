@@ -1,0 +1,12199 @@
+{
+"W": {
+"2612": "SKIP",
+"2589": "SKIP",
+"2189": "SKIP",
+"2224": "SKIP",
+"524": "NAVDECOY",
+"2050": "NAVDECOY",
+"817": 30913,
+"278": 18778,
+"461": 18779,
+"2766": "SKIP",
+"1647": 26642,
+"2488": 47150,
+"2552": 47150,
+"52": 18918,
+"1401": 18489,
+"74": 18751,
+"1562": 30823,
+"160": 30869,
+"2462": 26692,
+"3457": 34818,
+"3209": 16385,
+"1505": 30806,
+"2107": 18933,
+"4446": "SKIP",
+"4447": 34818,
+"4274": "SKIP",
+"2116": 14488,
+"1512": 30860,
+"1533": 30977,
+"2119": 34914,
+"2109": 18885,
+"4534": 34914,
+"3413": 19095,
+"3226": 18776,
+"2875": 19047,
+"4553": 34914,
+"4627": 18806,
+"1796": 14435,
+"1896": 18531,
+"1901": 18533,
+"1899": 18457,
+"273": 18555,
+"3897": 34818,
+"276": 18536,
+"2113": 30861,
+"219": 18546,
+"2114": 34818,
+"2193": 18459,
+"2115": "SKIP",
+"2866": 18776,
+"3441": 34818,
+"201": 22581,
+"2532": 47150,
+"3644": 26707,
+"2056": 18555,
+"984": 18652,
+"1024": "SKIP",
+"1531": 30849,
+"1282": 14471,
+"1518": 30857,
+"1046": 18588,
+"3301": 18747,
+"534": 26716,
+"2553": 47367,
+"2873": 18936,
+"4457": 18935,
+"2391": 14488,
+"2555": 47150,
+"1015": 22586,
+"1910": 14439,
+"47": 31068,
+"3149": 34914,
+"1603": 18751,
+"3863": 18779,
+"3864": 18779,
+"1798": 14431,
+"21": 31075,
+"3028": 34914,
+"1450": 26647,
+"2515": 47367,
+"2516": 47150,
+"258": 18582,
+"2611": "SKIP",
+"696": "SKIP",
+"3761": "SKIP",
+"963": 30843,
+"1293": 34914,
+"2257": 18778,
+"3828": 18803,
+"2542": 47150,
+"2541": 47150,
+"816": 18851,
+"1885": 47150,
+"1339": 47367,
+"1507": 30970,
+"2917": "SKIP",
+"823": 18751,
+"2960": 34932,
+"2478": 47150,
+"2481": 47367,
+"4117": "NAVDECOY",
+"1199": 18754,
+"1691": 18909,
+"1756": 18755,
+"1400": 18487,
+"762": 18751,
+"1182": 34914,
+"1742": 18756,
+"4468": 18891,
+"1887": 47150,
+"2519": 47367,
+"1192": 19048,
+"314": 26706,
+"3882": 47150,
+"2480": 47367,
+"4115": "SKIP",
+"4116": "SKIP",
+"318": 31047,
+"3216": 47367,
+"2810": 22593,
+"39": 14339,
+"3784": 14339,
+"1309": 18557,
+"3688": 18462,
+"1241": 18774,
+"3964": 31091,
+"1534": 30848,
+"1554": 31077,
+"978": 18462,
+"644": 31083,
+"1027": 30751,
+"842": 31072,
+"1026": 31072,
+"705": 30765,
+"48": 30810,
+"1308": 18557,
+"1307": 18536,
+"849": 31064,
+"2053": 18531,
+"480": 14479,
+"1897": 18541,
+"843": 31072,
+"2163": 18543,
+"638": 19083,
+"1900": 18534,
+"1101": 18458,
+"2840": 34818,
+"1524": 30855,
+"915": 18697,
+"1738": 18549,
+"3946": "SKIP",
+"3945": "SKIP",
+"3944": "SKIP",
+"16": 18644,
+"17": 18798,
+"3126": 18555,
+"3125": 18544,
+"2839": 34818,
+"645": 30914,
+"1694": 30750,
+"3717": 18468,
+"1060": 18468,
+"3972": 18468,
+"3973": 18469,
+"1493": 18461,
+"2151": 18547,
+"207": 31089,
+"1052": 19094,
+"3335": 34818,
+"1013": "SKIP",
+"4424": 18803,
+"3671": "SKIP",
+"2629": "SKIP",
+"2644": "SKIP",
+"508": 14439,
+"3115": 31050,
+"803": 34914,
+"489": 18803,
+"1200": "SKIP",
+"1595": 26691,
+"2549": 47367,
+"2950": "NAVDECOY",
+"1536": 30846,
+"1072": 18725,
+"1071": 18725,
+"1292": 34914,
+"1020": 18653,
+"1291": "SKIP",
+"3732": 18751,
+"3177": 18779,
+"3760": 34818,
+"983": 18779,
+"956": 31028,
+"519": 18751,
+"232": "NAVDECOY",
+"233": "NAVDECOY",
+"589": 18433,
+"1687": 18442,
+"1068": "SKIP",
+"455": "NAVDECOY",
+"926": 18960,
+"1413": 14401,
+"1414": 14401,
+"1108": 12288,
+"2603": 19017,
+"1350": "NAVDECOY",
+"1105": "NAVDECOY",
+"2868": 19091,
+"4389": 22594,
+"4515": 16385,
+"3080": "SKIP",
+"541": 18860,
+"1274": "NAVDECOY",
+"3859": 26692,
+"3860": 26692,
+"1587": "NAVDECOY",
+"1588": "NAVDECOY",
+"837": 18576,
+"3902": 18576,
+"133": 18624,
+"1250": "NAVDECOY",
+"1247": "NAVDECOY",
+"3266": "NAVDECOY",
+"1256": "NAVDECOY",
+"3774": 18624,
+"134": 18570,
+"575": 18576,
+"237": 18619,
+"220": "SKIP",
+"1586": "NAVDECOY",
+"288": "NAVDECOY",
+"680": 14458,
+"1611": 18651,
+"1273": "NAVDECOY",
+"3627": "SKIP",
+"3762": "NAVDECOY",
+"1232": "NAVDECOY",
+"1230": "NAVDECOY",
+"4089": "NAVDECOY",
+"4062": "NAVDECOY",
+"4063": "NAVDECOY",
+"1070": 22533,
+"3705": 22584,
+"4096": 22584,
+"1575": 18755,
+"2183": 14472,
+"3356": 18735,
+"3350": 18961,
+"969": 18500,
+"186": 14408,
+"844": 18619,
+"1223": "NAVDECOY",
+"1222": "NAVDECOY",
+"1375": 14355,
+"1374": 14355,
+"1228": "NAVDECOY",
+"1227": "NAVDECOY",
+"3218": 18722,
+"2713": 18813,
+"1275": 18733,
+"1226": "NAVDECOY",
+"1224": "NAVDECOY",
+"109": 18522,
+"2871": "NAVDECOY",
+"1160": 14472,
+"1426": 18630,
+"1735": 26686,
+"1173": 18934,
+"1441": 14430,
+"1440": 14430,
+"611": 26658,
+"3339": 18722,
+"1674": 18705,
+"2062": 19002,
+"2742": "SKIP",
+"1818": "NAVDECOY",
+"1817": "NAVDECOY",
+"4061": "SKIP",
+"1298": "NAVDECOY",
+"2848": 14506,
+"2849": 14506,
+"1207": "NAVDECOY",
+"470": "NAVDECOY",
+"1281": "NAVDECOY",
+"3037": "NAVDECOY",
+"2548": 47367,
+"2547": 47150,
+"2927": "NAVDECOY",
+"3084": 26739,
+"2872": 26747,
+"2450": "NAVDECOY",
+"2451": "NAVDECOY",
+"3934": 26680,
+"1183": 18716,
+"4121": "NAVDECOY",
+"82": 26695,
+"2925": "NAVDECOY",
+"1679": 22583,
+"114": "NAVDECOY",
+"1465": 22569,
+"1458": 26677,
+"908": "NAVDECOY",
+"2169": 26676,
+"3337": 18722,
+"2928": "NAVDECOY",
+"901": 26681,
+"2926": "NAVDECOY",
+"1933": 26640,
+"3678": "NAVDECOY",
+"3680": "NAVDECOY",
+"3679": "NAVDECOY",
+"905": 26645,
+"1714": 18632,
+"3539": 18632,
+"2689": "NAVDECOY",
+"2562": 30981,
+"2645": "SKIP",
+"2630": "SKIP",
+"3103": 18751,
+"2094": 26694,
+"2096": 26694,
+"440": 47150,
+"2588": "SKIP",
+"2595": "SKIP",
+"2856": "SKIP",
+"2593": 30745,
+"2633": "SKIP",
+"2638": "SKIP",
+"2622": "SKIP",
+"119": 26642,
+"3886": 30752,
+"3134": "SKIP",
+"1699": 30843,
+"3495": "SKIP",
+"3496": "SKIP",
+"2625": "SKIP",
+"3836": 14490,
+"1800": 14471,
+"1770": 30896,
+"481": 18887,
+"822": 34818,
+"1500": 22551,
+"2594": 31068,
+"479": 34914,
+"2596": 18751,
+"478": 18751,
+"3865": 18779,
+"3866": 18749,
+"3867": 18749,
+"3868": 18749,
+"750": "SKIP",
+"4184": 31044,
+"1804": 14474,
+"183": 18923,
+"2607": 31051,
+"4159": 18760,
+"2390": 19085,
+"2784": 18864,
+"3088": 18751,
+"1787": 34818,
+"3769": 18935,
+"275": 31057,
+"4119": "SKIP",
+"3941": 18488,
+"1688": 26642,
+"1014": 18678,
+"4261": 26692,
+"3990": "SKIP",
+"27": 14482,
+"2418": 30998,
+"2038": 34818,
+"4161": 18479,
+"3089": 34914,
+"2556": 14473,
+"2132": 18679,
+"1751": 18544,
+"2027": "SKIP",
+"3510": 34914,
+"3522": 34932,
+"651": 34818,
+"1028": "SKIP",
+"179": 18779,
+"2402": 18751,
+"2404": 18779,
+"212": 18751,
+"227": 31063,
+"1022": 18749,
+"964": 18489,
+"2738": 14505,
+"1117": "SKIP",
+"2558": "SKIP",
+"2632": "SKIP",
+"3469": "SKIP",
+"3914": "SKIP",
+"3917": "SKIP",
+"1406": "SKIP",
+"73": "SKIP",
+"3903": 14444,
+"3164": 14490,
+"2408": 18678,
+"1601": "NAVDECOY",
+"558": "NAVDECOY",
+"1216": "NAVDECOY",
+"1218": "NAVDECOY",
+"95": "SKIP",
+"1213": "NAVDECOY",
+"2763": 18821,
+"578": 18624,
+"277": 26672,
+"2184": 14340,
+"634": "SKIP",
+"4136": 19085,
+"2650": 31062,
+"3481": 18776,
+"1557": "SKIP",
+"2641": "SKIP",
+"2914": 30842,
+"1776": 31082,
+"1520": 31016,
+"1085": 14483,
+"1792": 14438,
+"1577": 30844,
+"313": 31047,
+"2701": 34818,
+"252": 18751,
+"1487": 14474,
+"3112": 18582,
+"1904": 47367,
+"1042": 18553,
+"4577": 30752,
+"2935": 14490,
+"2627": "SKIP",
+"4024": "SKIP",
+"2225": "SKIP",
+"2649": 31013,
+"2138": "SKIP",
+"2120": "SKIP",
+"150": 18486,
+"2646": "SKIP",
+"525": "SKIP",
+"4124": 47367,
+"4123": 47150,
+"3551": 34914,
+"3312": "SKIP",
+"3849": 34914,
+"3120": 31089,
+"240": 18582,
+"2626": "SKIP",
+"182": 18760,
+"2573": 14480,
+"2438": "SKIP",
+"2437": 34914,
+"1041": 18779,
+"504": 34914,
+"3959": 18779,
+"1051": 34914,
+"3315": "SKIP",
+"3482": "SKIP",
+"1049": 19041,
+"1748": 18664,
+"2230": "SKIP",
+"3850": 18751,
+"2637": "SKIP",
+"676": 18882,
+"3778": 14488,
+"2870": 18957,
+"3478": "NAVDECOY",
+"3479": "NAVDECOY",
+"1212": "NAVDECOY",
+"1710": "NAVDECOY",
+"1816": "NAVDECOY",
+"1279": 26627,
+"3476": 18860,
+"1916": "SKIP",
+"125": 18514,
+"303": "SKIP",
+"1615": 18434,
+"1252": "NAVDECOY",
+"1251": "NAVDECOY",
+"170": 14409,
+"1266": "NAVDECOY",
+"1265": "NAVDECOY",
+"3815": 14346,
+"1259": "NAVDECOY",
+"1258": "NAVDECOY",
+"2278": 18837,
+"3840": "NAVDECOY",
+"3974": 14484,
+"157": 18595,
+"1263": "NAVDECOY",
+"1261": "NAVDECOY",
+"1685": 14405,
+"235": 14405,
+"1597": 18955,
+"1272": "SKIP",
+"532": 26696,
+"3095": 26749,
+"3096": 18577,
+"1360": 26655,
+"1191": 18714,
+"533": 26703,
+"821": 26680,
+"239": 18575,
+"1879": 18588,
+"396": 18989,
+"1656": 18576,
+"2216": 26660,
+"1062": 26641,
+"1340": 34932,
+"1278": "NAVDECOY",
+"1233": "NAVDECOY",
+"1648": 22562,
+"960": "NAVDECOY",
+"951": "NAVDECOY",
+"98": 18603,
+"1668": 18619,
+"1210": "NAVDECOY",
+"1201": "NAVDECOY",
+"1202": "NAVDECOY",
+"574": 18816,
+"1365": 18840,
+"1643": 22528,
+"1649": 22562,
+"1346": "NAVDECOY",
+"786": 26722,
+"1728": 26745,
+"430": 26650,
+"2750": 26660,
+"711": 26722,
+"1655": 26660,
+"1320": 26653,
+"1620": 26680,
+"429": 26649,
+"2885": [
+"NEWC",
+18691,
+"Joint Strike Missile (JSM)",
+"auto_jointstrikemissilejsm",
+"452"
+],
+"1129": [
+"NEWC",
+18490,
+"AIM-2000A IRIS-T",
+"auto_aim2000airist",
+"945"
+],
+"650": [
+"NEWC",
+18456,
+"AGM-88B HARM",
+"auto_agm88bharm",
+"649"
+],
+"1709": [
+"NEWC",
+18725,
+"DWS.39 AFDS (24 x STABO)",
+"auto_dws39afds24xstabo",
+"1072"
+],
+"3485": [
+"NEWC",
+18774,
+"LJ-9 Blue Arrow ATGM",
+"auto_lj9bluearrowatgm",
+"1241"
+],
+"3225": [
+"NEWC",
+18882,
+"AR-1",
+"auto_ar1",
+"676"
+],
+"2125": [
+"NEWC",
+18882,
+"AKD-10",
+"auto_akd10",
+"676"
+],
+"2110": [
+"NEWC",
+18778,
+"LT-2 LGB (LS-500J; 500kg HE",
+"auto_lt2lgbls500j500kghe",
+"2257"
+],
+"3487": [
+"NEWC",
+18882,
+"LJ-7 Blue Arrow ATGM",
+"auto_lj7bluearrowatgm",
+"676"
+],
+"1578": 30739,
+"1506": 30749,
+"2137": [
+"NEWC",
+19048,
+"CSS-N-8 Saccade (YJ-83K)",
+"auto_cssn8saccadeyj83k",
+"1192"
+],
+"2863": [
+"NEWC",
+18702,
+"YJ-12",
+"auto_yj12",
+"920"
+],
+"2039": [
+"NEWC",
+18644,
+"CH-SSC-9 (CJ-10K)",
+"auto_chssc9cj10k",
+"16"
+],
+"4058": [
+"NEWC",
+18461,
+"YJ-21 (250kg HE)",
+"auto_yj21250kghe",
+"1493"
+],
+"4445": [
+"NEWC",
+18933,
+"YJ-63A (KD-63A)",
+"auto_yj63akd63a",
+"2107"
+],
+"1801": [
+"NEWC",
+14488,
+"23mm AM-23 x 2 Burst (50 r",
+"auto_23mmam23x2burst50r",
+"2116"
+],
+"3564": [
+"NEWC",
+18644,
+"CH-AS-X-13 (KF-21)",
+"auto_chasx13kf21",
+"16"
+],
+"4481": [
+"NEWC",
+18644,
+"CH-AS-X-13 (KF-21; HGV)",
+"auto_chasx13kf21hgv",
+"16"
+],
+"29": [
+"NEWC",
+18747,
+"PL-8B (Python 3)",
+"auto_pl8bpython3",
+"3301"
+],
+"1116": [
+"NEWC",
+18555,
+"CH-AA-7 Adze (PL-12)",
+"auto_chaa7adzepl12",
+"273"
+],
+"217": [
+"DIV",
+31054,
+7
+],
+"216": [
+"DIV",
+31054,
+7
+],
+"1581": 30735,
+"221": 30739,
+"2944": 30735,
+"4533": [
+"NEWC",
+18778,
+"LT-2B LGB (JG-500B; 500kg H",
+"auto_lt2blgbjg500b500kgh",
+"2257"
+],
+"2876": [
+"NEWC",
+19048,
+"AKD-88 LACM",
+"auto_akd88lacm",
+"1192"
+],
+"4541": [
+"NEWC",
+18806,
+"K/YBS500 (GB-6; 240 x 1.5kg",
+"auto_kybs500gb6240x15kg",
+"4627"
+],
+"4110": [
+"NEWC",
+18697,
+"CH-AA-12 Auger (PL-17)",
+"auto_chaa12augerpl17",
+"915"
+],
+"1061": [
+"DIV",
+31054,
+7
+],
+"1025": [
+"DIV",
+31054,
+7
+],
+"2003": [
+"NEWC",
+18531,
+"AA-11 Archer (R-73M1)",
+"auto_aa11archerr73m1",
+"1896"
+],
+"2108": [
+"NEWC",
+18555,
+"CH-AA-7C Adze (PL-12C)",
+"auto_chaa7cadzepl12c",
+"273"
+],
+"4483": [
+"NEWC",
+19095,
+"CH-AA-10 Abaddon (PL-15C)",
+"auto_chaa10abaddonpl15c",
+"3413"
+],
+"1675": [
+"NEWC",
+18747,
+"PL-8A (Python 3)",
+"auto_pl8apython3",
+"3301"
+],
+"26": [
+"NEWC",
+18533,
+"PL-11 (Aspide)",
+"auto_pl11aspide",
+"1901"
+],
+"4461": [
+"NEWC",
+18779,
+"YJ-1000-1",
+"auto_yj10001",
+"2404"
+],
+"4462": [
+"NEWC",
+19096,
+"AKF-98A",
+"auto_akf98a",
+"11"
+],
+"4463": [
+"NEWC",
+18691,
+"AKF-88C LACM (AKD-88 Mod)",
+"auto_akf88clacmakd88mod",
+"452"
+],
+"641": [
+"NEWC",
+18779,
+"KAB-1500Kr TV/EO",
+"auto_kab1500krtveo",
+"2404"
+],
+"3077": [
+"NEWC",
+18779,
+"KAB-1500Kr-Pr TV/EO (Penetr",
+"auto_kab1500krprtveopenetr",
+"2404"
+],
+"640": [
+"NEWC",
+18778,
+"KAB-500Kr TV/EO",
+"auto_kab500krtveo",
+"2257"
+],
+"4454": [
+"NEWC",
+18555,
+"CH-AA-7B Adze (PL-12B)",
+"auto_chaa7badzepl12b",
+"273"
+],
+"3895": [
+"NEWC",
+18739,
+"FT-10 SDB",
+"auto_ft10sdb",
+"484"
+],
+"3464": [
+"NEWC",
+18774,
+"AR-2",
+"auto_ar2",
+"1241"
+],
+"3931": [
+"DIV",
+31054,
+7
+],
+"2124": [
+"NEWC",
+18496,
+"HJ-8A/C ATGM",
+"auto_hj8acatgm",
+"815"
+],
+"2648": [
+"NEWC",
+18478,
+"PL-5E",
+"auto_pl5e",
+"1384"
+],
+"4056": [
+"NEWC",
+19063,
+"TY-90",
+"auto_ty90",
+"733"
+],
+"4441": [
+"NEWC",
+18774,
+"AKD-9",
+"auto_akd9",
+"1241"
+],
+"4527": [
+"NEWC",
+18804,
+"FS-70A 70mm Rocket",
+"auto_fs70a70mmrocket",
+"2597"
+],
+"4551": [
+"NEWC",
+18739,
+"CM-501GA",
+"auto_cm501ga",
+"484"
+],
+"3665": [
+"NEWC",
+26749,
+"Yu-11",
+"auto_yu11",
+"3095"
+],
+"3932": [
+"NEWC",
+18882,
+"KD-10",
+"auto_kd10",
+"676"
+],
+"238": [
+"NEWC",
+26627,
+"A.244",
+"auto_a244",
+"1279"
+],
+"4458": [
+"NEWC",
+18936,
+"YJ-9EB (TL-10C(?))",
+"auto_yj9ebtl10c",
+"2873"
+],
+"3497": [
+"NEWC",
+18882,
+"MAM-L",
+"auto_maml",
+"676"
+],
+"3757": [
+"NEWC",
+18882,
+"MAM-C",
+"auto_mamc",
+"676"
+],
+"1873": 18698,
+"1872": 18587,
+"3158": [
+"NEWC",
+18936,
+"Sea Venom (FASGW(H) / ANL)",
+"auto_seavenomfasgwhanl",
+"2873"
+],
+"961": 18741,
+"446": [
+"NEWC",
+18533,
+"AIM-120B AMRAAM",
+"auto_aim120bamraam",
+"1901"
+],
+"3589": [
+"NEWC",
+18776,
+"Brimstone 2",
+"auto_brimstone2",
+"3481"
+],
+"2788": [
+"NEWC",
+18776,
+"Spike NLOS",
+"auto_spikenlos",
+"3481"
+],
+"3958": [
+"NEWC",
+18748,
+"GBU-50(V)2 Enhanced Paveway",
+"auto_gbu50v2enhancedpaveway",
+"554"
+],
+"333": 18744,
+"1508": 30735,
+"23": [
+"NEWC",
+18480,
+"AGM-65G2 Maverick IR",
+"auto_agm65g2maverickir",
+"1876"
+],
+"957": 18701,
+"154": [
+"NEWC",
+18546,
+"Marte Mk2/S",
+"auto_martemk2s",
+"219"
+],
+"3925": [
+"NEWC",
+18536,
+"Marte ER",
+"auto_marteer",
+"276"
+],
+"760": 30739,
+"4487": [
+"NEWC",
+18702,
+"SSM-2(?) (Type 23)",
+"auto_ssm2type23",
+"920"
+],
+"626": [
+"NEWC",
+14446,
+"7.62mm MG Burst (20 rnds)",
+"auto_762mmmgburst20rnds",
+"953"
+],
+"4064": [
+"NEWC",
+26647,
+"Type 12",
+"auto_type12",
+"1450"
+],
+"482": [
+"NEWC",
+26707,
+"APR-3",
+"auto_apr3",
+"3644"
+],
+"3783": [
+"NEWC",
+19063,
+"Igla-V",
+"auto_iglav",
+"733"
+],
+"3987": [
+"NEWC",
+18793,
+"AT-16 Scallion (9A1472 Vikh",
+"auto_at16scallion9a1472vikh",
+"683"
+],
+"1927": [
+"DIV",
+31054,
+7
+],
+"2065": 30735,
+"1502": 30735,
+"1023": [
+"DIV",
+31054,
+7
+],
+"3535": [
+"NEWC",
+18461,
+"AS-24 Killjoy (Kh-47M2 Kinz",
+"auto_as24killjoykh47m2kinz",
+"1493"
+],
+"3532": [
+"NEWC",
+18461,
+"AS-24 Killjoy (Kh-47M2 Kinz",
+"auto_as24killjoykh47m2kinz",
+"1493"
+],
+"3578": [
+"NEWC",
+18750,
+"KAB-250LG-E",
+"auto_kab250lge",
+"553"
+],
+"2067": 30739,
+"3651": [
+"NEWC",
+18546,
+"AS-22 (Kh-38MKE)",
+"auto_as22kh38mke",
+"219"
+],
+"1035": [
+"NEWC",
+18778,
+"KAB-500L LGB",
+"auto_kab500llgb",
+"2257"
+],
+"3128": [
+"NEWC",
+18490,
+"AA-11 Archer (R-74M2)",
+"auto_aa11archerr74m2",
+"945"
+],
+"639": [
+"NEWC",
+18779,
+"KAB-1500L-F LGB",
+"auto_kab1500lflgb",
+"2404"
+],
+"2099": [
+"DIV",
+31054,
+7
+],
+"3579": [
+"NEWC",
+18751,
+"KAB-250S-E GLONASS",
+"auto_kab250seglonass",
+"3723"
+],
+"3340": [
+"NEWC",
+18756,
+"KAB-500S GLONASS",
+"auto_kab500sglonass",
+"1742"
+],
+"3712": [
+"NEWC",
+18679,
+"UPAB-500B (K08BE)",
+"auto_upab500bk08be",
+"2132"
+],
+"3713": [
+"NEWC",
+18679,
+"UPAB-1500B (K029BE)",
+"auto_upab1500bk029be",
+"2132"
+],
+"3132": [
+"NEWC",
+18546,
+"AS-22 (Kh-38MKE)",
+"auto_as22kh38mke",
+"219"
+],
+"3130": [
+"NEWC",
+18546,
+"AS-22 (Kh-38MLE)",
+"auto_as22kh38mle",
+"219"
+],
+"49": [
+"NEWC",
+18779,
+"KAB-1500L-Pr LGB (Penetrato",
+"auto_kab1500lprlgbpenetrato",
+"2404"
+],
+"3086": [
+"NEWC",
+18750,
+"PBK-500U SPBE-K (INS + GLON",
+"auto_pbk500uspbekinsglon",
+"553"
+],
+"3087": [
+"NEWC",
+18750,
+"PBK-500U Unitary (INS + GLO",
+"auto_pbk500uunitaryinsglo",
+"553"
+],
+"3628": [
+"NEWC",
+16385,
+"AS-15 Kent (Kh-65SE; ASM)",
+"auto_as15kentkh65seasm",
+"3209"
+],
+"4277": [
+"NEWC",
+18776,
+"UMPK FAB-500M-62 Glide Bomb",
+"auto_umpkfab500m62glidebomb",
+"3226"
+],
+"4278": [
+"NEWC",
+18751,
+"UMPK FAB-250M-62 Glide Bomb",
+"auto_umpkfab250m62glidebomb",
+"3103"
+],
+"4485": [
+"NEWC",
+18751,
+"UMPK OFAB-250-270 Glide Bom",
+"auto_umpkofab250270glidebom",
+"3103"
+],
+"4486": [
+"NEWC",
+18779,
+"UMPK FAB-3000M-46 Glide Bom",
+"auto_umpkfab3000m46glidebom",
+"3177"
+],
+"3122": [
+"NEWC",
+18461,
+"AS-4 Kitchen D (Kh-32)",
+"auto_as4kitchendkh32",
+"1493"
+],
+"1504": 30749,
+"2725": 30749,
+"4363": [
+"NEWC",
+16385,
+"Kh-50",
+"auto_kh50",
+"3209"
+],
+"315": [
+"NEWC",
+26642,
+"K-745 Blue Shark (C",
+"auto_k745bluesharkc",
+"119"
+],
+"3726": [
+"NEWC",
+18751,
+"KGGB",
+"auto_kggb",
+"3103"
+],
+"3951": [
+"NEWC",
+18774,
+"Chungum ATGM",
+"auto_chungumatgm",
+"1241"
+],
+"546": 18883,
+"3116": [
+"NEWC",
+19063,
+"Mistral 2 ATAM",
+"auto_mistral2atam",
+"733"
+],
+"466": [
+"NEWC",
+18749,
+"GBU-24/B Paveway III LGB (B",
+"auto_gbu24bpavewayiiilgbb",
+"1022"
+],
+"1128": [
+"NEWC",
+18490,
+"RB 98 (AIM-2000A) IRIS-T",
+"auto_rb98aim2000airist",
+"945"
+],
+"371": [
+"NEWC",
+18555,
+"RB 101 Meteor",
+"auto_rb101meteor",
+"3126"
+],
+"1019": [
+"DIV",
+31054,
+7
+],
+"4144": [
+"NEWC",
+18691,
+"RB 15 Mk4 Gungnir",
+"auto_rb15mk4gungnir",
+"452"
+],
+"3175": [
+"NEWC",
+18804,
+"Cirit 70mm Rocket",
+"auto_cirit70mmrocket",
+"2597"
+],
+"3853": [
+"NEWC",
+18882,
+"Mizrak-U (L-UMTAS)",
+"auto_mizrakulumtas",
+"676"
+],
+"3733": [
+"NEWC",
+18751,
+"GBU-TEBER (Mk81)",
+"auto_gbutebermk81",
+"3732"
+],
+"3170": [
+"NEWC",
+18462,
+"SOM-A",
+"auto_soma",
+"3688"
+],
+"3171": [
+"NEWC",
+18462,
+"SOM-B1",
+"auto_somb1",
+"3688"
+],
+"3758": [
+"NEWC",
+18691,
+"SOM-B2",
+"auto_somb2",
+"452"
+],
+"3759": [
+"NEWC",
+18462,
+"SOM-C1",
+"auto_somc1",
+"3688"
+],
+"3174": [
+"NEWC",
+18779,
+"GBU-10X/B Paveway II LGB (N",
+"auto_gbu10xbpavewayiilgbn",
+"983"
+],
+"4287": [
+"NEWC",
+18739,
+"Tolun SDB",
+"auto_tolunsdb",
+"484"
+],
+"1032": 30751,
+"3173": [
+"NEWC",
+18779,
+"HGK INS/GPS (NEB 2000lb Pen",
+"auto_hgkinsgpsneb2000lbpen",
+"3177"
+],
+"3530": [
+"NEWC",
+18739,
+"SPEAR 3",
+"auto_spear3",
+"484"
+],
+"4437": [
+"NEWC",
+18772,
+"Gokdogan",
+"auto_gokdogan",
+"897"
+],
+"4438": [
+"NEWC",
+18555,
+"Gokhan",
+"auto_gokhan",
+"3126"
+],
+"3172": [
+"NEWC",
+18462,
+"SOM-J",
+"auto_somj",
+"3688"
+],
+"3683": [
+"NEWC",
+14446,
+"5.56mm MG Burst (20 rnds)",
+"auto_556mmmgburst20rnds",
+"953"
+],
+"2435": [
+"NEWC",
+14481,
+"40mm Mk19 Grenade",
+"auto_40mmmk19grenade",
+"28"
+],
+"2251": [
+"NEWC",
+18958,
+"Brimstone Dual-Mode",
+"auto_brimstonedualmode",
+"2733"
+],
+"1596": 26713,
+"1755": [
+"NEWC",
+19016,
+"AIM-132A ASRAAM",
+"auto_aim132aasraam",
+"3664"
+],
+"54": [
+"NEWC",
+18778,
+"CPU-123 Paveway II GPS/LGB",
+"auto_cpu123pavewayiigpslgb",
+"2257"
+],
+"3690": [
+"NEWC",
+18631,
+"SPEAR EW",
+"auto_spearew",
+"881"
+],
+"3832": [
+"NEWC",
+14373,
+"40mm/70 OTO Marlin 40 Burs",
+"auto_40mm70otomarlin40burs",
+"1306"
+],
+"1290": [
+"NEWC",
+14355,
+"76mm/62 Super Rapido DART",
+"auto_76mm62superrapidodart",
+"1375"
+],
+"3139": [
+"NEWC",
+18455,
+"RIM-162F ESSM Blk II",
+"auto_rim162fessmblkii",
+"15"
+],
+"1624": [
+"NEWC",
+14462,
+"30mm Goalkeeper Burst (240",
+"auto_30mmgoalkeeperburst240",
+"830"
+],
+"1449": [
+"NEWC",
+14355,
+"76mm/62 Mk100 HE Burst (4",
+"auto_76mm62mk100heburst4",
+"1375"
+],
+"2678": [
+"NEWC",
+14462,
+"12.7mm/50 Mini-Typhoon Bur",
+"auto_127mm50minityphoonbur",
+"830"
+],
+"4459": [
+"NEWC",
+18934,
+"YJ-12A",
+"auto_yj12a",
+"1173"
+],
+"2449": [
+"NEWC",
+18570,
+"HQ-16A (SA-17 Semi-Copy)",
+"auto_hq16asa17semicopy",
+"134"
+],
+"4310": 22579,
+"1370": [
+"DIV",
+31054,
+7
+],
+"2602": [
+"NEWC",
+14462,
+"30mm China H/PJ-14 (Type 1",
+"auto_30mmchinahpj14type1",
+"830"
+],
+"3330": 22591,
+"2691": [
+"NEWC",
+14401,
+"130mm China H/PJ-38 HE",
+"auto_130mmchinahpj38he",
+"1413"
+],
+"4090": [
+"NEWC",
+18444,
+"HHQ-9B",
+"auto_hhq9b",
+"1667"
+],
+"540": [
+"NEWC",
+14430,
+"100mm/56 Twin PJ33A Frag B",
+"auto_100mm56twinpj33afragb",
+"1440"
+],
+"539": [
+"NEWC",
+14430,
+"100mm/56 Twin PJ33A HE (2",
+"auto_100mm56twinpj33ahe2",
+"1440"
+],
+"3855": [
+"NEWC",
+14373,
+"30mm/65 H/PJ-13 Burst (400",
+"auto_30mm65hpj13burst400",
+"1306"
+],
+"4390": [
+"DIV",
+31054,
+7
+],
+"1815": 22591,
+"1457": [
+"DIV",
+31054,
+7
+],
+"537": [
+"NEWC",
+14430,
+"100mm/55 H/PJ-87 HECVT",
+"auto_100mm55hpj87hecvt",
+"1440"
+],
+"536": [
+"NEWC",
+14430,
+"100mm/55 H/PJ-87 HE",
+"auto_100mm55hpj87he",
+"1441"
+],
+"4362": [
+"NEWC",
+18821,
+"HQ-16C",
+"auto_hq16c",
+"2763"
+],
+"4392": [
+"NEWC",
+18678,
+"CSS-N-8 Saccade (YJ-83B)",
+"auto_cssn8saccadeyj83b",
+"2408"
+],
+"4415": [
+"NEWC",
+18678,
+"CSS-N-8 Saccade (YJ-83B)",
+"auto_cssn8saccadeyj83b",
+"2408"
+],
+"4490": 22579,
+"1489": [
+"DIV",
+31054,
+7
+],
+"2773": [
+"NEWC",
+14355,
+"76mm/60 China H/PJ-26 HE B",
+"auto_76mm60chinahpj26heb",
+"1375"
+],
+"2772": [
+"NEWC",
+14355,
+"76mm/60 China H/PJ-26 Frag",
+"auto_76mm60chinahpj26frag",
+"1374"
+],
+"1110": [
+"NEWC",
+14462,
+"14.5mm MG Burst (20 rnds)",
+"auto_145mmmgburst20rnds",
+"830"
+],
+"2877": [
+"NEWC",
+14373,
+"30mm China H/PJ-17 (20 rnd",
+"auto_30mmchinahpj1720rnd",
+"1306"
+],
+"2023": [
+"NEWC",
+14462,
+"35mm/79 Oerlikon Millenniu",
+"auto_35mm79oerlikonmillenniu",
+"830"
+],
+"496": [
+"NEWC",
+18989,
+"FIM-92E Stinger RMP Blk I",
+"auto_fim92estingerrmpblki",
+"396"
+],
+"166": [
+"NEWC",
+14355,
+"76mm/62 Super Rapido HE Bu",
+"auto_76mm62superrapidohebu",
+"1375"
+],
+"3648": [
+"NEWC",
+18678,
+"Gabriel V",
+"auto_gabrielv",
+"2408"
+],
+"3819": [
+"NEWC",
+26691,
+"Saab Lightweight To",
+"auto_saablightweightto",
+"1595"
+],
+"1589": 26679,
+"1637": [
+"NEWC",
+14430,
+"100mm/55 Model 1968 PFHE B",
+"auto_100mm55model1968pfheb",
+"1440"
+],
+"666": [
+"NEWC",
+14430,
+"100mm/55 Model 1968 HE Bur",
+"auto_100mm55model1968hebur",
+"1441"
+],
+"132": [
+"NEWC",
+14462,
+"20mm/90 Giat 20F2 Burst (2",
+"auto_20mm90giat20f2burst2",
+"830"
+],
+"851": [
+"NEWC",
+18989,
+"Mistral 1",
+"auto_mistral1",
+"396"
+],
+"3165": [
+"NEWC",
+14462,
+"20mm Narwhal 20B (M693) Bu",
+"auto_20mmnarwhal20bm693bu",
+"830"
+],
+"2598": [
+"NEWC",
+18813,
+"MdCN (Naval SCALP EG)",
+"auto_mdcnnavalscalpeg",
+"2713"
+],
+"3807": [
+"NEWC",
+14373,
+"40mm RAPIDFire APFSDS-T Bu",
+"auto_40mmrapidfireapfsdstbu",
+"1306"
+],
+"3808": [
+"NEWC",
+14373,
+"40mm RAPIDFire GPR-PD-T Bu",
+"auto_40mmrapidfiregprpdtbu",
+"1306"
+],
+"3809": [
+"NEWC",
+14373,
+"40mm RAPIDFire GPR-AB-T Bu",
+"auto_40mmrapidfiregprabtbu",
+"1306"
+],
+"3811": [
+"NEWC",
+14373,
+"40mm RAPIDFire A3B-T Burst",
+"auto_40mmrapidfirea3btburst",
+"1306"
+],
+"3890": [
+"NEWC",
+18794,
+"Mistral 3",
+"auto_mistral3",
+"4597"
+],
+"1636": [
+"NEWC",
+14462,
+"20mm/70 Oerlikon Mk7 Burst",
+"auto_20mm70oerlikonmk7burst",
+"830"
+],
+"20": [
+"NEWC",
+18678,
+"RB 15M Mk3",
+"auto_rb15mmk3",
+"2408"
+],
+"858": [
+"NEWC",
+14355,
+"76mm/62 Compact HE Burst",
+"auto_76mm62compactheburst",
+"1375"
+],
+"1859": 18568,
+"2899": [
+"NEWC",
+14425,
+"127mm/64 Vulcano GLR IMU/G",
+"auto_127mm64vulcanoglrimug",
+"3045"
+],
+"2898": [
+"NEWC",
+14425,
+"127mm/64 Vulcano BER (Ball",
+"auto_127mm64vulcanoberball",
+"3043"
+],
+"2884": [
+"NEWC",
+14462,
+"12.7mm/50 OTO Melara HITRO",
+"auto_127mm50otomelarahitro",
+"830"
+],
+"3861": [
+"NEWC",
+18919,
+"MICA EM NG",
+"auto_micaemng",
+"51"
+],
+"913": [
+"NEWC",
+14462,
+"20mm/80 Oerlikon Burst (20",
+"auto_20mm80oerlikonburst20",
+"830"
+],
+"2883": [
+"NEWC",
+14373,
+"30mm/70 OTO MARLIN-WS Burs",
+"auto_30mm70otomarlinwsburs",
+"1306"
+],
+"3933": [
+"NEWC",
+18722,
+"Teseo Mk2/E",
+"auto_teseomk2e",
+"3218"
+],
+"448": [
+"NEWC",
+14415,
+"25mm/80 OTO Breda KBA Burs",
+"auto_25mm80otobredakbaburs",
+"1393"
+],
+"646": [
+"NEWC",
+14413,
+"127mm/54 OTO Melara Compac",
+"auto_127mm54otomelaracompac",
+"1632"
+],
+"643": [
+"NEWC",
+14413,
+"127mm/54 OTO Melara Compac",
+"auto_127mm54otomelaracompac",
+"1632"
+],
+"3792": [
+"NEWC",
+18722,
+"SSM-2 (Type 17)",
+"auto_ssm2type17",
+"3218"
+],
+"1394": [
+"NEWC",
+14425,
+"127mm/62 HE-CVT (HiFrag)",
+"auto_127mm62hecvthifrag",
+"3043"
+],
+"596": [
+"NEWC",
+14425,
+"127mm/62 HE-PD (HiCap)",
+"auto_127mm62hepdhicap",
+"3043"
+],
+"597": [
+"NEWC",
+14425,
+"127mm/62 WP",
+"auto_127mm62wp",
+"3045"
+],
+"3044": [
+"NEWC",
+14413,
+"127mm/62 Mk179 HE-ET (Mk41",
+"auto_127mm62mk179heetmk41",
+"1631"
+],
+"3046": [
+"NEWC",
+14425,
+"127mm/62 Mk182 KE-ET (Carg",
+"auto_127mm62mk182keetcarg",
+"3045"
+],
+"4489": [
+"NEWC",
+18821,
+"A-SAM",
+"auto_asam",
+"2763"
+],
+"2696": [
+"NEWC",
+14401,
+"130mm/54 A-192 Frag",
+"auto_130mm54a192frag",
+"1413"
+],
+"2697": [
+"NEWC",
+14401,
+"130mm/54 A-192 HE",
+"auto_130mm54a192he",
+"1414"
+],
+"4593": [
+"NEWC",
+19085,
+"Bulsae-4",
+"auto_bulsae4",
+"4136"
+],
+"214": [
+"NEWC",
+26677,
+"53-56VA Pattern Run",
+"auto_5356vapatternrun",
+"1458"
+],
+"4346": [
+"NEWC",
+16385,
+"Hwasal-2",
+"auto_hwasal2",
+"4515"
+],
+"3817": [
+"NEWC",
+18934,
+"KN-23 (Hwasong 11Ga; 2500kg",
+"auto_kn23hwasong11ga2500kg",
+"1173"
+],
+"1367": [
+"NEWC",
+14415,
+"25mm/80 Twin Burst (20 rnd",
+"auto_25mm80twinburst20rnd",
+"1393"
+],
+"1548": [
+"NEWC",
+14430,
+"100mm/56 HE",
+"auto_100mm56he",
+"1440"
+],
+"2410": [
+"NEWC",
+14430,
+"100mm/56 Frag",
+"auto_100mm56frag",
+"1440"
+],
+"1445": [
+"NEWC",
+14432,
+"57mm/70 Twin HE Burst (2 r",
+"auto_57mm70twinheburst2r",
+"1140"
+],
+"3232": [
+"NEWC",
+14462,
+"14.5mm MG Burst (100 rnds)",
+"auto_145mmmgburst100rnds",
+"830"
+],
+"1109": [
+"NEWC",
+18989,
+"SA-N-10 Gimlet (9M313)",
+"auto_san10gimlet9m313",
+"396"
+],
+"4291": [
+"NEWC",
+14373,
+"35mm Oerlikon KDA Burst (5",
+"auto_35mmoerlikonkdaburst5",
+"1306"
+],
+"2783": [
+"NEWC",
+18735,
+"CAMM",
+"auto_camm",
+"3356"
+],
+"2799": [
+"NEWC",
+19017,
+"PZR Grom",
+"auto_pzrgrom",
+"2603"
+],
+"191": [
+"NEWC",
+14415,
+"23mm/87 Twin Burst (20 rnd",
+"auto_23mm87twinburst20rnd",
+"1393"
+],
+"1124": [
+"DIV",
+31054,
+7
+],
+"1423": [
+"NEWC",
+18989,
+"SA-N-5 Grail (9M32M)",
+"auto_san5grail9m32m",
+"396"
+],
+"1237": [
+"NEWC",
+26676,
+"TEST-71ME",
+"auto_test71me",
+"2169"
+],
+"495": [
+"NEWC",
+14430,
+"100mm/59 A-190 Frag",
+"auto_100mm59a190frag",
+"1440"
+],
+"494": [
+"NEWC",
+14430,
+"100mm/59 A-190 HE",
+"auto_100mm59a190he",
+"1441"
+],
+"616": [
+"NEWC",
+26658,
+"SET-65K",
+"auto_set65k",
+"611"
+],
+"2693": [
+"NEWC",
+18989,
+"SA-N-24 Grinch (9M342)",
+"auto_san24grinch9m342",
+"396"
+],
+"3329": 22591,
+"1427": [
+"NEWC",
+18794,
+"SA-N-11a Grisom (9M311K)",
+"auto_san11agrisom9m311k",
+"4597"
+],
+"1357": [
+"NEWC",
+26692,
+"AT-2M",
+"auto_at2m",
+"2422"
+],
+"3105": [
+"NEWC",
+18514,
+"SA-N-20b Gargoyle (48N6M)",
+"auto_san20bgargoyle48n6m",
+"1195"
+],
+"2182": [
+"NEWC",
+18794,
+"SA-N-11b Grisom (9M311K-1)",
+"auto_san11bgrisom9m311k1",
+"4597"
+],
+"3153": [
+"NEWC",
+26716,
+"Paket-NK (M-15 Anti",
+"auto_paketnkm15anti",
+"534"
+],
+"2694": [
+"NEWC",
+26716,
+"Paket-NK (MTT ASW)",
+"auto_paketnkmttasw",
+"534"
+],
+"1422": [
+"NEWC",
+18816,
+"SA-N-4b Gecko (9M33M3)",
+"auto_san4bgecko9m33m3",
+"574"
+],
+"2695": [
+"NEWC",
+18570,
+"SA-N-21c Growler (9M96)",
+"auto_san21cgrowler9m96",
+"134"
+],
+"3221": [
+"NEWC",
+18624,
+"SA-N-21d Growler (9M96D)",
+"auto_san21dgrowler9m96d",
+"133"
+],
+"4587": [
+"NEWC",
+18735,
+"9M100",
+"auto_9m100",
+"3356"
+],
+"3279": [
+"NEWC",
+14355,
+"76mm HE",
+"auto_76mmhe",
+"1375"
+],
+"3123": [
+"NEWC",
+18735,
+"SA-15e Gauntlet (9M338K)",
+"auto_sa15egauntlet9m338k",
+"3356"
+],
+"3361": [
+"NEWC",
+19002,
+"SS-N-33 (3M22 Zircon)",
+"auto_ssn333m22zircon",
+"2062"
+],
+"1545": [
+"NEWC",
+14373,
+"40mm/70 Twin Bofors DP Bur",
+"auto_40mm70twinboforsdpbur",
+"1306"
+],
+"347": [
+"NEWC",
+14462,
+"20mm Single Burst (20 rnds",
+"auto_20mmsingleburst20rnds",
+"830"
+],
+"2895": [
+"NEWC",
+14425,
+"127mm/64 HECVT",
+"auto_127mm64hecvt",
+"3043"
+],
+"2896": [
+"NEWC",
+14425,
+"127mm/64 HE",
+"auto_127mm64he",
+"3043"
+],
+"1475": [
+"NEWC",
+19085,
+"AGM-119B Penguin Mk2 Mod 7",
+"auto_agm119bpenguinmk2mod7",
+"4136"
+],
+"1455": [
+"NEWC",
+18755,
+"RB 15M Mk2",
+"auto_rb15mmk2",
+"1575"
+],
+"1653": [
+"NEWC",
+14373,
+"40mm/70 Single Bofors Burs",
+"auto_40mm70singleboforsburs",
+"1306"
+],
+"1380": [
+"NEWC",
+26691,
+"Tp 432",
+"auto_tp432",
+"1595"
+],
+"2372": [
+"NEWC",
+14462,
+"12.7mm/50 STAMP Burst (20",
+"auto_127mm50stampburst20",
+"830"
+],
+"3650": [
+"NEWC",
+18678,
+"Atmaca ASM (Blk I)",
+"auto_atmacaasmblki",
+"2408"
+],
+"2934": [
+"NEWC",
+14415,
+"25mm STOP Burst (12 rnds)",
+"auto_25mmstopburst12rnds",
+"1393"
+],
+"3891": [
+"NEWC",
+14373,
+"35mm Twin Oerlikon KDC-02",
+"auto_35mmtwinoerlikonkdc02",
+"1306"
+],
+"3812": [
+"NEWC",
+26643,
+"TORK",
+"auto_tork",
+"1158"
+],
+"3176": [
+"NEWC",
+18882,
+"Mizrak-U (UMTAS)",
+"auto_mizrakuumtas",
+"676"
+],
+"3157": [
+"NEWC",
+18794,
+"Martlet (FASGW(L) / LMM)",
+"auto_martletfasgwllmm",
+"4597"
+],
+"3773": [
+"NEWC",
+14373,
+"40mm/70 Mk4 Single Bofors",
+"auto_40mm70mk4singlebofors",
+"1306"
+],
+"4065": [
+"NEWC",
+14446,
+"7.62mm Minigun Burst (100",
+"auto_762mmminigunburst100",
+"1415"
+],
+"1397": 26661,
+"3440": [
+"NEWC",
+18755,
+"CSS-N-4 Sardine (YJ-82)",
+"auto_cssn4sardineyj82",
+"1575"
+],
+"4433": [
+"NEWC",
+18440,
+"JL-3 (1.0mT Nuclear; CSS-NX",
+"auto_jl310mtnuclearcssnx",
+"859"
+],
+"2338": [
+"NEWC",
+26660,
+"SUT Mod 4",
+"auto_sutmod4",
+"2216"
+],
+"3904": [
+"NEWC",
+26747,
+"Type 18 (G-RX6)",
+"auto_type18grx6",
+"2872"
+],
+"523": [
+"NEWC",
+19017,
+"SA-N-8 Gremlin (9M36)",
+"auto_san8gremlin9m36",
+"2603"
+],
+"2178": [
+"NEWC",
+26677,
+"USET-80K",
+"auto_uset80k",
+"1458"
+],
+"2171": [
+"NEWC",
+26695,
+"65-76A Kit WH",
+"auto_6576akitwh",
+"82"
+],
+"1139": [
+"NEWC",
+26681,
+"UGST (Fizik-1)",
+"auto_ugstfizik1",
+"901"
+],
+"3473": [
+"NEWC",
+26639,
+"KANYON (Status-6)",
+"auto_kanyonstatus6",
+"1712"
+],
+"3326": [
+"NEWC",
+18440,
+"SS-N-23 Skiff (12 MIRV x 10",
+"auto_ssn23skiff12mirvx10",
+"859"
+],
+"4414": [
+"NEWC",
+26677,
+"UET-1",
+"auto_uet1",
+"1458"
+],
+"3677": [
+"NEWC",
+26639,
+"Tiger Shark",
+"auto_tigershark",
+"1712"
+],
+"2208": 26746,
+"3110": [
+"NEWC",
+18450,
+"Hyunmoo 3A",
+"auto_hyunmoo3a",
+"382"
+],
+"3111": [
+"NEWC",
+18450,
+"Hyunmoo 3B",
+"auto_hyunmoo3b",
+"382"
+],
+"2782": [
+"NEWC",
+18658,
+"Hyunmoo 3C",
+"auto_hyunmoo3c",
+"586"
+],
+"3109": [
+"NEWC",
+18934,
+"Hyunmoo 2B (NHK-2 PIP-B)",
+"auto_hyunmoo2bnhk2pipb",
+"1173"
+],
+"3936": [
+"NEWC",
+26691,
+"Tp 47",
+"auto_tp47",
+"1595"
+],
+"3971": [
+"NEWC",
+26639,
+"Akya HWT",
+"auto_akyahwt",
+"1712"
+],
+"3716": [
+"NEWC",
+16385,
+"CH-SSC-9 (CJ-10)",
+"auto_chssc9cj10",
+"4515"
+],
+"3869": [
+"NEWC",
+18630,
+"SAAM-400K Hae Gung (K-SAAM)",
+"auto_saam400khaegungksaam",
+"1426"
+],
+"1713": 22579,
+"4269": [
+"NEWC",
+14462,
+"30mm CIWS-2",
+"auto_30mmciws2",
+"830"
+],
+"3939": [
+"NEWC",
+18624,
+"L-SAM",
+"auto_lsam",
+"133"
+],
+"3786": [
+"NEWC",
+14480,
+"12.7mm HMP 400 Gun Pod Bur",
+"auto_127mmhmp400gunpodbur",
+"1088"
+],
+"3926": [
+"NEWC",
+18804,
+"Aculeus-LG SNEB 68mm Rocket",
+"auto_aculeuslgsneb68mmrocket",
+"2597"
+],
+"3978": [
+"NEWC",
+18804,
+"FZ 275 70mm Rocket",
+"auto_fz27570mmrocket",
+"3540"
+],
+"3511": [
+"NEWC",
+18772,
+"I-Derby ER",
+"auto_iderbyer",
+"897"
+],
+"516": 18786,
+"2403": [
+"NEWC",
+18751,
+"Griffin LGB (1000lb GPB)",
+"auto_griffinlgb1000lbgpb",
+"2402"
+],
+"4078": [
+"NEWC",
+18772,
+"Astra Mk1",
+"auto_astramk1",
+"897"
+],
+"4432": [
+"NEWC",
+18751,
+"NASM-SR",
+"auto_nasmsr",
+"1603"
+],
+"3521": [
+"NEWC",
+18739,
+"SPICE 250 GPS/EO",
+"auto_spice250gpseo",
+"484"
+],
+"3862": [
+"NEWC",
+18919,
+"MICA IR NG",
+"auto_micairng",
+"51"
+],
+"719": [
+"NEWC",
+18702,
+"ASMP-A (300kT Nuclear)",
+"auto_asmpa300ktnuclear",
+"920"
+],
+"3770": [
+"NEWC",
+18774,
+"Qaem 1",
+"auto_qaem1",
+"1241"
+],
+"3994": [
+"NEWC",
+18774,
+"Almas",
+"auto_almas",
+"1241"
+],
+"4143": [
+"NEWC",
+18774,
+"Qaem 5",
+"auto_qaem5",
+"1241"
+],
+"4185": [
+"NEWC",
+18793,
+"Qaem-114 (LST; AGM-114 Copy",
+"auto_qaem114lstagm114copy",
+"683"
+],
+"4199": [
+"NEWC",
+18794,
+"Qaem-114 (IIR; AGM-114 Copy",
+"auto_qaem114iiragm114copy",
+"966"
+],
+"4200": [
+"NEWC",
+18794,
+"Qaem-114 (TV/EO; AGM-114 Co",
+"auto_qaem114tveoagm114co",
+"966"
+],
+"4201": [
+"NEWC",
+18794,
+"Qaem-114 (MMR; AGM-114 Copy",
+"auto_qaem114mmragm114copy",
+"966"
+],
+"4181": [
+"NEWC",
+18819,
+"Heidar-1",
+"auto_heidar1",
+"299"
+],
+"4436": [
+"NEWC",
+18819,
+"Heidar-2",
+"auto_heidar2",
+"299"
+],
+"2046": [
+"NEWC",
+18533,
+"AA-10 Alamo A (R-27R1; MR T",
+"auto_aa10alamoar27r1mrt",
+"1901"
+],
+"4120": [
+"NEWC",
+18751,
+"Yasin (500lb HE)",
+"auto_yasin500lbhe",
+"1603"
+],
+"3647": [
+"NEWC",
+18936,
+"Balaban (45kg HE)",
+"auto_balaban45kghe",
+"2873"
+],
+"4178": [
+"NEWC",
+18776,
+"Akhgar",
+"auto_akhgar",
+"3481"
+],
+"4162": [
+"NEWC",
+18496,
+"Sadid-1",
+"auto_sadid1",
+"815"
+],
+"4179": [
+"NEWC",
+18793,
+"Shafaq-3 (IIR)",
+"auto_shafaq3iir",
+"683"
+],
+"4180": [
+"NEWC",
+18958,
+"Shafaq-4 (LST)",
+"auto_shafaq4lst",
+"2733"
+],
+"4183": [
+"NEWC",
+18751,
+"Ra'ad-301",
+"auto_raad301",
+"3723"
+],
+"467": [
+"NEWC",
+18935,
+"C-701",
+"auto_c701",
+"3769"
+],
+"4175": [
+"NEWC",
+18774,
+"Sadid-345 (TV/EO)",
+"auto_sadid345tveo",
+"1241"
+],
+"4176": [
+"NEWC",
+18774,
+"Sadid-345 (IIR)",
+"auto_sadid345iir",
+"1241"
+],
+"4177": [
+"NEWC",
+18774,
+"Sadid-345 (LST)",
+"auto_sadid345lst",
+"1241"
+],
+"2162": [
+"NEWC",
+18543,
+"AS-10 Karen (Kh-25L)",
+"auto_as10karenkh25l",
+"2163"
+],
+"4285": [
+"DIV",
+31054,
+7
+],
+"4286": [
+"NEWC",
+18882,
+"Fadak Laser-Guided 80mm Roc",
+"auto_fadaklaserguided80mmroc",
+"676"
+],
+"4296": [
+"NEWC",
+16385,
+"Asef (Soumar Mod)",
+"auto_asefsoumarmod",
+"3209"
+],
+"1043": [
+"NEWC",
+18496,
+"BGM-71B TOW",
+"auto_bgm71btow",
+"815"
+],
+"2931": [
+"NEWC",
+18496,
+"Toophan-2 (BGM-71C Copy)",
+"auto_toophan2bgm71ccopy",
+"815"
+],
+"3528": [
+"NEWC",
+18557,
+"Rampage",
+"auto_rampage",
+"1308"
+],
+"1050": 18611,
+"3212": [
+"NEWC",
+18751,
+"GBU-38(V)1/B JDAM (MPR-500",
+"auto_gbu38v1bjdammpr500",
+"3723"
+],
+"3213": [
+"NEWC",
+18751,
+"GBU-54(V)1/B LJDAM (MPR-500",
+"auto_gbu54v1bljdammpr500",
+"3723"
+],
+"3214": [
+"NEWC",
+18751,
+"Griffin LGB (MPR-500 Penetr",
+"auto_griffinlgbmpr500penetr",
+"2402"
+],
+"4555": [
+"NEWC",
+19083,
+"Rocks (Black Sparrow) ALBM",
+"auto_rocksblacksparrowalbm",
+"638"
+],
+"4556": [
+"NEWC",
+18644,
+"Golden Horizon (Blue Sparro",
+"auto_goldenhorizonbluesparro",
+"16"
+],
+"3962": [
+"NEWC",
+18774,
+"KAB-20L LGB",
+"auto_kab20llgb",
+"1241"
+],
+"3963": [
+"NEWC",
+18751,
+"KAB-20S GLONASS",
+"auto_kab20sglonass",
+"3723"
+],
+"1767": [
+"NEWC",
+18755,
+"TC-1 (Tien Chien I)",
+"auto_tc1tienchieni",
+"1756"
+],
+"1934": 18807,
+"3983": [
+"NEWC",
+18555,
+"TC-2C (Tien Chien II)",
+"auto_tc2ctienchienii",
+"2056"
+],
+"3027": [
+"NEWC",
+18536,
+"TC-2A (Tien Chien II)",
+"auto_tc2atienchienii",
+"276"
+],
+"3026": [
+"NEWC",
+18462,
+"Wan Chien (100 x Anti-Runwa",
+"auto_wanchien100xantirunwa",
+"3688"
+],
+"4428": [
+"NEWC",
+18462,
+"Wan Chien (350kg HE)",
+"auto_wanchien350kghe",
+"3688"
+],
+"4429": [
+"NEWC",
+18462,
+"Wan Chien (350kg SAP)",
+"auto_wanchien350kgsap",
+"3688"
+],
+"259": [
+"NEWC",
+14373,
+"30mm/70 OTO Breda Burst (2",
+"auto_30mm70otobredaburst2",
+"1306"
+],
+"3305": [
+"NEWC",
+14373,
+"30mm CRN-91 Burst (20 rnds",
+"auto_30mmcrn91burst20rnds",
+"1306"
+],
+"2276": [
+"DIV",
+31054,
+7
+],
+"4312": [
+"NEWC",
+26627,
+"Advanced Light Torp",
+"auto_advancedlighttorp",
+"1279"
+],
+"1868": 18567,
+"401": [
+"NEWC",
+14373,
+"40mm/60 Single Bofors Burs",
+"auto_40mm60singleboforsburs",
+"1306"
+],
+"1431": [
+"NEWC",
+14373,
+"30mm/75 Single Oerlikon AP",
+"auto_30mm75singleoerlikonap",
+"1306"
+],
+"1433": [
+"NEWC",
+14373,
+"30mm/75 Single Oerlikon HE",
+"auto_30mm75singleoerlikonhe",
+"1306"
+],
+"4127": [
+"NEWC",
+18624,
+"Sayyad-3",
+"auto_sayyad3",
+"133"
+],
+"4263": [
+"NEWC",
+18735,
+"Zoubin",
+"auto_zoubin",
+"3356"
+],
+"3942": [
+"NEWC",
+14415,
+"23mm ZU-23 Single Burst (2",
+"auto_23mmzu23singleburst2",
+"1393"
+],
+"3667": [
+"NEWC",
+18570,
+"Sayyad-2",
+"auto_sayyad2",
+"134"
+],
+"3991": [
+"NEWC",
+14462,
+"Kamand 30mm Gatling Burst",
+"auto_kamand30mmgatlingburst",
+"830"
+],
+"4542": [
+"NEWC",
+14382,
+"20mm/85 Minigun Burst (200",
+"auto_20mm85minigunburst200",
+"1630"
+],
+"2319": [
+"NEWC",
+14462,
+"20mm Single Burst (20 rnds",
+"auto_20mmsingleburst20rnds",
+"830"
+],
+"3252": [
+"NEWC",
+18821,
+"Tamir",
+"auto_tamir",
+"2763"
+],
+"1179": [
+"NEWC",
+14415,
+"25mm/75 Typhoon Burst (10",
+"auto_25mm75typhoonburst10",
+"1393"
+],
+"130": [
+"NEWC",
+14373,
+"30mm Bushmaster II HE Burs",
+"auto_30mmbushmasteriiheburs",
+"1306"
+],
+"2599": [
+"NEWC",
+18678,
+"Otomat Mk2 Mod IV",
+"auto_otomatmk2modiv",
+"2408"
+],
+"357": [
+"NEWC",
+14415,
+"23mm ZU-23-2 Burst (20 rnd",
+"auto_23mmzu232burst20rnd",
+"1393"
+],
+"3878": [
+"NEWC",
+18751,
+"Sea Guard (Chen Hai) 70mm R",
+"auto_seaguardchenhai70mmr",
+"3100"
+],
+"1133": 18625,
+"3831": [
+"NEWC",
+18821,
+"TC-2N (Tien Chien II)",
+"auto_tc2ntienchienii",
+"2763"
+],
+"289": [
+"NEWC",
+14373,
+"30mm Bushmaster II APDS Bu",
+"auto_30mmbushmasteriiapdsbu",
+"1306"
+],
+"1702": [
+"NEWC",
+14462,
+"20mm/85 Mk15 Phalanx Blk 0",
+"auto_20mm85mk15phalanxblk0",
+"830"
+],
+"3383": [
+"NEWC",
+18735,
+"TC-1 (Tien Chien I)",
+"auto_tc1tienchieni",
+"3356"
+],
+"3695": [
+"NEWC",
+14373,
+"30mm Generic Cannon (20 rn",
+"auto_30mmgenericcannon20rn",
+"1306"
+],
+"3696": [
+"NEWC",
+14415,
+"25mm Heavy MG Burst (12 rn",
+"auto_25mmheavymgburst12rn",
+"1393"
+],
+"2387": [
+"NEWC",
+26749,
+"YT-534-UW1 Valfajr",
+"auto_yt534uw1valfajr",
+"3095"
+],
+"412": [
+"NEWC",
+14480,
+"12.7mm/50 MG x 2 Burst (10",
+"auto_127mm50mgx2burst10",
+"1088"
+],
+"465": [
+"NEWC",
+18793,
+"ZT-6 Mokopa",
+"auto_zt6mokopa",
+"683"
+],
+"3493": [
+"NEWC",
+18936,
+"Nimrod 1",
+"auto_nimrod1",
+"2873"
+],
+"3989": 31057,
+"2048": [
+"NEWC",
+18457,
+"AA-10 Alamo C (R-27ER1; LR",
+"auto_aa10alamocr27er1lr",
+"1899"
+],
+"3242": [
+"NEWC",
+18804,
+"LAHAT",
+"auto_lahat",
+"3540"
+],
+"3954": [
+"NEWC",
+18751,
+"QFAB-250-LG LGB",
+"auto_qfab250lglgb",
+"2402"
+],
+"1794": [
+"NEWC",
+14478,
+"30mm Type 30-1 x 2 Burst",
+"auto_30mmtype301x2burst",
+"768"
+],
+"4450": [
+"NEWC",
+18531,
+"PL-9C",
+"auto_pl9c",
+"1896"
+],
+"1749": 18687,
+"931": [
+"NEWC",
+18747,
+"MAA-1 Piranha",
+"auto_maa1piranha",
+"3301"
+],
+"2702": [
+"NEWC",
+18776,
+"MAR-1 (ARM)",
+"auto_mar1arm",
+"3481"
+],
+"4073": [
+"NEWC",
+18756,
+"SMKB-83",
+"auto_smkb83",
+"1742"
+],
+"4072": [
+"NEWC",
+19085,
+"SMKB-82",
+"auto_smkb82",
+"2390"
+],
+"457": 18742,
+"4074": [
+"NEWC",
+18887,
+"AV-TM 300 Matador",
+"auto_avtm300matador",
+"481"
+],
+"282": [
+"NEWC",
+18891,
+"RB 15F Mk2",
+"auto_rb15fmk2",
+"4468"
+],
+"1484": [
+"NEWC",
+19085,
+"RB 12 Penguin Mk2",
+"auto_rb12penguinmk2",
+"2390"
+],
+"1095": [
+"NEWC",
+14480,
+"12.7mm Yak-B Burst (100 rn",
+"auto_127mmyakbburst100rn",
+"1088"
+],
+"4354": [
+"NEWC",
+18635,
+"Al-Tariq PGM",
+"auto_altariqpgm",
+"826"
+],
+"852": [
+"NEWC",
+14488,
+"23mm Gsh-23M Twin Burst (1",
+"auto_23mmgsh23mtwinburst1",
+"2116"
+],
+"3129": [
+"NEWC",
+18546,
+"AS-22 (Kh-38MAE)",
+"auto_as22kh38mae",
+"219"
+],
+"3075": [
+"NEWC",
+19063,
+"FN-6",
+"auto_fn6",
+"733"
+],
+"3488": [
+"NEWC",
+18804,
+"TL-2 Skythunder ATGM",
+"auto_tl2skythunderatgm",
+"2597"
+],
+"3491": [
+"NEWC",
+18739,
+"FT-7 SDB",
+"auto_ft7sdb",
+"484"
+],
+"3121": [
+"NEWC",
+14480,
+"20mm ZPL-20 Plamen Burst",
+"auto_20mmzpl20plamenburst",
+"1088"
+],
+"194": [
+"NEWC",
+14399,
+"12.7mm/50 Twin MG Burst (2",
+"auto_127mm50twinmgburst2",
+"1695"
+],
+"2574": [
+"NEWC",
+14478,
+"30mm Gsh-30-2K Burst (25 r",
+"auto_30mmgsh302kburst25r",
+"768"
+],
+"4155": [
+"NEWC",
+18536,
+"CM-102",
+"auto_cm102",
+"276"
+],
+"4264": 30735,
+"2206": [
+"NEWC",
+14488,
+"23mm AM-23 x 2 Burst (50 r",
+"auto_23mmam23x2burst50r",
+"2116"
+],
+"3311": [
+"NEWC",
+18806,
+"H-4 SOW (Raptor 2)",
+"auto_h4sowraptor2",
+"4627"
+],
+"163": [
+"DIV",
+31054,
+7
+],
+"3896": [
+"NEWC",
+19095,
+"CH-AA-10 Abaddon (PL-15E)",
+"auto_chaa10abaddonpl15e",
+"3413"
+],
+"2864": [
+"NEWC",
+18544,
+"CM-400Akg Wrecker (ASM; SY-",
+"auto_cm400akgwreckerasmsy",
+"3125"
+],
+"2865": [
+"NEWC",
+18544,
+"CM-400Akg Wrecker (AGM; SY-",
+"auto_cm400akgwreckeragmsy",
+"3125"
+],
+"1684": [
+"NEWC",
+14446,
+"7.62mm M60C x 4 Burst (100",
+"auto_762mmm60cx4burst100",
+"953"
+],
+"372": [
+"NEWC",
+18804,
+"HOT",
+"auto_hot",
+"2597"
+],
+"439": [
+"NEWC",
+14446,
+"7.62mm MAG-58M MG Burst (2",
+"auto_762mmmag58mmgburst2",
+"953"
+],
+"3458": 30739,
+"3459": 30739,
+"2057": [
+"NEWC",
+14399,
+"12.7mm/50 MG Burst (10 rnd",
+"auto_127mm50mgburst10rnd",
+"1695"
+],
+"3474": [
+"NEWC",
+18588,
+"AIM-2000 IRIS-T",
+"auto_aim2000irist",
+"1046"
+],
+"958": 18704,
+"4305": [
+"NEWC",
+18804,
+"HYDRA TALON 70mm Rocket",
+"auto_hydratalon70mmrocket",
+"2597"
+],
+"3180": [
+"NEWC",
+18774,
+"Barrier-V ATGM",
+"auto_barriervatgm",
+"1241"
+],
+"3388": [
+"NEWC",
+18774,
+"Stugna-P (RK-2S) ATGM",
+"auto_stugnaprk2satgm",
+"1241"
+],
+"619": [
+"NEWC",
+18456,
+"AGM-88B HARM Blk IIIB",
+"auto_agm88bharmblkiiib",
+"649"
+],
+"1930": [
+"DIV",
+31054,
+7
+],
+"3304": [
+"NEWC",
+14399,
+"12.7mm/50 MG x 2 Burst (10",
+"auto_127mm50mgx2burst10",
+"1695"
+],
+"3777": [
+"DIV",
+31054,
+7
+],
+"535": [
+"NEWC",
+14462,
+"30mm China H/PJ-12 (Type 7",
+"auto_30mmchinahpj12type7",
+"830"
+],
+"476": [
+"NEWC",
+18588,
+"Umkhonto-IR Mk1",
+"auto_umkhontoirmk1",
+"1879"
+],
+"668": [
+"NEWC",
+14462,
+"20mm GAM-BO1 Oerlikon Burs",
+"auto_20mmgambo1oerlikonburs",
+"830"
+],
+"743": [
+"NEWC",
+18989,
+"FIM-92C Stinger RMP",
+"auto_fim92cstingerrmp",
+"396"
+],
+"296": [
+"NEWC",
+14373,
+"30mm/82 Compact OTO-Breda/",
+"auto_30mm82compactotobreda",
+"1306"
+],
+"4067": [
+"NEWC",
+14373,
+"30mm KCE30 Burst (55 rnds)",
+"auto_30mmkce30burst55rnds",
+"1306"
+],
+"4066": [
+"NEWC",
+18576,
+"MANSUP",
+"auto_mansup",
+"837"
+],
+"2706": [
+"NEWC",
+14373,
+"30mm/75 Twin Oerlikon GCM-",
+"auto_30mm75twinoerlikongcm",
+"1306"
+],
+"2710": [
+"NEWC",
+14373,
+"30mm/75 Twin Oerlikon GCM-",
+"auto_30mm75twinoerlikongcm",
+"1306"
+],
+"1626": [
+"NEWC",
+18588,
+"Sea Wolf Blk 1",
+"auto_seawolfblk1",
+"1879"
+],
+"1659": [
+"NEWC",
+14425,
+"114mm/55 Mk8 HE(MP)ER HE",
+"auto_114mm55mk8hemperhe",
+"3043"
+],
+"2708": [
+"NEWC",
+14373,
+"30mm/75 DS30B Mk1 APDS Bur",
+"auto_30mm75ds30bmk1apdsbur",
+"1306"
+],
+"2709": [
+"NEWC",
+14373,
+"30mm/75 DS30B Mk1 HE Burst",
+"auto_30mm75ds30bmk1heburst",
+"1306"
+],
+"1635": [
+"NEWC",
+14373,
+"40mm/70 Twin Breda Compact",
+"auto_40mm70twinbredacompact",
+"1306"
+],
+"745": [
+"NEWC",
+14373,
+"40mm/70 Twin Breda Vesta F",
+"auto_40mm70twinbredavestaf",
+"1306"
+],
+"3905": [
+"NEWC",
+14484,
+"20mm/128 Searanger Burst",
+"auto_20mm128searangerburst",
+"3974"
+],
+"196": 22591,
+"18": [
+"NEWC",
+18522,
+"SS-N-22M Sunburn (P-270 Mos",
+"auto_ssn22msunburnp270mos",
+"109"
+],
+"285": [
+"NEWC",
+14462,
+"20mm/70 Oerlikon Burst (20",
+"auto_20mm70oerlikonburst20",
+"830"
+],
+"1416": [
+"NEWC",
+18630,
+"Aspide",
+"auto_aspide",
+"1426"
+],
+"1262": [
+"NEWC",
+18576,
+"Otomat Mk2 Mod I",
+"auto_otomatmk2modi",
+"3902"
+],
+"518": [
+"NEWC",
+18751,
+"Marte Mk2",
+"auto_martemk2",
+"3100"
+],
+"3854": [
+"NEWC",
+14462,
+"20mm M71/08 Burst (20 rnds",
+"auto_20mmm7108burst20rnds",
+"830"
+],
+"2767": [
+"NEWC",
+18735,
+"VL-MICA EM",
+"auto_vlmicaem",
+"3356"
+],
+"369": [
+"NEWC",
+14373,
+"40mm/60 Mk7 Single Bofors",
+"auto_40mm60mk7singlebofors",
+"1306"
+],
+"3467": [
+"NEWC",
+18989,
+"HT-16PGJ (9M313)",
+"auto_ht16pgj9m313",
+"396"
+],
+"1321": [
+"NEWC",
+14462,
+"14.5mm/73 Quad Burst (20 r",
+"auto_145mm73quadburst20r",
+"830"
+],
+"1153": [
+"NEWC",
+18989,
+"SA-16 Gimlet (9M313)",
+"auto_sa16gimlet9m313",
+"396"
+],
+"1553": [
+"NEWC",
+14373,
+"37mm/63 Twin Burst (20 rnd",
+"auto_37mm63twinburst20rnd",
+"1306"
+],
+"353": [
+"NEWC",
+14462,
+"14.5mm/93 Twin MG Burst (2",
+"auto_145mm93twinmgburst2",
+"830"
+],
+"3741": [
+"NEWC",
+14373,
+"30mm Rafael Typhoon HE Bur",
+"auto_30mmrafaeltyphoonhebur",
+"1306"
+],
+"2902": [
+"NEWC",
+14373,
+"40mm Grenade Salvo (10 rnd",
+"auto_40mmgrenadesalvo10rnd",
+"1306"
+],
+"4397": [
+"NEWC",
+18961,
+"PORSAV",
+"auto_porsav",
+"3350"
+],
+"3097": 18992,
+"1443": [
+"NEWC",
+14430,
+"100mm/56 Twin Frag Burst",
+"auto_100mm56twinfragburst",
+"1440"
+],
+"1444": [
+"NEWC",
+14430,
+"100mm/56 Twin HE Burst (2",
+"auto_100mm56twinheburst2",
+"1440"
+],
+"3771": [
+"DIV",
+31054,
+7
+],
+"1107": [
+"NEWC",
+14462,
+"AK-306 30mm/54 Gatling Bur",
+"auto_ak30630mm54gatlingbur",
+"830"
+],
+"4128": [
+"NEWC",
+18895,
+"CM-90 Nasir",
+"auto_cm90nasir",
+"1301"
+],
+"1546": [
+"NEWC",
+14415,
+"25mm/60 Twin Burst (20 rnd",
+"auto_25mm60twinburst20rnd",
+"1393"
+],
+"4029": [
+"NEWC",
+18955,
+"SS-N-2d Improved Styx (P-22",
+"auto_ssn2dimprovedstyxp22",
+"1597"
+],
+"397": [
+"NEWC",
+26650,
+"NT-37F",
+"auto_nt37f",
+"430"
+],
+"2207": [
+"NEWC",
+26660,
+"SUT Mod 264",
+"auto_sutmod264",
+"2216"
+],
+"1119": [
+"NEWC",
+26677,
+"53-65KE WH",
+"auto_5365kewh",
+"1458"
+],
+"2117": [
+"NEWC",
+26640,
+"Yu-4B",
+"auto_yu4b",
+"1933"
+],
+"584": [
+"NEWC",
+14430,
+"100mm/55 Model 1968 PFHE",
+"auto_100mm55model1968pfhe",
+"1440"
+],
+"583": [
+"NEWC",
+14430,
+"100mm/55 Model 1968 HE",
+"auto_100mm55model1968he",
+"1441"
+],
+"883": [
+"NEWC",
+14462,
+"20mm/80 Mk10 Twin Burst (2",
+"auto_20mm80mk10twinburst2",
+"830"
+],
+"937": [
+"NEWC",
+14413,
+"127mm/25 Mk10 HE-PD (HiCap",
+"auto_127mm25mk10hepdhicap",
+"1632"
+],
+"2401": [
+"NEWC",
+14413,
+"127mm/25 Mk10 AA-VT (Anti-",
+"auto_127mm25mk10aavtanti",
+"1632"
+],
+"938": [
+"NEWC",
+14401,
+"152mm/47 Mk16 Triple HC Sa",
+"auto_152mm47mk16triplehcsa",
+"1414"
+],
+"2397": [
+"NEWC",
+14401,
+"152mm/47 Mk16 Triple AP Sa",
+"auto_152mm47mk16tripleapsa",
+"1414"
+],
+"1627": [
+"NEWC",
+18794,
+"Sea Cat Mod 1",
+"auto_seacatmod1",
+"4597"
+],
+"1326": [
+"NEWC",
+14373,
+"40mm/56 Mk1 Twin Bofors DP",
+"auto_40mm56mk1twinboforsdp",
+"1306"
+],
+"433": [
+"DIV",
+31054,
+7
+],
+"877": [
+"NEWC",
+18961,
+"RB 70 Rayrider Mk2",
+"auto_rb70rayridermk2",
+"3350"
+],
+"204": [
+"NEWC",
+14382,
+"Mk11 Hedgehog ASW Mortar S",
+"auto_mk11hedgehogaswmortars",
+"1630"
+],
+"774": [
+"NEWC",
+14413,
+"127mm/38 Twin AA-VT Burst",
+"auto_127mm38twinaavtburst",
+"1632"
+],
+"775": [
+"NEWC",
+14413,
+"127mm/38 Twin HE-PD Burst",
+"auto_127mm38twinhepdburst",
+"1632"
+],
+"1638": [
+"NEWC",
+14373,
+"40mm/60 Quad Bofors Burst",
+"auto_40mm60quadboforsburst",
+"1306"
+],
+"1652": [
+"NEWC",
+14462,
+"20mm/80 Twin Oerlikon Burs",
+"auto_20mm80twinoerlikonburs",
+"830"
+],
+"4149": [
+"NEWC",
+14430,
+"105mm m/40 HE",
+"auto_105mmm40he",
+"1441"
+],
+"159": [
+"NEWC",
+14373,
+"40mm/60 Twin Bofors Burst",
+"auto_40mm60twinboforsburst",
+"1306"
+],
+"782": [
+"NEWC",
+14373,
+"40mm/60 Mk3 Single Bofors",
+"auto_40mm60mk3singlebofors",
+"1306"
+],
+"777": [
+"NEWC",
+14355,
+"76mm/50 Twin Frag Burst (2",
+"auto_76mm50twinfragburst2",
+"1375"
+],
+"784": [
+"NEWC",
+14355,
+"76mm/50 Twin HE Burst (2 r",
+"auto_76mm50twinheburst2r",
+"1375"
+],
+"1658": [
+"NEWC",
+14413,
+"114mm/55 Mk8 HE(MP) HE",
+"auto_114mm55mk8hemphe",
+"1632"
+],
+"432": 31057,
+"185": [
+"NEWC",
+14413,
+"127mm/38 HE-PD (HiCap)",
+"auto_127mm38hepdhicap",
+"1632"
+],
+"2399": [
+"NEWC",
+14413,
+"127mm/38 AA-VT (AntiAircra",
+"auto_127mm38aavtantiaircra",
+"1632"
+],
+"1646": 22579,
+"2284": [
+"NEWC",
+14382,
+"Mk6/9/14 Depth Charge Mort",
+"auto_mk6914depthchargemort",
+"1630"
+],
+"2282": [
+"DIV",
+31054,
+7
+],
+"1347": [
+"NEWC",
+14373,
+"40mm/70 Mk3 Single Bofors",
+"auto_40mm70mk3singlebofors",
+"1306"
+],
+"187": [
+"NEWC",
+14355,
+"81mm HE Mortar",
+"auto_81mmhemortar",
+"1375"
+],
+"272": [
+"NEWC",
+14373,
+"40mm/56 Mk2 Quad Bofors DP",
+"auto_40mm56mk2quadboforsdp",
+"1306"
+],
+"1229": [
+"NEWC",
+14413,
+"114mm/45 Mk6 Twin HE Burst",
+"auto_114mm45mk6twinheburst",
+"1632"
+],
+"2681": [
+"NEWC",
+14462,
+"20mm/70 Oerlikon Mk10 Burs",
+"auto_20mm70oerlikonmk10burs",
+"830"
+],
+"1558": 18854,
+"1177": [
+"NEWC",
+14373,
+"40mm/70 Single Breda Burst",
+"auto_40mm70singlebredaburst",
+"1306"
+],
+"1931": [
+"NEWC",
+14355,
+"76mm/50 HE",
+"auto_76mm50he",
+"1375"
+],
+"2413": [
+"NEWC",
+14355,
+"76mm/50 Frag",
+"auto_76mm50frag",
+"1375"
+],
+"1428": [
+"NEWC",
+14373,
+"30mm/75 Twin Oerlikon APDS",
+"auto_30mm75twinoerlikonapds",
+"1306"
+],
+"1430": [
+"NEWC",
+14373,
+"30mm/75 Twin Oerlikon HE B",
+"auto_30mm75twinoerlikonheb",
+"1306"
+],
+"1456": [
+"DIV",
+31054,
+7
+],
+"607": [
+"NEWC",
+26676,
+"SET-65E Enot (NATO",
+"auto_set65eenotnato",
+"2169"
+],
+"2676": [
+"NEWC",
+14415,
+"25mm/79 2M-3M Twin Burst",
+"auto_25mm792m3mtwinburst",
+"1393"
+],
+"146": [
+"NEWC",
+14432,
+"57mm S-68 HE",
+"auto_57mms68he",
+"1140"
+],
+"1477": [
+"NEWC",
+18955,
+"SS-N-2c Improved Styx (P-20",
+"auto_ssn2cimprovedstyxp20",
+"1597"
+],
+"1555": [
+"NEWC",
+14373,
+"35mm/90 Twin Frag Burst (2",
+"auto_35mm90twinfragburst2",
+"1306"
+],
+"158": [
+"DIV",
+31054,
+7
+],
+"1795": [
+"NEWC",
+14373,
+"30mm Burst (20 rnds)",
+"auto_30mmburst20rnds",
+"1306"
+],
+"2181": [
+"DIV",
+31054,
+7
+],
+"193": [
+"NEWC",
+14462,
+"20mm/76 Sea Vulcan Burst",
+"auto_20mm76seavulcanburst",
+"830"
+],
+"165": [
+"NEWC",
+14355,
+"76mm/50 Mk22 Bofors HE",
+"auto_76mm50mk22boforshe",
+"1375"
+],
+"1495": [
+"NEWC",
+14432,
+"57mm/70 Bofors Mk2 GP Burs",
+"auto_57mm70boforsmk2gpburs",
+"1140"
+],
+"172": [
+"NEWC",
+14413,
+"114mm/45 Mk5 Twin HE Burst",
+"auto_114mm45mk5twinheburst",
+"1632"
+],
+"1542": [
+"NEWC",
+14401,
+"152mm/53 Twin Bofors AP Bu",
+"auto_152mm53twinboforsapbu",
+"1414"
+],
+"1544": [
+"NEWC",
+14401,
+"152mm/53 Twin Bofors HE Bu",
+"auto_152mm53twinboforshebu",
+"1414"
+],
+"788": [
+"NEWC",
+14430,
+"100mm/55 Model 1953 PFHE",
+"auto_100mm55model1953pfhe",
+"1440"
+],
+"792": [
+"NEWC",
+14430,
+"100mm/55 Model 1953 HE",
+"auto_100mm55model1953he",
+"1441"
+],
+"968": [
+"NEWC",
+26745,
+"Mk8 Straight Runner",
+"auto_mk8straightrunner",
+"1728"
+],
+"395": [
+"NEWC",
+26640,
+"SUT Mod 0",
+"auto_sutmod0",
+"1933"
+]
+},
+"S": {
+"2729": 43370,
+"5327": 43466,
+"6074": [
+"NEWC",
+43318,
+"GJ-11 Sharp Sword UAV AESA",
+"auto_gj11sharpsworduavaesa",
+"1379"
+],
+"5899": [
+"NEWC",
+43506,
+"Generic SAR/MTI",
+"auto_genericsarmti",
+"3768"
+],
+"2169": 43384,
+"7353": [
+"NEWC",
+43506,
+"China H-6K Surface Search R",
+"auto_chinah6ksurfacesearchr",
+"3768"
+],
+"994": [
+"NEWC",
+43506,
+"China Type 244 (HL-2A)",
+"auto_chinatype244hl2a",
+"3768"
+],
+"2692": 43755,
+"5824": [
+"NEWC",
+43318,
+"China KLJ-X AESA (Zhemchoug",
+"auto_chinakljxaesazhemchoug",
+"1379"
+],
+"2059": 43317,
+"5485": [
+"NEWC",
+43318,
+"J-16 AESA",
+"auto_j16aesa",
+"1379"
+],
+"5484": [
+"NEWC",
+43318,
+"J-15 AESA",
+"auto_j15aesa",
+"1379"
+],
+"4157": 43590,
+"6004": 43385,
+"5465": [
+"NEWC",
+43274,
+"China Type 88",
+"auto_chinatype88",
+"2181"
+],
+"7122": [
+"NEWC",
+43274,
+"KLC-7 Silk Road Eye",
+"auto_klc7silkroadeye",
+"2181"
+],
+"1980": 43572,
+"2397": [
+"NEWC",
+47300,
+"Lamb Tail (VGS-3 Ros-V)",
+"auto_lambtailvgs3rosv",
+"625"
+],
+"2128": [
+"NEWC",
+43506,
+"E-801 Oko",
+"auto_e801oko",
+"3768"
+],
+"5134": [
+"NEWC",
+43506,
+"Generic Surface Search Rada",
+"auto_genericsurfacesearchrada",
+"3768"
+],
+"4480": [
+"NEWC",
+43318,
+"Slot Back (Irbis-E PESA)",
+"auto_slotbackirbisepesa",
+"1379"
+],
+"6664": [
+"NEWC",
+43274,
+"KJ-200 Radar",
+"auto_kj200radar",
+"2181"
+],
+"7369": [
+"NEWC",
+43506,
+"China Y-9DZ SAR",
+"auto_chinay9dzsar",
+"3768"
+],
+"6037": [
+"NEWC",
+47300,
+"Generic China Dipping Sonar",
+"auto_genericchinadippingsonar",
+"625"
+],
+"7370": [
+"NEWC",
+43506,
+"Z-18J AEW Radar",
+"auto_z18jaewradar",
+"3768"
+],
+"7406": [
+"NEWC",
+43506,
+"China KLC-3B",
+"auto_chinaklc3b",
+"3768"
+],
+"4372": [
+"NEWC",
+43318,
+"RBE-2AA AESA",
+"auto_rbe2aaaesa",
+"1379"
+],
+"6706": 43162,
+"624": 43371,
+"5526": [
+"NEWC",
+43506,
+"Search Master",
+"auto_searchmaster",
+"3768"
+],
+"6112": [
+"NEWC",
+43274,
+"Erieye-ER",
+"auto_erieyeer",
+"2181"
+],
+"6113": 43505,
+"2732": [
+"NEWC",
+47300,
+"TSM 8260 FLASH",
+"auto_tsm8260flash",
+"625"
+],
+"6402": [
+"NEWC",
+43318,
+"CAPTOR E-Scan Mk1",
+"auto_captorescanmk1",
+"1379"
+],
+"3755": [
+"NEWC",
+43506,
+"AN/APS-137B(V)5 ISAR",
+"auto_anaps137bv5isar",
+"3768"
+],
+"5074": 43162,
+"2204": 43427,
+"225": [
+"NEWC",
+43318,
+"CAPTOR",
+"auto_captor",
+"1379"
+],
+"1675": [
+"NEWC",
+43274,
+"Phalcon AEWR",
+"auto_phalconaewr",
+"2181"
+],
+"7402": [
+"NEWC",
+47300,
+"HELRAS-2 Mk2",
+"auto_helras2mk2",
+"625"
+],
+"608": 43231,
+"4839": [
+"NEWC",
+43318,
+"J/APG-2 AESA",
+"auto_japg2aesa",
+"1379"
+],
+"5916": [
+"NEWC",
+43318,
+"HPQ-101C",
+"auto_hpq101c",
+"1379"
+],
+"1493": 43502,
+"6916": [
+"NEWC",
+43274,
+"J/HPS-106B",
+"auto_jhps106b",
+"2181"
+],
+"6467": [
+"NEWC",
+43506,
+"J/HPS-105B",
+"auto_jhps105b",
+"3768"
+],
+"286": [
+"NEWC",
+47300,
+"J/HQS-104 (AN/AQS-18M)",
+"auto_jhqs104anaqs18m",
+"625"
+],
+"107": [
+"NEWC",
+47300,
+"HELRAS-2",
+"auto_helras2",
+"625"
+],
+"2206": 43514,
+"604": 43487,
+"544": [
+"NEWC",
+43274,
+"PS-890 Erieye",
+"auto_ps890erieye",
+"2181"
+],
+"578": 43298,
+"5897": [
+"NEWC",
+43274,
+"Vega Premier",
+"auto_vegapremier",
+"2181"
+],
+"5558": [
+"NEWC",
+47300,
+"Lamb Tail (Ros-VM)",
+"auto_lambtailrosvm",
+"625"
+],
+"5556": [
+"NEWC",
+43318,
+"Kopio-A",
+"auto_kopioa",
+"1379"
+],
+"6248": [
+"NEWC",
+43318,
+"FH01 Arbalet 52",
+"auto_fh01arbalet52",
+"1379"
+],
+"6236": [
+"NEWC",
+43318,
+"V006 Rezets",
+"auto_v006rezets",
+"1379"
+],
+"4830": 43280,
+"5378": 43280,
+"7342": 43281,
+"6": 43281,
+"1821": 43571,
+"6722": [
+"NEWC",
+43318,
+"N036B-1-01 Byelka AESA",
+"auto_n036b101byelkaaesa",
+"1379"
+],
+"1888": [
+"NEWC",
+43318,
+"N036L-1-01 Byelka AESA",
+"auto_n036l101byelkaaesa",
+"1379"
+],
+"7481": [
+"NEWC",
+43318,
+"N036B0-1-01 Byelka AESA",
+"auto_n036b0101byelkaaesa",
+"1379"
+],
+"6053": [
+"NEWC",
+43318,
+"MV-45",
+"auto_mv45",
+"1379"
+],
+"5176": [
+"NEWC",
+43506,
+"Sea Spray 7400E",
+"auto_seaspray7400e",
+"3768"
+],
+"3454": 43119,
+"6372": [
+"NEWC",
+43318,
+"KF-X AESA",
+"auto_kfxaesa",
+"1379"
+],
+"4985": [
+"NEWC",
+43506,
+"RDR-1400C",
+"auto_rdr1400c",
+"3768"
+],
+"1562": 43118,
+"2679": 43466,
+"4020": [
+"NEWC",
+47300,
+"TSM 82XX FLASH-S SONIC",
+"auto_tsm82xxflashssonic",
+"625"
+],
+"5900": [
+"NEWC",
+43506,
+"Generic SAR/MTI",
+"auto_genericsarmti",
+"3768"
+],
+"6111": [
+"NEWC",
+43506,
+"Aselsan AESA",
+"auto_aselsanaesa",
+"3768"
+],
+"1438": 43119,
+"7340": [
+"NEWC",
+43318,
+"IRFS AESA",
+"auto_irfsaesa",
+"1379"
+],
+"2932": [
+"NEWC",
+43506,
+"Blue Kestrel 7000",
+"auto_bluekestrel7000",
+"3768"
+],
+"2774": 43455,
+"5539": 43455,
+"1349": [
+"NEWC",
+43318,
+"CAPTOR-E AESA (CAESAR)",
+"auto_captoreaesacaesar",
+"1379"
+],
+"358": 47279,
+"5141": [
+"NEWC",
+43576,
+"Sea Master 400",
+"auto_seamaster400",
+"1645"
+],
+"2009": [
+"NEWC",
+43032,
+"APAR MFR",
+"auto_aparmfr",
+"1594"
+],
+"5652": [
+"NEWC",
+43576,
+"Scanter 6002",
+"auto_scanter6002",
+"1645"
+],
+"4252": [
+"NEWC",
+43556,
+"Goalkeeper Acquisition (Rad",
+"auto_goalkeeperacquisitionrad",
+"2314"
+],
+"655": 43520,
+"1191": 43115,
+"1271": 47212,
+"1354": 47231,
+"2238": 43457,
+"1929": 47124,
+"2776": [
+"NEWC",
+43576,
+"Sea Giraffe AMB 3D",
+"auto_seagiraffeamb3d",
+"1645"
+],
+"5806": 43669,
+"3020": 43273,
+"3029": 43528,
+"42": [
+"NEWC",
+43556,
+"China H/LJP-344A (Type 344)",
+"auto_chinahljp344atype344",
+"2314"
+],
+"2870": 47205,
+"5127": 40960,
+"7279": [
+"NEWC",
+43576,
+"China Type XXX X-Band Radar",
+"auto_chinatypexxxxbandradar",
+"1645"
+],
+"6573": [
+"NEWC",
+43576,
+"Type 052DL Anti-Stealth Rad",
+"auto_type052dlantistealthrad",
+"1645"
+],
+"5130": 40961,
+"7269": [
+"NEWC",
+47119,
+"China H/SJG-311 TASS",
+"auto_chinahsjg311tass",
+"105"
+],
+"5345": [
+"NEWC",
+47274,
+"China H/SJG-311 (Type 311) VD",
+"auto_chinahsjg311type311vd",
+"4019"
+],
+"2192": 43348,
+"3027": 40962,
+"5036": 47131,
+"7278": [
+"NEWC",
+43576,
+"China Type XXX MFR",
+"auto_chinatypexxxmfr",
+"1645"
+],
+"7281": [
+"NEWC",
+43576,
+"China H/LJQ-361A (Type 361)",
+"auto_chinahljq361atype361",
+"1645"
+],
+"2234": 47279,
+"2010": 43109,
+"2615": [
+"NEWC",
+43576,
+"Scanter 2001",
+"auto_scanter2001",
+"1645"
+],
+"6117": [
+"NEWC",
+43576,
+"Sea Giraffe 4A",
+"auto_seagiraffe4a",
+"1645"
+],
+"6119": 43176,
+"6455": [
+"NEWC",
+47274,
+"SD9500",
+"auto_sd9500",
+"4019"
+],
+"1160": 43630,
+"1310": 47169,
+"5990": [
+"NEWC",
+43576,
+"Sea Fire",
+"auto_seafire",
+"1645"
+],
+"5992": [
+"NEWC",
+47256,
+"Kingklip Mk2",
+"auto_kingklipmk2",
+"1381"
+],
+"1718": [
+"NEWC",
+47274,
+"ATBF 2",
+"auto_atbf2",
+"4019"
+],
+"2612": [
+"NEWC",
+43576,
+"Herakles 3D",
+"auto_herakles3d",
+"1645"
+],
+"4840": [
+"NEWC",
+47256,
+"UMS 4410CL",
+"auto_ums4410cl",
+"1381"
+],
+"6380": [
+"NEWC",
+43576,
+"Herakles 3D",
+"auto_herakles3d",
+"1645"
+],
+"1853": [
+"NEWC",
+43032,
+"MM/SPY-790 EMPAR MFR",
+"auto_mmspy790emparmfr",
+"1594"
+],
+"5665": 43635,
+"2648": [
+"NEWC",
+47256,
+"UMS 4110CL",
+"auto_ums4110cl",
+"1381"
+],
+"2564": [
+"NEWC",
+47119,
+"ALTO",
+"auto_alto",
+"105"
+],
+"3001": 43087,
+"319": [
+"NEWC",
+47256,
+"URDT 1 (SPDT-1A)",
+"auto_urdt1spdt1a",
+"1381"
+],
+"4217": 47423,
+"2012": 47424,
+"203": 43661,
+"353": 47279,
+"5175": 43601,
+"6120": [
+"NEWC",
+47379,
+"ATLAS ACTAS",
+"auto_atlasactas",
+"4808"
+],
+"5647": [
+"NEWC",
+47274,
+"Type 2087 (CAPTAS Mk4; Towed",
+"auto_type2087captasmk4towed",
+"4019"
+],
+"5805": [
+"NEWC",
+43576,
+"NS-100",
+"auto_ns100",
+"1645"
+],
+"4219": 47373,
+"348": 47337,
+"3381": 43530,
+"6303": [
+"NEWC",
+43576,
+"KRONOS StarFire",
+"auto_kronosstarfire",
+"1645"
+],
+"5777": [
+"NEWC",
+47119,
+"Black Snake (WASS / Morpheus)",
+"auto_blacksnakewassmorpheus",
+"105"
+],
+"5087": [
+"NEWC",
+43032,
+"J/OPS-50 MFR",
+"auto_jops50mfr",
+"1594"
+],
+"3576": [
+"NEWC",
+43576,
+"J/OPS-28D",
+"auto_jops28d",
+"1645"
+],
+"5088": [
+"NEWC",
+47256,
+"J/OQQ-21",
+"auto_joqq21",
+"1381"
+],
+"6673": [
+"NEWC",
+43032,
+"AN/SPY-7(V)1",
+"auto_anspy7v1",
+"1594"
+],
+"5909": [
+"NEWC",
+43032,
+"J/OPY-1 MFR",
+"auto_jopy1mfr",
+"1594"
+],
+"5911": [
+"NEWC",
+47379,
+"J/OQR-4 MFTA (AN/SQR-20)",
+"auto_joqr4mftaansqr20",
+"4808"
+],
+"5912": [
+"NEWC",
+47256,
+"J/OQQ-24",
+"auto_joqq24",
+"1381"
+],
+"5910": [
+"NEWC",
+43576,
+"J/OPY-1 VSR",
+"auto_jopy1vsr",
+"1645"
+],
+"6842": [
+"NEWC",
+43576,
+"J/OPS-48",
+"auto_jops48",
+"1645"
+],
+"6099": [
+"NEWC",
+47379,
+"AN/SQR-20 MFTA",
+"auto_ansqr20mfta",
+"4808"
+],
+"6264": [
+"NEWC",
+43576,
+"J/OPY-2 VSR",
+"auto_jopy2vsr",
+"1645"
+],
+"6265": [
+"NEWC",
+43032,
+"J/OPY-2 MFR",
+"auto_jopy2mfr",
+"1594"
+],
+"6271": [
+"NEWC",
+47274,
+"J/OQQ-25 VDS",
+"auto_joqq25vds",
+"4019"
+],
+"6270": [
+"NEWC",
+47119,
+"J/OQQ-25 TASS",
+"auto_joqq25tass",
+"105"
+],
+"1177": 43176,
+"5195": [
+"NEWC",
+43576,
+"SMART-L EWC (BMD Mod)",
+"auto_smartlewcbmdmod",
+"1645"
+],
+"6329": [
+"NEWC",
+43576,
+"NS100",
+"auto_ns100",
+"1645"
+],
+"4968": [
+"NEWC",
+43032,
+"3P96-2 (Poliment-Redoute)",
+"auto_3p962polimentredoute",
+"1594"
+],
+"4961": [
+"NEWC",
+43576,
+"Furke-E",
+"auto_furkee",
+"1645"
+],
+"1571": 43176,
+"1566": 43053,
+"7004": [
+"NEWC",
+43576,
+"NS-50",
+"auto_ns50",
+"1645"
+],
+"6338": [
+"NEWC",
+47256,
+"BlueHunter",
+"auto_bluehunter",
+"1381"
+],
+"1069": [
+"NEWC",
+43032,
+"Mk92 Mod 2 CAS",
+"auto_mk92mod2cas",
+"1594"
+],
+"1380": 47192,
+"4575": [
+"NEWC",
+47119,
+"AN/SQR-18A(V)2",
+"auto_ansqr18av2",
+"105"
+],
+"2172": [
+"NEWC",
+47256,
+"Bull Nose (MG-322 Argun)",
+"auto_bullnosemg322argun",
+"1381"
+],
+"1555": 43059,
+"1900": [
+"NEWC",
+47119,
+"DSBV 62C",
+"auto_dsbv62c",
+"105"
+],
+"4965": [
+"NEWC",
+47379,
+"Vinyetka-ME",
+"auto_vinyetkame",
+"4808"
+],
+"4967": 47399,
+"2755": 43061,
+"115": 43098,
+"702": 43075,
+"4535": 47400,
+"3638": 43617,
+"5587": [
+"NEWC",
+43556,
+"MR-350 Podkat",
+"auto_mr350podkat",
+"2314"
+],
+"1286": [
+"NEWC",
+47274,
+"Horse Tail (Polinom)",
+"auto_horsetailpolinom",
+"4019"
+],
+"4538": [
+"NEWC",
+47256,
+"Horse Jaw (Polinom)",
+"auto_horsejawpolinom",
+"1381"
+],
+"1758": 43288,
+"5382": [
+"NEWC",
+43576,
+"MR-650 Podberezovik",
+"auto_mr650podberezovik",
+"1645"
+],
+"5381": [
+"NEWC",
+43576,
+"Top Plate (5P-30N2 Fregat-N",
+"auto_topplate5p30n2fregatn",
+"1645"
+],
+"1553": 43061,
+"5588": 43061,
+"1249": 47400,
+"1362": 47176,
+"1478": [
+"NEWC",
+43032,
+"Top Dome (3R41 Volna)",
+"auto_topdome3r41volna",
+"1594"
+],
+"1550": [
+"NEWC",
+43576,
+"Top Steer (Fregat)",
+"auto_topsteerfregat",
+"1645"
+],
+"1552": 43060,
+"4966": 47399,
+"5610": [
+"NEWC",
+43556,
+"Monument A",
+"auto_monumenta",
+"2314"
+],
+"5383": [
+"NEWC",
+47274,
+"ISPN-M1 Minotaur",
+"auto_ispnm1minotaur",
+"4019"
+],
+"3624": 43098,
+"3578": 43176,
+"5463": [
+"NEWC",
+43576,
+"K/SPS-540K",
+"auto_ksps540k",
+"1645"
+],
+"4901": 43176,
+"6674": [
+"NEWC",
+43032,
+"AN/SPY-7(V)2",
+"auto_anspy7v2",
+"1594"
+],
+"1659": [
+"NEWC",
+47256,
+"TSM 2643 Salmon",
+"auto_tsm2643salmon",
+"1381"
+],
+"4682": [
+"NEWC",
+47274,
+"ST2400 Toadfish",
+"auto_st2400toadfish",
+"4019"
+],
+"4467": 47192,
+"6527": 43176,
+"7198": 43176,
+"6484": [
+"NEWC",
+47256,
+"Fersah",
+"auto_fersah",
+"1381"
+],
+"502": [
+"NEWC",
+47274,
+"Type 2087 (CAPTAS Mk2; Towed",
+"auto_type2087captasmk2towed",
+"4019"
+],
+"6232": [
+"NEWC",
+47256,
+"Type 2150",
+"auto_type2150",
+"1381"
+],
+"5052": [
+"NEWC",
+43576,
+"Type 997 Artisan 3D",
+"auto_type997artisan3d",
+"1645"
+],
+"6811": [
+"NEWC",
+43576,
+"Scanter 6000",
+"auto_scanter6000",
+"1645"
+],
+"7108": [
+"NEWC",
+43576,
+"NS-110",
+"auto_ns110",
+"1645"
+],
+"1217": [
+"NEWC",
+47114,
+"Type 2041 (PRS)",
+"auto_type2041prs",
+"816"
+],
+"1741": [
+"NEWC",
+47119,
+"SUBTASS",
+"auto_subtass",
+"105"
+],
+"2164": [
+"NEWC",
+47119,
+"Type 2046",
+"auto_type2046",
+"105"
+],
+"2939": 47109,
+"3206": 47182,
+"4176": 43747,
+"7338": [
+"NEWC",
+43721,
+"China H/LQK-359A",
+"auto_chinahlqk359a",
+"660"
+],
+"6465": [
+"NEWC",
+47119,
+"Generic Towed Array Sonar",
+"auto_generictowedarraysonar",
+"105"
+],
+"2927": 47495,
+"4012": [
+"NEWC",
+47114,
+"TSM 2255",
+"auto_tsm2255",
+"816"
+],
+"1725": 47324,
+"5812": [
+"NEWC",
+47119,
+"China SJG-206A TASS",
+"auto_chinasjg206atass",
+"105"
+],
+"4213": 47482,
+"2008": 47482,
+"2818": 47282,
+"6518": [
+"NEWC",
+47114,
+"J/ZQQ-8 Bow",
+"auto_jzqq8bow",
+"816"
+],
+"6519": [
+"NEWC",
+47114,
+"J/ZQQ-8 Flank Array",
+"auto_jzqq8flankarray",
+"816"
+],
+"6520": [
+"NEWC",
+47119,
+"J/ZQQ-8 TASS",
+"auto_jzqq8tass",
+"105"
+],
+"1469": [
+"NEWC",
+47283,
+"Shark Gill (MGK-501 Skat-KS)",
+"auto_sharkgillmgk501skatks",
+"2401"
+],
+"414": [
+"NEWC",
+47119,
+"Shark Tail (Pelmida)",
+"auto_sharktailpelmida",
+"105"
+],
+"5578": [
+"NEWC",
+47283,
+"Lira (Hull)",
+"auto_lirahull",
+"2401"
+],
+"3432": 43747,
+"5579": [
+"NEWC",
+47119,
+"Lira (Towed Array)",
+"auto_liratowedarray",
+"105"
+],
+"1264": 47219,
+"30": 47219,
+"31": [
+"NEWC",
+47283,
+"Shark Gill (MGK-520 Skat-BDRM",
+"auto_sharkgillmgk520skatbdrm",
+"2401"
+],
+"5466": [
+"NEWC",
+47283,
+"MGK-600B Amfora (Hull Array)",
+"auto_mgk600bamforahullarray",
+"2401"
+],
+"5467": [
+"NEWC",
+47119,
+"MGK-600B Amfora (Towed Array)",
+"auto_mgk600bamforatowedarray",
+"105"
+],
+"75": 47326,
+"29": 47122,
+"458": 47121,
+"1263": 47219,
+"2072": 47326,
+"2378": [
+"NEWC",
+47114,
+"MGK-600 Amfora (Flank Array)",
+"auto_mgk600amforaflankarray",
+"816"
+],
+"2380": [
+"NEWC",
+47119,
+"MGK-600 Amfora (Towed Array)",
+"auto_mgk600amforatowedarray",
+"105"
+],
+"2382": [
+"NEWC",
+47283,
+"MGK-600 Amfora (Hull Array)",
+"auto_mgk600amforahullarray",
+"2401"
+],
+"6076": [
+"NEWC",
+47283,
+"PLA-885M",
+"auto_pla885m",
+"2401"
+],
+"6479": [
+"NEWC",
+47283,
+"KSS-3 Hull Sonar",
+"auto_kss3hullsonar",
+"2401"
+],
+"6480": [
+"NEWC",
+47114,
+"KSS-3 Flank Array",
+"auto_kss3flankarray",
+"816"
+],
+"6482": [
+"NEWC",
+47119,
+"KSS-3 TASS",
+"auto_kss3tass",
+"105"
+],
+"4216": 47279,
+"2085": 47279,
+"4208": 47431,
+"1291": 47281,
+"1811": 47481,
+"6081": [
+"NEWC",
+43576,
+"K/SPS-550K",
+"auto_ksps550k",
+"1645"
+],
+"6084": [
+"NEWC",
+47256,
+"SQS-240K Hull Sonar",
+"auto_sqs240khullsonar",
+"1381"
+],
+"6085": [
+"NEWC",
+47119,
+"SQR-250K",
+"auto_sqr250k",
+"105"
+],
+"6571": [
+"NEWC",
+43032,
+"Generic AESA Radar",
+"auto_genericaesaradar",
+"1594"
+],
+"1324": 47279,
+"2173": 47431,
+"5051": [
+"NEWC",
+47119,
+"SQR-220K TASS",
+"auto_sqr220ktass",
+"105"
+],
+"7104": 43321,
+"7417": [
+"NEWC",
+43506,
+"WZ-7 UAV AESA",
+"auto_wz7uavaesa",
+"3768"
+],
+"2521": 43753,
+"6469": [
+"NEWC",
+43274,
+"Selex T-20",
+"auto_selext20",
+"2181"
+],
+"2088": [
+"NEWC",
+43506,
+"Global Hawk ISS (ISAR)",
+"auto_globalhawkissisar",
+"3768"
+],
+"6587": [
+"NEWC",
+43506,
+"AirMaster C",
+"auto_airmasterc",
+"3768"
+],
+"2114": 43363,
+"448": [
+"NEWC",
+43506,
+"EL/M-2022A(V)3",
+"auto_elm2022av3",
+"3768"
+],
+"6852": [
+"NEWC",
+43318,
+"Uttam Mk1 AESA",
+"auto_uttammk1aesa",
+"1379"
+],
+"6998": [
+"NEWC",
+43318,
+"Bayyenat-II",
+"auto_bayyenatii",
+"1379"
+],
+"3846": [
+"NEWC",
+43318,
+"MM/APQ-706 (Sea Spray Mk1)",
+"auto_mmapq706seaspraymk1",
+"1379"
+],
+"898": [
+"NEWC",
+43318,
+"Drop Kick (RPO Orion-A)",
+"auto_dropkickrpooriona",
+"1379"
+],
+"1952": [
+"NEWC",
+43506,
+"Varan",
+"auto_varan",
+"3768"
+],
+"1077": 47166,
+"5418": [
+"NEWC",
+43506,
+"I-Master",
+"auto_imaster",
+"3768"
+],
+"5511": [
+"NEWC",
+43274,
+"AN/ZPY-2 MP-RTIP AESA",
+"auto_anzpy2mprtipaesa",
+"2181"
+],
+"5290": [
+"NEWC",
+43318,
+"GD-53 MLU",
+"auto_gd53mlu",
+"1379"
+],
+"5908": [
+"NEWC",
+43506,
+"Anka-B Sensor Package (ISAR",
+"auto_ankabsensorpackageisar",
+"3768"
+],
+"913": 43357,
+"7240": [
+"NEWC",
+43274,
+"AN/APY-11 (EL/M-2022A(V)3)",
+"auto_anapy11elm2022av3",
+"2181"
+],
+"5094": 43507,
+"6233": [
+"NEWC",
+43576,
+"CEAFAR2-L",
+"auto_ceafar2l",
+"1645"
+],
+"661": 43227,
+"7447": [
+"NEWC",
+47379,
+"China H/SJG-208 TASS",
+"auto_chinahsjg208tass",
+"4808"
+],
+"2607": 43373,
+"4989": [
+"NEWC",
+47256,
+"Generic Active/Passive Attack",
+"auto_genericactivepassiveattack",
+"1381"
+],
+"7384": [
+"NEWC",
+43576,
+"Chesm Oghab",
+"auto_chesmoghab",
+"1645"
+],
+"38": [
+"NEWC",
+43556,
+"China Type 352 Square Tie",
+"auto_chinatype352squaretie",
+"2314"
+],
+"3019": 43346,
+"1556": 43058,
+"2024": 43750,
+"2026": 47462,
+"3061": 43443,
+"2321": 43607,
+"6307": [
+"NEWC",
+43032,
+"KRONOS Quad",
+"auto_kronosquad",
+"1594"
+],
+"6308": [
+"NEWC",
+47274,
+"WASS ATAS",
+"auto_wassatas",
+"4019"
+],
+"2015": 43373,
+"6381": [
+"NEWC",
+43556,
+"CS/MPQ-90 Bee Eye",
+"auto_csmpq90beeeye",
+"2314"
+],
+"2045": [
+"NEWC",
+47379,
+"ATAS(V)2",
+"auto_atasv2",
+"4808"
+],
+"4023": 47183,
+"5277": 43104,
+"6054": [
+"NEWC",
+43576,
+"BAE 90-Meter",
+"auto_bae90meter",
+"1645"
+],
+"4482": [
+"NEWC",
+47283,
+"Generic Active/Passive Attack",
+"auto_genericactivepassiveattack",
+"2401"
+],
+"1222": [
+"NEWC",
+47119,
+"Type 2026",
+"auto_type2026",
+"105"
+],
+"1834": 47182,
+"2918": [
+"NEWC",
+43318,
+"Sea Spray Mk1",
+"auto_seaspraymk1",
+"1379"
+],
+"1983": 43734,
+"546": 43465,
+"2083": 43298,
+"637": [
+"NEWC",
+43506,
+"AN/APS-137A(V)5 ISAR",
+"auto_anaps137av5isar",
+"3768"
+],
+"1974": 43386,
+"5298": 43465,
+"2914": 43232,
+"646": 43420,
+"4174": [
+"NEWC",
+43318,
+"China KLJ-6E Lieying",
+"auto_chinaklj6elieying",
+"1379"
+],
+"2641": 43485,
+"259": [
+"NEWC",
+43318,
+"MM/SCP-01 Scipio",
+"auto_mmscp01scipio",
+"1379"
+],
+"2271": [
+"NEWC",
+43506,
+"IRIS SAR",
+"auto_irissar",
+"3768"
+],
+"4984": [
+"NEWC",
+43318,
+"Grifo F-BR",
+"auto_grifofbr",
+"1379"
+],
+"229": [
+"NEWC",
+43506,
+"EL/M-2020",
+"auto_elm2020",
+"3768"
+],
+"6780": [
+"NEWC",
+43506,
+"Sea Spray 5000E",
+"auto_seaspray5000e",
+"3768"
+],
+"104": [
+"NEWC",
+47300,
+"HELRAS DS-100",
+"auto_helrasds100",
+"625"
+],
+"2076": [
+"NEWC",
+43506,
+"AN/APQ-133",
+"auto_anapq133",
+"3768"
+],
+"4960": [
+"NEWC",
+43318,
+"FH01 Arbalet 52",
+"auto_fh01arbalet52",
+"1379"
+],
+"5421": [
+"NEWC",
+43318,
+"Grifo L",
+"auto_grifol",
+"1379"
+],
+"5061": 43277,
+"5419": [
+"NEWC",
+43506,
+"Terma 9000 SLAR",
+"auto_terma9000slar",
+"3768"
+],
+"4317": [
+"NEWC",
+43506,
+"Sea Spray 7300",
+"auto_seaspray7300",
+"3768"
+],
+"6996": [
+"NEWC",
+43506,
+"RDR-1700A",
+"auto_rdr1700a",
+"3768"
+],
+"5417": [
+"NEWC",
+43506,
+"Ocean Master 100 Mk2",
+"auto_oceanmaster100mk2",
+"3768"
+],
+"4298": [
+"NEWC",
+43506,
+"EL/M-2022U",
+"auto_elm2022u",
+"3768"
+],
+"5349": [
+"NEWC",
+43318,
+"China KLJ-7V1 (Type 1478)",
+"auto_chinaklj7v1type1478",
+"1379"
+],
+"6437": [
+"NEWC",
+43318,
+"Grifo-346",
+"auto_grifo346",
+"1379"
+],
+"5949": [
+"NEWC",
+43318,
+"China KLJ-7A (Type 1478) AE",
+"auto_chinaklj7atype1478ae",
+"1379"
+],
+"234": [
+"NEWC",
+47300,
+"Type 195M",
+"auto_type195m",
+"625"
+],
+"2916": 43432,
+"4181": 43208,
+"664": 43162,
+"1519": 43123,
+"6778": [
+"NEWC",
+43318,
+"Slot Back (N-019M1 Topaz)",
+"auto_slotbackn019m1topaz",
+"1379"
+],
+"4337": 43232,
+"875": [
+"NEWC",
+43318,
+"Sea Spray Mk3",
+"auto_seaspraymk3",
+"1379"
+],
+"2936": 47175,
+"7222": 43317,
+"4171": [
+"NEWC",
+43318,
+"China Type 1492",
+"auto_chinatype1492",
+"1379"
+],
+"5651": [
+"NEWC",
+43576,
+"Scanter 4102",
+"auto_scanter4102",
+"1645"
+],
+"1545": [
+"NEWC",
+43556,
+"Drum Tilt (MR-104 Rys)",
+"auto_drumtiltmr104rys",
+"2314"
+],
+"922": 43443,
+"385": 47169,
+"2110": 40962,
+"2113": 43345,
+"726": 47351,
+"1953": 43632,
+"6846": [
+"NEWC",
+47256,
+"ASO 713 Hull",
+"auto_aso713hull",
+"1381"
+],
+"1227": [
+"NEWC",
+47256,
+"Type 2016",
+"auto_type2016",
+"1381"
+],
+"1462": [
+"NEWC",
+43576,
+"Type 967/968",
+"auto_type967968",
+"1645"
+],
+"1268": [
+"NEWC",
+47256,
+"TSM 4131 (Spherion Mk3)",
+"auto_tsm4131spherionmk3",
+"1381"
+],
+"1760": [
+"NEWC",
+43032,
+"STIR",
+"auto_stir",
+"1594"
+],
+"1213": [
+"NEWC",
+47256,
+"Type 2050 (UMS 4110C)",
+"auto_type2050ums4110c",
+"1381"
+],
+"1272": 47265,
+"780": [
+"NEWC",
+43032,
+"WM.28",
+"auto_wm28",
+"1594"
+],
+"4210": 47431,
+"3323": [
+"NEWC",
+43576,
+"Scanter 4100",
+"auto_scanter4100",
+"1645"
+],
+"6668": 43176,
+"3065": 43445,
+"5330": [
+"NEWC",
+43576,
+"KRONOS 3D NV",
+"auto_kronos3dnv",
+"1645"
+],
+"4584": [
+"NEWC",
+47119,
+"AN/SQR-19A(V)2 TACTAS",
+"auto_ansqr19av2tactas",
+"105"
+],
+"1484": [
+"NEWC",
+43556,
+"AN/SPG-60 STIR (Mk86 FCS; R",
+"auto_anspg60stirmk86fcsr",
+"2314"
+],
+"1495": 43725,
+"2646": 43098,
+"1337": 47237,
+"1877": [
+"NEWC",
+43576,
+"MM/SPS-774 (RAN-10S Pluto)",
+"auto_mmsps774ran10spluto",
+"1645"
+],
+"1884": 43252,
+"1885": 43247,
+"1886": [
+"NEWC",
+43576,
+"MM/SPS-768 (RAN-3L)",
+"auto_mmsps768ran3l",
+"1645"
+],
+"2982": [
+"NEWC",
+43576,
+"AN/SPS-52C",
+"auto_ansps52c",
+"1645"
+],
+"6449": [
+"NEWC",
+43576,
+"Scanter 4603",
+"auto_scanter4603",
+"1645"
+],
+"2958": [
+"NEWC",
+43556,
+"Generic 2D Air Search Radar",
+"auto_generic2dairsearchradar",
+"2314"
+],
+"6845": [
+"NEWC",
+47274,
+"J/OQQ-10",
+"auto_joqq10",
+"4019"
+],
+"712": 43226,
+"177": 47171,
+"4211": 47431,
+"6858": [
+"NEWC",
+43556,
+"TMX/EO Mk2 (Radar)",
+"auto_tmxeomk2radar",
+"2314"
+],
+"2957": [
+"NEWC",
+43576,
+"Generic 2D Air Search Radar",
+"auto_generic2dairsearchradar",
+"1645"
+],
+"5533": [
+"NEWC",
+43576,
+"Revathi (3D-CAR)",
+"auto_revathi3dcar",
+"1645"
+],
+"5531": 47494,
+"7256": [
+"NEWC",
+47256,
+"SS 12",
+"auto_ss12",
+"1381"
+],
+"1168": [
+"NEWC",
+43556,
+"China Type 341 Rice Lamp",
+"auto_chinatype341ricelamp",
+"2314"
+],
+"6542": [
+"NEWC",
+43576,
+"SR2410C",
+"auto_sr2410c",
+"1645"
+],
+"6341": [
+"NEWC",
+47256,
+"Model 997",
+"auto_model997",
+"1381"
+],
+"3113": [
+"NEWC",
+43032,
+"Mk92 Mod 1 CAS",
+"auto_mk92mod1cas",
+"1594"
+],
+"316": [
+"NEWC",
+47274,
+"Type 2093",
+"auto_type2093",
+"4019"
+],
+"4672": 47352,
+"3145": 43176,
+"1282": [
+"NEWC",
+47274,
+"Mare Tail (MG-335M Platina)",
+"auto_maretailmg335mplatina",
+"4019"
+],
+"1910": 43091,
+"2069": 47182,
+"68": 47280,
+"683": [
+"NEWC",
+43721,
+"THD 1030 Calypso II",
+"auto_thd1030calypsoii",
+"660"
+],
+"1341": 47202,
+"1270": 47385,
+"1561": [
+"NEWC",
+43721,
+"Snoop Plate (Flag)",
+"auto_snoopplateflag",
+"660"
+],
+"4214": 47279,
+"1294": 47109,
+"2819": 47159,
+"1187": 43431,
+"1633": [
+"NEWC",
+43556,
+"Mk13",
+"auto_mk13",
+"2314"
+],
+"1810": [
+"NEWC",
+43556,
+"Mk34",
+"auto_mk34",
+"2314"
+],
+"2031": [
+"NEWC",
+43576,
+"LW.01 (SGR.114)",
+"auto_lw01sgr114",
+"1645"
+],
+"1189": 43114,
+"1190": 43305,
+"1193": 43111,
+"1408": [
+"NEWC",
+47256,
+"AN/SQQ-23A PAIR",
+"auto_ansqq23apair",
+"1381"
+],
+"1602": [
+"NEWC",
+43556,
+"Mk25",
+"auto_mk25",
+"2314"
+],
+"1646": 43020,
+"1188": 43113,
+"1367": 47431,
+"19": 47431,
+"2801": [
+"NEWC",
+43032,
+"WM.25",
+"auto_wm25",
+"1594"
+],
+"1527": 43261,
+"1391": [
+"NEWC",
+47256,
+"AN/SQS-30",
+"auto_ansqs30",
+"1381"
+],
+"1086": [
+"NEWC",
+43556,
+"WM.22",
+"auto_wm22",
+"2314"
+],
+"1458": [
+"NEWC",
+43576,
+"Type 992Q",
+"auto_type992q",
+"1645"
+],
+"1463": [
+"NEWC",
+43576,
+"Type 965P Double Beadstead",
+"auto_type965pdoublebeadstead",
+"1645"
+],
+"263": 43639,
+"4586": [
+"NEWC",
+47256,
+"EDO 997",
+"auto_edo997",
+"1381"
+],
+"1154": 43078,
+"1156": 43083,
+"1968": 43086,
+"730": 43260,
+"2367": [
+"NEWC",
+43576,
+"AN/SPS-40B",
+"auto_ansps40b",
+"1645"
+],
+"2388": [
+"NEWC",
+47256,
+"AN/SQS-26AXR",
+"auto_ansqs26axr",
+"1381"
+],
+"1483": 43176,
+"1274": [
+"NEWC",
+43556,
+"Mk35",
+"auto_mk35",
+"2314"
+],
+"2802": [
+"NEWC",
+43556,
+"RTN-10X (Orion 10X)",
+"auto_rtn10xorion10x",
+"2314"
+],
+"3122": 43271,
+"198": 47235,
+"41": [
+"NEWC",
+47256,
+"EDO 610E",
+"auto_edo610e",
+"1381"
+],
+"1526": 43223,
+"1852": 43019,
+"1784": [
+"NEWC",
+47256,
+"Type 184M",
+"auto_type184m",
+"1381"
+],
+"1457": [
+"NEWC",
+43556,
+"Type 993",
+"auto_type993",
+"2314"
+],
+"1707": [
+"NEWC",
+43556,
+"Type 278 ANU",
+"auto_type278anu",
+"2314"
+],
+"1585": [
+"NEWC",
+43556,
+"THD 1040 Neptune",
+"auto_thd1040neptune",
+"2314"
+],
+"3539": 43750,
+"2804": [
+"NEWC",
+43576,
+"Type 965M Single Bedstead",
+"auto_type965msinglebedstead",
+"1645"
+],
+"2433": [
+"NEWC",
+47256,
+"Type 184P",
+"auto_type184p",
+"1381"
+],
+"1063": 43176,
+"2323": [
+"NEWC",
+43576,
+"EL/M-2238S 3D-STAR",
+"auto_elm2238s3dstar",
+"1645"
+],
+"1664": [
+"NEWC",
+43556,
+"AN/SPG-50 (Mk63 GFCS)",
+"auto_anspg50mk63gfcs",
+"2314"
+],
+"180": 47194,
+"5388": 47165,
+"258": 47165,
+"1165": 43257,
+"1056": 43242,
+"1163": [
+"NEWC",
+43556,
+"TRS 3220 Pollux",
+"auto_trs3220pollux",
+"2314"
+],
+"1456": 43260,
+"1909": [
+"NEWC",
+43576,
+"Type 965M Single Bedstead",
+"auto_type965msinglebedstead",
+"1645"
+],
+"2389": 47191,
+"1388": 47235,
+"2352": [
+"NEWC",
+47256,
+"AN/SQS-26CX",
+"auto_ansqs26cx",
+"1381"
+],
+"3044": [
+"NEWC",
+43556,
+"TRS 3030 Triton",
+"auto_trs3030triton",
+"2314"
+],
+"1339": 47232,
+"2797": [
+"NEWC",
+43556,
+"MM/SPG-70 (RTN-10X Orion)",
+"auto_mmspg70rtn10xorion",
+"2314"
+],
+"1714": 43089,
+"2552": [
+"NEWC",
+43576,
+"DRBV 22A Jupiter",
+"auto_drbv22ajupiter",
+"1645"
+],
+"4403": [
+"NEWC",
+47256,
+"DSBV 1",
+"auto_dsbv1",
+"1381"
+],
+"692": 43176,
+"1062": 43225,
+"1813": [
+"NEWC",
+47114,
+"AN/BQG-3",
+"auto_anbqg3",
+"816"
+],
+"1817": [
+"NEWC",
+47114,
+"AN/BQR-2B",
+"auto_anbqr2b",
+"816"
+],
+"1018": 43723,
+"1347": 47184,
+"1295": [
+"NEWC",
+47114,
+"DUUX 2C",
+"auto_duux2c",
+"816"
+],
+"1348": 47264,
+"1346": 47439,
+"2030": [
+"NEWC",
+47114,
+"MicroPUFFS",
+"auto_micropuffs",
+"816"
+],
+"1229": [
+"NEWC",
+47114,
+"Type 2007AA",
+"auto_type2007aa",
+"816"
+],
+"1235": [
+"NEWC",
+47283,
+"Type 187",
+"auto_type187",
+"2401"
+],
+"1236": [
+"NEWC",
+47114,
+"Type 186",
+"auto_type186",
+"816"
+],
+"1805": 47259,
+"1245": 47152,
+"1559": 43056,
+"1301": 47181,
+"3042": 43723,
+"4009": [
+"NEWC",
+47114,
+"DSUV 2H",
+"auto_dsuv2h",
+"816"
+]
+},
+"log": [
+[
+"weapon-match",
+"SPICE 1000 GPS/EO [Mk83]",
+"SPICE Mk83"
+],
+[
+"weapon-match",
+"SPICE 2000 GPS/EO [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"Mk46 NEARTIP Mod 5",
+"Mk46 Mod2"
+],
+[
+"weapon-match",
+"AIM-120C-6 AMRAAM P3I.2",
+"AIM-120C AMRAAM"
+],
+[
+"weapon-match",
+"AIM-9L Sidewinder",
+"AIM-9L Sidewinder"
+],
+[
+"weapon-match",
+"GBU-12B/B Paveway II LGB [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"BL.755 No.1 CB [147 x GP Anti-Armor Bomblets]",
+"BL.755 CBU v1"
+],
+[
+"weapon-match",
+"CRV-7 C14 70mm Rocket",
+"CRV7 19x70mm RP v4"
+],
+[
+"weapon-match",
+"KD-20 [CJ-10A Mod]",
+"YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-match",
+"FAB-250M-54 GPB",
+"FAB-250M54 GPB v1"
+],
+[
+"weapon-match",
+"YJ-63 [KD-63]",
+"Kong Di 63 (KD-63)"
+],
+[
+"weapon-match",
+"23mm Type 23-3 Burst [40 rnds]",
+"23mm Type 23 burst"
+],
+[
+"weapon-match",
+"CH-AA-9 [PL-10]",
+"PL-10"
+],
+[
+"weapon-match",
+"CH-AA-10 Abaddon [PL-15]",
+"PL-15"
+],
+[
+"weapon-match",
+"LS-6-500 GPS/INS",
+"LS-6"
+],
+[
+"weapon-match",
+"YJ-91 [Kh-31P, ARM]",
+"YJ-91"
+],
+[
+"weapon-match",
+"CS/BBC-5 [YJ-6, 240 x 1.5kg Submunitions]",
+"C-601 (YJ-6) Kraken"
+],
+[
+"weapon-match",
+"30mm Gsh-30-1 Burst [30 rnds]",
+"30mm GSh-301 burst"
+],
+[
+"weapon-match",
+"AA-11 Archer [R-73]",
+"AA-11 Archer (R-73)"
+],
+[
+"weapon-match",
+"AA-10 Alamo A [R-27R, MR TSARH]",
+"AA-10 Alamo A  (R-27R)"
+],
+[
+"weapon-match",
+"AA-10 Alamo C [R-27ER, LR TSARH]",
+"AA-10 Alamo C (R-27ER)"
+],
+[
+"weapon-match",
+"AA-12 Adder A [R-77, RVV-AE]",
+"AA-12 Adder (R-77)"
+],
+[
+"weapon-match",
+"AS-17 Krypton C [Kh-31P, ARM]",
+"AS-17 Krypton (Kh-31P)"
+],
+[
+"weapon-match",
+"AS-14 Kedge [Kh-29T]",
+"AS-14 Kedge (Kh-29T)"
+],
+[
+"weapon-match",
+"AS-14 Kedge [Kh-29L]",
+"AS-14 Kedge (Kh-29L)"
+],
+[
+"weapon-match",
+"LS-6-500 GPS/INS Extended-Range Bomb",
+"LS-6"
+],
+[
+"weapon-match",
+"PLAB-250 Depth Charge",
+"PLAB-250-120 DC"
+],
+[
+"weapon-match",
+"APR-3M",
+"APR-3M"
+],
+[
+"weapon-match",
+"AA-12 Adder B [R-77-1, RVV-SD]",
+"AA-12 Adder (R-77)"
+],
+[
+"weapon-match",
+"AS-18 Kazoo A [Kh-59M]",
+"AS-18 Kazoo (Kh-59M)"
+],
+[
+"weapon-match",
+"23mm Gsh-23L Burst [50 rnds]",
+"23mm GSh-23L burst"
+],
+[
+"weapon-match",
+"PL-7 [R.550 Magic 1]",
+"R.550 Magic"
+],
+[
+"weapon-match",
+"PL-9",
+"PL-9"
+],
+[
+"weapon-match",
+"Yu-7",
+"Yu-7"
+],
+[
+"weapon-match",
+"YJ-9E [TL-10B]",
+"TL-10B Kowsar"
+],
+[
+"weapon-match",
+"YJ-9EA [TL-10A]",
+"TL-10A Kowsar"
+],
+[
+"weapon-match",
+"23mm Type 23-1 Twin Burst [40 rnds]",
+"23mm Type 23 burst"
+],
+[
+"weapon-match",
+"KAB-250-100PL Zagon-1 [S3V] Guided Depth Charge",
+"S3V DC"
+],
+[
+"weapon-match",
+"30mm Giat 30/M791B Burst [25 rnds]",
+"30mm GIAT30/M791 burst"
+],
+[
+"weapon-match",
+"SBU-54 AASM/M [Hammer, Mk82, GPS + IIR]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"AASM/D [Hammer, Mk84, GPS-Only]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"AASM/M [Hammer, Mk84, GPS + IIR]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"27mm Mauser BK-27 Burst [30 rnds]",
+"27mm Mauser BK27 burst"
+],
+[
+"weapon-match",
+"MU-90 Impact",
+"MU-90 Impact"
+],
+[
+"weapon-match",
+"AM.39 Exocet Blk II",
+"AM.39 Exocet"
+],
+[
+"weapon-match",
+"GBU-48/B Paveway II GPS/LGB [Mk83]",
+"SPICE Mk83"
+],
+[
+"weapon-match",
+"Taurus KEPD 350K",
+"Taurus KEPD350"
+],
+[
+"weapon-match",
+"AGM-84L Harpoon II",
+"AGM-84L Harpoon II"
+],
+[
+"weapon-match",
+"T.200 400kg GPB",
+"T200 345 kg GPB v1"
+],
+[
+"weapon-match",
+"GBU-22/B Paveway III LGB [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"AAM-4B [Type 99 Mod]",
+"AAM-4 (Type 99)"
+],
+[
+"weapon-match",
+"AAM-5 [Type 04]",
+"AAM-5 (Type 04)"
+],
+[
+"weapon-match",
+"AAM-3 [Type 90]",
+"AAM-3 (Type 90)"
+],
+[
+"weapon-match",
+"AIM-7M Sparrow III",
+"AIM-7M Sparrow"
+],
+[
+"weapon-match",
+"GCS-1 IIR [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"ASM-1 [Type 80]",
+"ASM-1 (Type 80)"
+],
+[
+"weapon-match",
+"ASM-2B [Type 93(B)]",
+"ASM-2 (Type 93)"
+],
+[
+"weapon-match",
+"ASM-1C [Type 91]",
+"ASM-1C (Type 91)"
+],
+[
+"weapon-match",
+"Type 97",
+"Type 97 (GRX-4)"
+],
+[
+"weapon-match",
+"PLAB-50 Depth Charge",
+"PLAB-50-64 DC"
+],
+[
+"weapon-match",
+"30mm 2A42 Burst [20 rnds]",
+"30mm 2A42 AP burst"
+],
+[
+"weapon-match",
+"30mm 2A42 Burst [20 rnds]",
+"30mm 2A42 AP burst"
+],
+[
+"weapon-match",
+"AS-17 Krypton A [Kh-31A, ASM]",
+"AS-17 Krypton (Kh-31A)"
+],
+[
+"weapon-match",
+"AS-20 Kayak [Kh-35UE]",
+"AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-match",
+"AT-9 Spiral-2 [9M120 Ataka-V]",
+"AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-match",
+"AS-20 Kayak [Kh-35U Star]",
+"AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-match",
+"OFAB-100-120 Frag",
+"OFAB-100"
+],
+[
+"weapon-match",
+"RBK-250-PTAB CB [30 x PTAB-2.5 Anti-Tank Bomblets]",
+"RBK-250 CBU v1"
+],
+[
+"weapon-match",
+"RBK-500-PTAB [268 x PTAB-1M Anti-Tank Bomblets]",
+"RBK-500/SPBE-D"
+],
+[
+"weapon-match",
+"RBK-500-BetAB CB [12 x BetAB-20 Anti-Runway Penetrator Bomblets]",
+"RBK-500/SPBE-D"
+],
+[
+"weapon-match",
+"FAB-100M-62 GPB",
+"FAB-100M62 GPB v1"
+],
+[
+"weapon-match",
+"FAB-500M-62 GPB",
+"FAB-500M62 GPB v1"
+],
+[
+"weapon-match",
+"AS-17 Krypton B [Kh-31AD, ASM]",
+"AS-17 Krypton (Kh-31A)"
+],
+[
+"weapon-match",
+"AS-17 Krypton D [Kh-31PD, ARM]",
+"AS-17 Krypton (Kh-31P)"
+],
+[
+"weapon-match",
+"AA-11 Archer [R-73M]",
+"AA-11 Archer (R-73)"
+],
+[
+"weapon-match",
+"30mm Gsh-30-2 Burst [50 rnds]",
+"30mm GSh-302 burst"
+],
+[
+"weapon-match",
+"AA-8 Aphid [R-60M]",
+"AA-8 Aphid (R-60M)"
+],
+[
+"weapon-match",
+"RBK-500-ZAB [117 x ZAB-2.5SM Incendiary]",
+"RBK-500/SPBE-D"
+],
+[
+"weapon-match",
+"AS-10 Karen [Kh-25ML]",
+"AS-10 Karen (Kh-25ML)"
+],
+[
+"weapon-match",
+"AS-11 Kilter [Kh-58U, ARM, Semi-Ballistic]",
+"AS-11 Kilter (Kh-58U)"
+],
+[
+"weapon-match",
+"AA-10 Alamo B [R-27T, MR IR]",
+"AA-10 Alamo B  (R-27T)"
+],
+[
+"weapon-match",
+"AA-10 Alamo D [R-27ET, LR IR]",
+"AA-10 Alamo D (R-27ET)"
+],
+[
+"weapon-match",
+"AA-13 Arrow [R-37M, RVV-BD]",
+"AA-13 Arrow (R-37)"
+],
+[
+"weapon-match",
+"AS-13 Kingbolt [Kh-59]",
+"AS-13 Kingbolt (Kh-59)"
+],
+[
+"weapon-match",
+"AS-23A Kodiak [Kh-101]",
+"Kh-101"
+],
+[
+"weapon-match",
+"AS-23B Kodiak [Kh-102, 200kT Nuclear]",
+"Kh-102"
+],
+[
+"weapon-match",
+"AA-12 Adder C [R-77M]",
+"AA-12 Adder (R-77)"
+],
+[
+"weapon-match",
+"AS-11 Kilter [Kh-58UShK, ARM, Semi-Ballistic]",
+"AS-11 Kilter (Kh-58)"
+],
+[
+"weapon-match",
+"FAB-1500M-54 GPB",
+"FAB-1500M54 GPB"
+],
+[
+"weapon-match",
+"RN-40 Tactical Bomb [30kT Nuclear]",
+"RN-40 30 kT nuke"
+],
+[
+"weapon-match",
+"AS-16 Kickback [Kh-15, Conventional]",
+"AS-16 Kickback (Kh-15S)"
+],
+[
+"weapon-match",
+"AS-16 Kickback [Kh-15, 350kT Nuclear]",
+"AS-16 Kickback (Kh-15S)"
+],
+[
+"weapon-match",
+"AS-16 Kickback [Kh-15S]",
+"AS-16 Kickback (Kh-15S)"
+],
+[
+"weapon-match",
+"AS-16 Kickback [Kh-15P]",
+"AS-16 Kickback (Kh-15P)"
+],
+[
+"weapon-match",
+"AS-4 Kitchen B Mod 2 [Kh-22MA INS+TERCOM]",
+"AS-4 Kitchen (Kh-22MA Low)"
+],
+[
+"weapon-match",
+"AS-4 Kitchen B Mod 3 [Kh-22NA INS+TERCOM]",
+"AS-4 Kitchen (Kh-22N Hi)"
+],
+[
+"weapon-match",
+"AIM-9S Sidewinder",
+"AIM-9S Sidewinder"
+],
+[
+"weapon-match",
+"Cheonyong [Taurus KEPD 350K Copy]",
+"Taurus KEPD350"
+],
+[
+"weapon-match",
+"30mm Giat 30/M781 Burst [50 rnds]",
+"30mm GIAT30/M791 burst"
+],
+[
+"weapon-match",
+"Taurus KEPD 350P",
+"Taurus KEPD350"
+],
+[
+"weapon-match",
+"Tp 45",
+"Tp45"
+],
+[
+"weapon-match",
+"BK 90 Mjolner Mk1 [72 x MJ1 Anti-Personnel]",
+"Mjolner BK90"
+],
+[
+"weapon-match",
+"BK 90 Mjolner Mk2 [24 x MJ2 Anti-Tank]",
+"Mjolner BK90"
+],
+[
+"weapon-match",
+"RB 75 Maverick EO [AGM-65B]",
+"Rb75 Maverick"
+],
+[
+"weapon-match",
+"GBU-TEBER [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"HGK INS/GPS [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"GBU-10A/B Paveway I LGB [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"Mk13 1000lb GPB",
+"Mk13/18 Paveway II"
+],
+[
+"weapon-match",
+"Paveway IV [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"RGM-84L Harpoon II",
+"RGM-84L Harpoon II"
+],
+[
+"weapon-match",
+"RIM-7M Sea Sparrow",
+"RIM-7M Sea Sparrow"
+],
+[
+"weapon-match",
+"RIM-162C ESSM",
+"RIM-162C ESSM"
+],
+[
+"weapon-match",
+"AK-130 130mm/54 Twin Frag Burst [2 rnds]",
+"130mm/54 AK-130 HE"
+],
+[
+"weapon-match",
+"AK-130 130mm/54 Twin HE Burst [2 rnds]",
+"130mm/54 AK-130 HE"
+],
+[
+"weapon-match",
+"AK-630M 30mm/65 Gatling Burst [400 rnds]",
+"30mm AK630M burst"
+],
+[
+"weapon-match",
+"HQ-10 [FL-3000N]",
+"FL-3000N"
+],
+[
+"weapon-match",
+"CH-SS-NX-13 [YJ-18, SS-N-27 Sizzler Copy]",
+"YJ-18"
+],
+[
+"weapon-match",
+"CY-5 ASROC [Yu-7]",
+"CY-5"
+],
+[
+"weapon-match",
+"CH-SSC-9 [CJ-10A]",
+"YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-match",
+"CSS-N-8 Saccade [YJ-83]",
+"C-803 (YJ-83)"
+],
+[
+"weapon-match",
+"MM.40 Exocet Blk II",
+"MM.40 Exocet"
+],
+[
+"weapon-match",
+"MM.40 Exocet Blk IIIC",
+"MM.40 Exocet"
+],
+[
+"weapon-match",
+"Aster 30 PAAMS [GWS.45 Sea Viper]",
+"Aster 30"
+],
+[
+"weapon-match",
+"Aster 30 Blk 1 NT",
+"Aster 30"
+],
+[
+"weapon-match",
+"Aster 15 PAAMS [GWS.45 Sea Viper]",
+"Aster 15"
+],
+[
+"weapon-match",
+"MM.40 Exocet Blk III",
+"MM.40 Exocet"
+],
+[
+"weapon-match",
+"RIM-66E SM-1MR Blk VI",
+"SM-1MR Block V"
+],
+[
+"weapon-match",
+"27mm MLG-27 Burst [20 rnds]",
+"27mm/63 MLG27 burst"
+],
+[
+"weapon-match",
+"RGM-84D Harpoon IC",
+"RGM-84D Harpoon"
+],
+[
+"weapon-match",
+"RUM-139A VLA [Mk46 Mod 5]",
+"RUM-139A VL ASROC"
+],
+[
+"weapon-match",
+"Type 07 VL-ASROC [Type 97]",
+"Type 07 VL ASROC"
+],
+[
+"weapon-match",
+"Type 07 VL-ASROC [Type 12]",
+"Type 07 VL ASROC"
+],
+[
+"weapon-match",
+"SSM-1B [Type 90]",
+"AAM-3 (Type 90)"
+],
+[
+"weapon-match",
+"30mm Twin Gatling Gsh-6-30KD [375 rnds]",
+"30mm GSh-6-30 burst"
+],
+[
+"weapon-match",
+"SA-N-22 Greyhound [57E6]",
+"SA-22 (57E6)"
+],
+[
+"weapon-match",
+"SA-N-24 Grinch [9M337 Sosna-RA]",
+"Sosna-R (9M337)"
+],
+[
+"weapon-match",
+"SS-N-25 Switchblade [Kh-35 Uran] GLONASS",
+"SS-N-25 Switchblade"
+],
+[
+"weapon-match",
+"AK-230 30mm/65 Twin Burst [50 rnds]",
+"30mm/65 AK-230 burst"
+],
+[
+"weapon-match",
+"RIM-66E6 SM-1MR Blk VIB",
+"SM-1MR Block V"
+],
+[
+"weapon-match",
+"AK-176 76mm/60 HE Burst [2 rnds]",
+"76mm/60 AK-176 HE"
+],
+[
+"weapon-match",
+"AK-176 76mm/60 Frag Burst [2 rnds]",
+"76mm/60 AK-176 HE"
+],
+[
+"weapon-match",
+"SS-N-27 Sizzler [3M54T Kalibr]",
+"SS-N-27 Sizzler (3M54)"
+],
+[
+"weapon-match",
+"SS-N-30A Sagaris [3M14 Kalibr]",
+"SS-N-30 (3M14)"
+],
+[
+"weapon-match",
+"SA-N-12 Grizzly [9M317]",
+"SA-17 Grizzly (9M317)"
+],
+[
+"weapon-match",
+"SS-N-19 Shipwreck [P-700 Granit]",
+"SS-N-19 Shipwreck"
+],
+[
+"weapon-match",
+"30mm Twin Gatling Gsh-6-30K Burst [375 rnds]",
+"30mm GSh-6-30 burst"
+],
+[
+"weapon-match",
+"SA-N-9 Gauntlet [9M330-2 Kinzhal]",
+"SA-15 Gauntlet (9M330)"
+],
+[
+"weapon-match",
+"APR-2 Orlan-M",
+"APR-2 Orlan"
+],
+[
+"weapon-match",
+"SS-N-26 Strobile [P-800 Onyx]",
+"SS-N-26 Strobile"
+],
+[
+"weapon-match",
+"AK-100 100mm/70 HE",
+"100mm/59 AK-100 HE"
+],
+[
+"weapon-match",
+"AK-100 100mm/70 Frag",
+"100mm/59 AK-100 HE"
+],
+[
+"weapon-match",
+"SET-65M Enot-2 [NATO ET-80A[76]]",
+"SET-65M"
+],
+[
+"weapon-match",
+"SS-N-27 Sizzler [91RT Otvet, Paket-NK]",
+"SS-N-27 Sizzler (3M54)"
+],
+[
+"weapon-match",
+"SA-N-6a Grumble [5R55RM]",
+"SA-N-6a (Fort)"
+],
+[
+"weapon-match",
+"SS-N-12 Sandbox Mod 2 [P-1000]",
+"SS-N-12M1 (P-1000)"
+],
+[
+"weapon-match",
+"30mm/75 DS30M Mk2 APDS Burst [20 rnds]",
+"30mm/75 DS30M burst"
+],
+[
+"weapon-match",
+"30mm/75 DS30M Mk3 HE Burst [20 rnds]",
+"30mm/75 DS30M burst"
+],
+[
+"weapon-match",
+"Yu-10 [Mk48 Mod 6 Copy]",
+"Mk48 Mod4M"
+],
+[
+"weapon-match",
+"Yu-6",
+"Yu-6"
+],
+[
+"weapon-match",
+"A.184 Black Shark Advanced",
+"A.184"
+],
+[
+"weapon-match",
+"UGM-84L Harpoon II",
+"UGM-84L Harpoon II"
+],
+[
+"weapon-match",
+"DM2A4 Seehecht",
+"DM2A4 Seahake"
+],
+[
+"weapon-match",
+"SS-N-15 Starfish [RPK-6 Vodopad, UMGT-1 Torpedo]",
+"SS-N-15 Starfish (81R)"
+],
+[
+"weapon-match",
+"SS-N-16 Stallion [\"RPK-7 Veter, UMGT-1 Torpedo]",
+"SS-N-16a Stallion (86R)"
+],
+[
+"weapon-match",
+"USET-80",
+"USET-80"
+],
+[
+"weapon-match",
+"TEST-71M [NATO TEST-83]",
+"TEST-71M"
+],
+[
+"weapon-match",
+"SS-N-27 Sizzler [91RU Otvet, Paket-NK]",
+"SS-N-27 Sizzler (3M54)"
+],
+[
+"weapon-match",
+"Tp 62",
+"Tp62"
+],
+[
+"weapon-match",
+"Mk24 Tigerfish Mod 2",
+"Tigerfish Mk24 Mod2"
+],
+[
+"weapon-match",
+"Mk48 Mod 6 ADCAP MOD",
+"Mk48 Mod5 ADCAP"
+],
+[
+"weapon-match",
+"SSM-700K Hae Sung I",
+"Hae Seong SSM-700K"
+],
+[
+"weapon-match",
+"SSM-700K Haeryong [Sea Dragon, Hae Sung II]",
+"Hae Seong SSM-700K"
+],
+[
+"weapon-match",
+"GBU-38(V)5/B JDAM-ER [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"Mk46 LWT Mod 1",
+"Mk46 Mod2"
+],
+[
+"weapon-match",
+"20mm M621 Burst [25 rnds]",
+"20mm GIAT M621 burst"
+],
+[
+"weapon-match",
+"23mm Gsh-23L Burst [40 rnds]",
+"23mm GSh-23L burst"
+],
+[
+"weapon-match",
+"AS-18 Kazoo B [Kh-59MK]",
+"AS-18 Kazoo (Kh-59MK)"
+],
+[
+"weapon-match",
+"Mk11 Depth Charge",
+"Mk11 DC"
+],
+[
+"weapon-match",
+"SBU-64 AASM/M [Hammer, Mk82, GPS + SALH]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"SBU-38 AASM/D [Hammer, Mk82, GPS-Only]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"AASM/M [Hammer, Mk84, GPS + SALH]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"AASM/D [Hammer, BLU-109, GPS-Only]",
+"GBU-31 (BLU-109) JDAM"
+],
+[
+"weapon-match",
+"AASM/M [Hammer, BLU-109, GPS + IIR]",
+"GBU-31 (BLU-109) JDAM"
+],
+[
+"weapon-match",
+"AASM/M [Hammer, BLU-109, GPS + SALH]",
+"GBU-31 (BLU-109) JDAM"
+],
+[
+"weapon-match",
+"20mm M39 x 2 Burst [80 rnds]",
+"20mm M39 burst"
+],
+[
+"weapon-match",
+"AIM-9N Sidewinder",
+"AIM-9N Sidewinder"
+],
+[
+"weapon-match",
+"Fatter [Mod. AIM-9P Sidewinder]",
+"AIM-9P Sidewinder"
+],
+[
+"weapon-match",
+"C-704",
+"C-704"
+],
+[
+"weapon-match",
+"Fakour-90 [Mod. AIM-54A/MIM-23 HAWK]",
+"AIM-54A Phoenix"
+],
+[
+"weapon-match",
+"Sattar-4 LGB [Mk82, GBU-12 Inspired]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"Kowsar [TL-10A]",
+"TL-10A Kowsar"
+],
+[
+"weapon-match",
+"Mk81 250lb LDGP",
+"Mk81 250 lb GPB v1"
+],
+[
+"weapon-match",
+"Azarakhsh [AIM-9J Mod]",
+"AIM-9J Sidewinder"
+],
+[
+"weapon-match",
+"Mk46 LWT Mod 2",
+"Mk46 Mod2"
+],
+[
+"weapon-match",
+"C-802",
+"CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-match",
+"30mm NR-30 x 2 Burst [20 rnds]",
+"30mm NR-30 burst"
+],
+[
+"weapon-match",
+"Bina [Mod. AGM-65 Maverick]",
+"AGM-65B Maverick"
+],
+[
+"weapon-match",
+"23mm Gsh-6-23 [50 rnds]",
+"23mm GSh-6-23"
+],
+[
+"weapon-match",
+"CSS-N-4 Sardine [C-801K, YJ-81 Export]",
+"C-801 (YJ-81) ASM"
+],
+[
+"weapon-match",
+"AS-11 Kilter [Kh-58, ARM]",
+"AS-11 Kilter (Kh-58)"
+],
+[
+"weapon-match",
+"GBU-15(V)1/B CWW EO [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"Griffin LGB [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"Griffin LGB [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"Opher [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"TAL 2 CB [315 x Dual Purpose Bomblets]",
+"TAL-2 CBU"
+],
+[
+"weapon-match",
+"GBU-27A/B Paveway III GPS/LGB [BLU-109/B]",
+"GBU-31 (BLU-109) JDAM"
+],
+[
+"weapon-match",
+"AIM-9L-1 Sidewinder",
+"AIM-9L Sidewinder"
+],
+[
+"weapon-match",
+"30mm Bushmaster II GAU-23/A Burst [20 rnds]",
+"30mm GAU-23 burst"
+],
+[
+"weapon-match",
+"25mm/60 Type 61 Twin Burst [20 rnds]",
+"25mm/60 Type 61 burst"
+],
+[
+"weapon-match",
+"20mm Narwhal 20A [M621] Burst [20 rnds]",
+"20mm GIAT M621 burst"
+],
+[
+"weapon-match",
+"CM-200 Ghader [C-802 Mod]",
+"CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-match",
+"Barak 8",
+"Barak-8"
+],
+[
+"weapon-match",
+"Aster 30 SAAM-FR/IT",
+"Aster 30"
+],
+[
+"weapon-match",
+"Tp 617",
+"Tp617"
+],
+[
+"weapon-match",
+"AK-630 30mm/65 Gatling Burst [400 rnds]",
+"30mm/54 AK-630 burst"
+],
+[
+"weapon-match",
+"Jask-2 SLCM [C-704, Nasr 1]",
+"C-704"
+],
+[
+"weapon-match",
+"LS-6-50",
+"LS-6"
+],
+[
+"weapon-match",
+"20mm Mk12 x 2 [50 rnds]",
+"20mm Mk12 burst"
+],
+[
+"weapon-match",
+"30mm DEFA 554 x 2 Burst [50 rnds]",
+"30mm DEFA 554 burst"
+],
+[
+"weapon-match",
+"Lizard 2 LGB [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"20mm M39 Burst [40 rnds]",
+"20mm M39 burst"
+],
+[
+"weapon-match",
+"AM.39 Exocet Blk II Mod 2",
+"AM.39 Exocet"
+],
+[
+"weapon-match",
+"AT-6 Spiral [9M114 Kokon]",
+"AT-6 Spiral (9M114)"
+],
+[
+"weapon-match",
+"20mm M621 Burst [20 rnds]",
+"20mm GIAT M621 burst"
+],
+[
+"weapon-match",
+"AIM-7F Sparrow III",
+"AIM-7F Sparrow"
+],
+[
+"weapon-match",
+"AM.39 Exocet Blk I",
+"AM.39 Exocet"
+],
+[
+"weapon-match",
+"AIM-9P-4 Sidewinder",
+"AIM-9P Sidewinder"
+],
+[
+"weapon-match",
+"20mm M197 Burst x 2 [50 rnds]",
+"20mm M197 burst"
+],
+[
+"weapon-match",
+"GBU-15(V)2/B CWW IIR [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"GBU-50(V)1 Enhanced Paveway II GPS/LGB [Mk84]",
+"SPICE Mk84"
+],
+[
+"weapon-match",
+"AA-2a Atoll [R-3S]",
+"AA-2b Atoll (R-3S)"
+],
+[
+"weapon-match",
+"AS-9 Kyle [Kh-28]",
+"AS-9 Kyle (Kh-28)"
+],
+[
+"weapon-match",
+"Lizard 4 LGB [Mk82]",
+"GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-match",
+"AGM-114F Hellfire",
+"AGM-114F Hellfire"
+],
+[
+"weapon-match",
+"23mm Type 23-3 Gun Pod Burst [40 rnds]",
+"23mm Type 23 burst"
+],
+[
+"weapon-match",
+"HQ-7B Crotale [FM-90] Naval",
+"HQ-7A (FM-90)"
+],
+[
+"weapon-match",
+"A.244S",
+"A.244s"
+],
+[
+"weapon-match",
+"CSS-N-8 Saccade [C-802A, YJ-83 Export]",
+"C-803 (YJ-83)"
+],
+[
+"weapon-match",
+"RIM-66L-2 SM-2MR Blk IIIA",
+"SM-2MR Block IIIA"
+],
+[
+"weapon-match",
+"RGM-84C Harpoon IB",
+"RGM-84C Harpoon"
+],
+[
+"weapon-match",
+"20mm/80 Rhinemetall Mk20 Rh202 Burst [20 rnds]",
+"20mm/65 Rh202 burst"
+],
+[
+"weapon-match",
+"20mm/76 JM61 Burst [20 rnds]",
+"20mm/76 JM-61 burst"
+],
+[
+"weapon-match",
+"China Type 81 ASW Rocket Salvo [5 rnds]",
+"Type 81 Tan-SAM"
+],
+[
+"weapon-match",
+"20mm/139 GI-2 Burst [20 rnds]",
+"20mm GI-2 burst"
+],
+[
+"weapon-match",
+"RIM-116A RAM Blk 0",
+"RIM-116A RAM Blk0"
+],
+[
+"weapon-match",
+"AK-726 76mm/60 Twin HE Burst [2 rnds]",
+"76mm/59 AK-726 HE"
+],
+[
+"weapon-match",
+"AK-726 76mm/60 Twin Frag Burst [2 rnds]",
+"76mm/59 AK-726 HE"
+],
+[
+"weapon-match",
+"SS-N-2d Improved Styx [P-21]",
+"SS-N-2d Styx (P-21)"
+],
+[
+"weapon-match",
+"Yu-4A",
+"Yu-4A"
+],
+[
+"weapon-match",
+"F21 Artemis",
+"F21 Artemis"
+],
+[
+"weapon-match",
+"SM.39 Exocet Blk II",
+"SM.39 Exocet"
+],
+[
+"weapon-match",
+"DM2A3 Seehecht",
+"DM2A3 Seehecht"
+],
+[
+"weapon-match",
+"UGM-84C Harpoon IB",
+"UGM-84C Harpoon"
+],
+[
+"weapon-match",
+"Yu-5",
+"Yu-5"
+],
+[
+"weapon-match",
+"A.184 Black Shark",
+"A.184"
+],
+[
+"weapon-match",
+"MM.38 Exocet Blk I",
+"MM.38 Exocet"
+],
+[
+"weapon-match",
+"R.550 Magic 1",
+"R.550 Magic"
+],
+[
+"weapon-match",
+"AIM-9B Sidewinder",
+"AIM-9B Sidewinder"
+],
+[
+"weapon-match",
+"MM.40 Exocet Blk I",
+"MM.40 Exocet"
+],
+[
+"weapon-match",
+"SST-4 Mod 1 Seeaal",
+"SST-4 Mod 1"
+],
+[
+"weapon-match",
+"Mk44 Mod 1",
+"Mk44"
+],
+[
+"weapon-match",
+"RUR-5A Mod 4 ASROC RTT [Mk46 Mod 5]",
+"RUR-5A ASROC (Mk46NT)"
+],
+[
+"weapon-match",
+"Barak 1",
+"Barak-1"
+],
+[
+"weapon-match",
+"RIM-66B SM-1MR Blk V",
+"SM-1MR Block V"
+],
+[
+"weapon-match",
+"SA-N-4a Gecko [9M33M]",
+"SA-N-4a (Osa-M)"
+],
+[
+"weapon-match",
+"SS-N-2a Styx [P-15]",
+"SS-N-2a Styx (P-15)"
+],
+[
+"weapon-match",
+"RUR-5A Mod 3 ASROC RTD [10kT Nuclear DC]",
+"RUR-5A ASROC (Mk46M2)"
+],
+[
+"weapon-match",
+"RUR-5A Mod 4 ASROC RTT [Mk46 Mod 2]",
+"RUR-5A ASROC (Mk46NT)"
+],
+[
+"weapon-match",
+"Mk37 Mod 3",
+"Mk37 Mod2/3"
+],
+[
+"weapon-match",
+"Mk14",
+"Mk14 Mod3"
+],
+[
+"weapon-match",
+"NT-37D",
+"NT-37D"
+],
+[
+"weapon-match",
+"SST-4 Mod 3 Seeaal",
+"SST-4 Mod 1"
+],
+[
+"weapon-match",
+"Mk37 Mod 1",
+"Mk37 Mod2/3"
+],
+[
+"weapon-match",
+"SST-4 Mod 0 Seeaal",
+"SST-4 Mod 1"
+],
+[
+"weapon-match",
+"SAET-60M WH",
+"SAET-60M"
+],
+[
+"weapon-match",
+"A.184 Mod 1",
+"A.184"
+],
+[
+"weapon-match",
+"NT-37C",
+"NT-37C"
+],
+[
+"weapon-new",
+"Joint Strike Missile (JSM)",
+"Joint Strike Missile (JSM) <- AGM-84K SLAM-ER"
+],
+[
+"weapon-new",
+"AIM-2000A IRIS-T",
+"AIM-2000A IRIS-T <- AIM-9X Sidewinder"
+],
+[
+"weapon-new",
+"AGM-88B HARM",
+"AGM-88B HARM <- AGM-88C HARM"
+],
+[
+"weapon-new",
+"DWS.39 AFDS [24 x STABO]",
+"DWS.39 AFDS (24 x STABO) <- Mjolner BK90"
+],
+[
+"weapon-new",
+"LJ-9 Blue Arrow ATGM",
+"LJ-9 Blue Arrow ATGM <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"AR-1",
+"AR-1 <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"AKD-10",
+"AKD-10 <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"LT-2 LGB [LS-500J, 500kg HE]",
+"LT-2 LGB (LS-500J; 500kg HE <- SPICE Mk83"
+],
+[
+"weapon-new",
+"LJ-7 Blue Arrow ATGM",
+"LJ-7 Blue Arrow ATGM <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"CSS-N-8 Saccade [YJ-83K]",
+"CSS-N-8 Saccade (YJ-83K) <- ASM-1C (Type 91)"
+],
+[
+"weapon-new",
+"YJ-12",
+"YJ-12 <- AGM-158A JASSM"
+],
+[
+"weapon-new",
+"CH-SSC-9 [CJ-10K]",
+"CH-SSC-9 (CJ-10K) <- Kh-101"
+],
+[
+"weapon-new",
+"YJ-21 [250kg HE]",
+"YJ-21 (250kg HE) <- AS-4 Kitchen (Kh-22MA Low)"
+],
+[
+"weapon-new",
+"YJ-63A [KD-63A]",
+"YJ-63A (KD-63A) <- Kong Di 63 (KD-63)"
+],
+[
+"weapon-new",
+"23mm AM-23 x 2 Burst [50 rnds]",
+"23mm AM-23 x 2 Burst (50 r <- 23mm Type 23 burst"
+],
+[
+"weapon-new",
+"CH-AS-X-13 [KF-21]",
+"CH-AS-X-13 (KF-21) <- Kh-101"
+],
+[
+"weapon-new",
+"CH-AS-X-13 [KF-21, HGV]",
+"CH-AS-X-13 (KF-21; HGV) <- Kh-101"
+],
+[
+"weapon-new",
+"PL-8B [Python 3]",
+"PL-8B (Python 3) <- PL-9"
+],
+[
+"weapon-new",
+"CH-AA-7 Adze [PL-12]",
+"CH-AA-7 Adze (PL-12) <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"LT-2B LGB [JG-500B, 500kg HE]",
+"LT-2B LGB (JG-500B; 500kg H <- SPICE Mk83"
+],
+[
+"weapon-new",
+"AKD-88 LACM",
+"AKD-88 LACM <- ASM-1C (Type 91)"
+],
+[
+"weapon-new",
+"K/YBS500 [GB-6, 240 x 1.5kg Submunitions]",
+"K/YBS500 (GB-6; 240 x 1.5kg <- C-601 (YJ-6) Kraken"
+],
+[
+"weapon-new",
+"CH-AA-12 Auger [PL-17]",
+"CH-AA-12 Auger (PL-17) <- AA-13 Arrow (R-37)"
+],
+[
+"weapon-new",
+"AA-11 Archer [R-73M1]",
+"AA-11 Archer (R-73M1) <- AA-11 Archer (R-73)"
+],
+[
+"weapon-new",
+"CH-AA-7C Adze [PL-12C]",
+"CH-AA-7C Adze (PL-12C) <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"CH-AA-10 Abaddon [PL-15C]",
+"CH-AA-10 Abaddon (PL-15C) <- PL-15"
+],
+[
+"weapon-new",
+"PL-8A [Python 3]",
+"PL-8A (Python 3) <- PL-9"
+],
+[
+"weapon-new",
+"PL-11 [Aspide]",
+"PL-11 (Aspide) <- AA-10 Alamo A  (R-27R)"
+],
+[
+"weapon-new",
+"YJ-1000-1",
+"YJ-1000-1 <- SPICE Mk84"
+],
+[
+"weapon-new",
+"AKF-98A",
+"AKF-98A <- AGM-158B JASSM-ER"
+],
+[
+"weapon-new",
+"AKF-88C LACM [AKD-88 Mod]",
+"AKF-88C LACM (AKD-88 Mod) <- AGM-84K SLAM-ER"
+],
+[
+"weapon-new",
+"KAB-1500Kr TV/EO",
+"KAB-1500Kr TV/EO <- SPICE Mk84"
+],
+[
+"weapon-new",
+"KAB-1500Kr-Pr TV/EO [Penetrator]",
+"KAB-1500Kr-Pr TV/EO (Penetr <- SPICE Mk84"
+],
+[
+"weapon-new",
+"KAB-500Kr TV/EO",
+"KAB-500Kr TV/EO <- SPICE Mk83"
+],
+[
+"weapon-new",
+"CH-AA-7B Adze [PL-12B]",
+"CH-AA-7B Adze (PL-12B) <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"FT-10 SDB",
+"FT-10 SDB <- GBU-39/B SDB"
+],
+[
+"weapon-new",
+"AR-2",
+"AR-2 <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"HJ-8A/C ATGM",
+"HJ-8A/C ATGM <- BGM-71 TOW"
+],
+[
+"weapon-new",
+"PL-5E",
+"PL-5E <- AIM-9M Sidewinder"
+],
+[
+"weapon-new",
+"TY-90",
+"TY-90 <- FIM-92F Stinger RMP Blk1"
+],
+[
+"weapon-new",
+"AKD-9",
+"AKD-9 <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"FS-70A 70mm Rocket",
+"FS-70A 70mm Rocket <- APKWS II"
+],
+[
+"weapon-new",
+"CM-501GA",
+"CM-501GA <- GBU-39/B SDB"
+],
+[
+"weapon-new",
+"Yu-11",
+"Yu-11 <- F21 Artemis"
+],
+[
+"weapon-new",
+"KD-10",
+"KD-10 <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"A.244",
+"A.244 <- A.244s"
+],
+[
+"weapon-new",
+"YJ-9EB [TL-10C(?)]",
+"YJ-9EB (TL-10C(?)) <- TL-10B Kowsar"
+],
+[
+"weapon-new",
+"MAM-L",
+"MAM-L <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"MAM-C",
+"MAM-C <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"MICA IR",
+"MICA IR <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"MICA EM",
+"MICA EM <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"Sea Venom [FASGW(H) / ANL]",
+"Sea Venom (FASGW(H) / ANL) <- TL-10B Kowsar"
+],
+[
+"weapon-new",
+"Meteor",
+"Meteor <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"AIM-120B AMRAAM",
+"AIM-120B AMRAAM <- AA-10 Alamo A  (R-27R)"
+],
+[
+"weapon-new",
+"Brimstone 2",
+"Brimstone 2 <- LS-6"
+],
+[
+"weapon-new",
+"Spike NLOS",
+"Spike NLOS <- LS-6"
+],
+[
+"weapon-new",
+"GBU-50(V)2 Enhanced Paveway II GPS/LGB [BLU-109A/B]",
+"GBU-50(V)2 Enhanced Paveway <- GBU-31 (Mk84) JDAM"
+],
+[
+"weapon-new",
+"SCALP EG",
+"SCALP EG <- AGM-158A JASSM"
+],
+[
+"weapon-new",
+"AGM-65G2 Maverick IR",
+"AGM-65G2 Maverick IR <- AGM-65D Maverick"
+],
+[
+"weapon-new",
+"Storm Shadow",
+"Storm Shadow <- AGM-158A JASSM"
+],
+[
+"weapon-new",
+"Marte Mk2/S",
+"Marte Mk2/S <- AS-14 Kedge (Kh-29T)"
+],
+[
+"weapon-new",
+"Marte ER",
+"Marte ER <- AS-17 Krypton (Kh-31P)"
+],
+[
+"weapon-new",
+"SSM-2(?) [Type 23]",
+"SSM-2(?) (Type 23) <- AGM-158A JASSM"
+],
+[
+"weapon-new",
+"7.62mm MG Burst [20 rnds]",
+"7.62mm MG Burst (20 rnds) <- 7.62mm MG burst"
+],
+[
+"weapon-new",
+"Type 12",
+"Type 12 <- MU-90 Impact"
+],
+[
+"weapon-new",
+"APR-3",
+"APR-3 <- APR-3M"
+],
+[
+"weapon-new",
+"Igla-V",
+"Igla-V <- FIM-92F Stinger RMP Blk1"
+],
+[
+"weapon-new",
+"AT-16 Scallion [9A1472 Vikhr-1]",
+"AT-16 Scallion (9A1472 Vikh <- AGM-114K Hellfire II"
+],
+[
+"weapon-new",
+"AS-24 Killjoy [Kh-47M2 Kinzhal, 200kT Nuclear]",
+"AS-24 Killjoy (Kh-47M2 Kinz <- AS-4 Kitchen (Kh-22MA Low)"
+],
+[
+"weapon-new",
+"AS-24 Killjoy [Kh-47M2 Kinzhal, 700kg HE Penetrator]",
+"AS-24 Killjoy (Kh-47M2 Kinz <- AS-4 Kitchen (Kh-22MA Low)"
+],
+[
+"weapon-new",
+"KAB-250LG-E",
+"KAB-250LG-E <- GBU-32 (Mk83) JDAM"
+],
+[
+"weapon-new",
+"AS-22 [Kh-38MKE]",
+"AS-22 (Kh-38MKE) <- AS-14 Kedge (Kh-29T)"
+],
+[
+"weapon-new",
+"KAB-500L LGB",
+"KAB-500L LGB <- SPICE Mk83"
+],
+[
+"weapon-new",
+"AA-11 Archer [R-74M2]",
+"AA-11 Archer (R-74M2) <- AIM-9X Sidewinder"
+],
+[
+"weapon-new",
+"KAB-1500L-F LGB",
+"KAB-1500L-F LGB <- SPICE Mk84"
+],
+[
+"weapon-new",
+"KAB-250S-E GLONASS",
+"KAB-250S-E GLONASS <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"KAB-500S GLONASS",
+"KAB-500S GLONASS <- ASM-1 (Type 80)"
+],
+[
+"weapon-new",
+"UPAB-500B (K08BE)",
+"UPAB-500B (K08BE) <- C-801 (YJ-81) ASM"
+],
+[
+"weapon-new",
+"UPAB-1500B (K029BE)",
+"UPAB-1500B (K029BE) <- C-801 (YJ-81) ASM"
+],
+[
+"weapon-new",
+"AS-22 [Kh-38MKE]",
+"AS-22 (Kh-38MKE) <- AS-14 Kedge (Kh-29T)"
+],
+[
+"weapon-new",
+"AS-22 [Kh-38MLE]",
+"AS-22 (Kh-38MLE) <- AS-14 Kedge (Kh-29T)"
+],
+[
+"weapon-new",
+"KAB-1500L-Pr LGB [Penetrator]",
+"KAB-1500L-Pr LGB (Penetrato <- SPICE Mk84"
+],
+[
+"weapon-new",
+"PBK-500U SPBE-K [INS + GLONASS]",
+"PBK-500U SPBE-K (INS + GLON <- GBU-32 (Mk83) JDAM"
+],
+[
+"weapon-new",
+"PBK-500U Unitary [INS + GLONASS]",
+"PBK-500U Unitary (INS + GLO <- GBU-32 (Mk83) JDAM"
+],
+[
+"weapon-new",
+"AS-15 Kent [Kh-65SE, ASM]",
+"AS-15 Kent (Kh-65SE; ASM) <- YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-new",
+"UMPK FAB-500M-62 Glide Bomb",
+"UMPK FAB-500M-62 Glide Bomb <- LS-6"
+],
+[
+"weapon-new",
+"UMPK FAB-250M-62 Glide Bomb",
+"UMPK FAB-250M-62 Glide Bomb <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"UMPK OFAB-250-270 Glide Bomb",
+"UMPK OFAB-250-270 Glide Bom <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"UMPK FAB-3000M-46 Glide Bomb",
+"UMPK FAB-3000M-46 Glide Bom <- SPICE Mk84"
+],
+[
+"weapon-new",
+"AS-4 Kitchen D [Kh-32]",
+"AS-4 Kitchen D (Kh-32) <- AS-4 Kitchen (Kh-22MA Low)"
+],
+[
+"weapon-new",
+"Kh-50",
+"Kh-50 <- YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-new",
+"K-745 Blue Shark [Chung Sang Eo]",
+"K-745 Blue Shark (C <- Mk46 Mod2"
+],
+[
+"weapon-new",
+"KGGB",
+"KGGB <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"Chungum ATGM",
+"Chungum ATGM <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Spike ER",
+"Spike ER <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Mistral 2 ATAM",
+"Mistral 2 ATAM <- FIM-92F Stinger RMP Blk1"
+],
+[
+"weapon-new",
+"GBU-24/B Paveway III LGB [BPG-2000 PGM, CPE-800 Penetrator]",
+"GBU-24/B Paveway III LGB (B <- GBU-31 (BLU-109) JDAM"
+],
+[
+"weapon-new",
+"RB 98 [AIM-2000A] IRIS-T",
+"RB 98 (AIM-2000A) IRIS-T <- AIM-9X Sidewinder"
+],
+[
+"weapon-new",
+"RB 101 Meteor",
+"RB 101 Meteor <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"RB 15 Mk4 Gungnir",
+"RB 15 Mk4 Gungnir <- AGM-84K SLAM-ER"
+],
+[
+"weapon-new",
+"Cirit 70mm Rocket",
+"Cirit 70mm Rocket <- APKWS II"
+],
+[
+"weapon-new",
+"Mizrak-U [L-UMTAS]",
+"Mizrak-U (L-UMTAS) <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"GBU-TEBER [Mk81]",
+"GBU-TEBER (Mk81) <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"SOM-A",
+"SOM-A <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"SOM-B1",
+"SOM-B1 <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"SOM-B2",
+"SOM-B2 <- AGM-84K SLAM-ER"
+],
+[
+"weapon-new",
+"SOM-C1",
+"SOM-C1 <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"GBU-10X/B Paveway II LGB [NEB 2000lb Penetrator]",
+"GBU-10X/B Paveway II LGB (N <- SPICE Mk84"
+],
+[
+"weapon-new",
+"Tolun SDB",
+"Tolun SDB <- GBU-39/B SDB"
+],
+[
+"weapon-new",
+"HGK INS/GPS [NEB 2000lb Penetrator]",
+"HGK INS/GPS (NEB 2000lb Pen <- SPICE Mk84"
+],
+[
+"weapon-new",
+"SPEAR 3",
+"SPEAR 3 <- GBU-39/B SDB"
+],
+[
+"weapon-new",
+"Gokdogan",
+"Gokdogan <- AIM-120C5 AMRAAM"
+],
+[
+"weapon-new",
+"Gokhan",
+"Gokhan <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"SOM-J",
+"SOM-J <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"5.56mm MG Burst [20 rnds]",
+"5.56mm MG Burst (20 rnds) <- 7.62mm MG burst"
+],
+[
+"weapon-new",
+"40mm Mk19 Grenade",
+"40mm Mk19 Grenade <- 30mm M230 burst"
+],
+[
+"weapon-new",
+"Brimstone Dual-Mode",
+"Brimstone Dual-Mode <- AGM-176A Griffin"
+],
+[
+"weapon-new",
+"Stingray Mod 1",
+"Stingray Mod 1 <- Yu-7"
+],
+[
+"weapon-new",
+"AIM-132A ASRAAM",
+"AIM-132A ASRAAM <- AIM-9X-2 Block II"
+],
+[
+"weapon-new",
+"CPU-123 Paveway II GPS/LGB",
+"CPU-123 Paveway II GPS/LGB <- SPICE Mk83"
+],
+[
+"weapon-new",
+"SPEAR EW",
+"SPEAR EW <- ADM-141C ITALD"
+],
+[
+"weapon-new",
+"40mm/70 OTO Marlin 40 Burst [10 rnds]",
+"40mm/70 OTO Marlin 40 Burs <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"76mm/62 Super Rapido DART Burst [2 rnds, DART]",
+"76mm/62 Super Rapido DART <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"RIM-162F ESSM Blk II",
+"RIM-162F ESSM Blk II <- RIM-162A ESSM"
+],
+[
+"weapon-new",
+"30mm Goalkeeper Burst [240 rnds]",
+"30mm Goalkeeper Burst (240 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"76mm/62 Mk100 HE Burst [4 rnds]",
+"76mm/62 Mk100 HE Burst (4 <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"12.7mm/50 Mini-Typhoon Burst [10 rnds]",
+"12.7mm/50 Mini-Typhoon Bur <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"YJ-12A",
+"YJ-12A <- SS-N-26 Strobile"
+],
+[
+"weapon-new",
+"HQ-16A [SA-17 Semi-Copy]",
+"HQ-16A (SA-17 Semi-Copy) <- Aster 15"
+],
+[
+"weapon-new",
+"30mm China H/PJ-14 [Type 1130, 500 rnds]",
+"30mm China H/PJ-14 (Type 1 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"130mm China H/PJ-38 HE",
+"130mm China H/PJ-38 HE <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"HHQ-9B",
+"HHQ-9B <- SM-2MR Block IV"
+],
+[
+"weapon-new",
+"100mm/56 Twin PJ33A Frag Burst [2 rnds]",
+"100mm/56 Twin PJ33A Frag B <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/56 Twin PJ33A HE [2 rnds]",
+"100mm/56 Twin PJ33A HE (2 <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"30mm/65 H/PJ-13 Burst [400 rnds]",
+"30mm/65 H/PJ-13 Burst (400 <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"100mm/55 H/PJ-87 HECVT",
+"100mm/55 H/PJ-87 HECVT <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/55 H/PJ-87 HE",
+"100mm/55 H/PJ-87 HE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"HQ-16C",
+"HQ-16C <- Barak-8"
+],
+[
+"weapon-new",
+"CSS-N-8 Saccade [YJ-83B]",
+"CSS-N-8 Saccade (YJ-83B) <- CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-new",
+"CSS-N-8 Saccade [YJ-83B]",
+"CSS-N-8 Saccade (YJ-83B) <- CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-new",
+"76mm/60 China H/PJ-26 HE Burst [2 rnds]",
+"76mm/60 China H/PJ-26 HE B <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"76mm/60 China H/PJ-26 Frag Burst [2 rnds]",
+"76mm/60 China H/PJ-26 Frag <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"14.5mm MG Burst [20 rnds]",
+"14.5mm MG Burst (20 rnds) <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"30mm China H/PJ-17 [20 rnds]",
+"30mm China H/PJ-17 (20 rnd <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"35mm/79 Oerlikon Millennium GDM-008 AHEAD Burst [24 rnds]",
+"35mm/79 Oerlikon Millenniu <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"FIM-92E Stinger RMP Blk I",
+"FIM-92E Stinger RMP Blk I <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"76mm/62 Super Rapido HE Burst [2 rnds]",
+"76mm/62 Super Rapido HE Bu <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"Gabriel V",
+"Gabriel V <- CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-new",
+"Saab Lightweight Torpedo",
+"Saab Lightweight To <- Tp45"
+],
+[
+"weapon-new",
+"L5 Mod 4",
+"L5 Mod 4 <- A.184"
+],
+[
+"weapon-new",
+"100mm/55 Model 1968 PFHE Burst [4 rnds]",
+"100mm/55 Model 1968 PFHE B <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/55 Model 1968 HE Burst [4 rnds]",
+"100mm/55 Model 1968 HE Bur <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"20mm/90 Giat 20F2 Burst [20 rnds]",
+"20mm/90 Giat 20F2 Burst (2 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"Mistral 1",
+"Mistral 1 <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"20mm Narwhal 20B [M693] Burst [20 rnds]",
+"20mm Narwhal 20B (M693) Bu <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"MdCN [Naval SCALP EG]",
+"MdCN (Naval SCALP EG) <- SS-N-30 (3M14)"
+],
+[
+"weapon-new",
+"40mm RAPIDFire APFSDS-T Burst [10 rnds]",
+"40mm RAPIDFire APFSDS-T Bu <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm RAPIDFire GPR-PD-T Burst [10 rnds]",
+"40mm RAPIDFire GPR-PD-T Bu <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm RAPIDFire GPR-AB-T Burst [10 rnds]",
+"40mm RAPIDFire GPR-AB-T Bu <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm RAPIDFire A3B-T Burst [10 rnds]",
+"40mm RAPIDFire A3B-T Burst <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Mistral 3",
+"Mistral 3 <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"20mm/70 Oerlikon Mk7 Burst [20 rnds]",
+"20mm/70 Oerlikon Mk7 Burst <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"RB 15M Mk3",
+"RB 15M Mk3 <- CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-new",
+"76mm/62 Compact HE Burst [4 rnds]",
+"76mm/62 Compact HE Burst <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"Sea Skua",
+"Sea Skua <- TL-10B Kowsar"
+],
+[
+"weapon-new",
+"127mm/64 Vulcano GLR IMU/GPS [Guided Long Range]",
+"127mm/64 Vulcano GLR IMU/G <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/64 Vulcano BER [Ballistic Extended Range]",
+"127mm/64 Vulcano BER (Ball <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"12.7mm/50 OTO Melara HITROLE-NT Burst [10 rnds]",
+"12.7mm/50 OTO Melara HITRO <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"MICA EM NG",
+"MICA EM NG <- AIM-120D AMRAAM"
+],
+[
+"weapon-new",
+"20mm/80 Oerlikon Burst [20 rnds]",
+"20mm/80 Oerlikon Burst (20 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"30mm/70 OTO MARLIN-WS Burst [20 rnds]",
+"30mm/70 OTO MARLIN-WS Burs <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Teseo Mk2/E",
+"Teseo Mk2/E <- SS-N-27 Sizzler (3M54)"
+],
+[
+"weapon-new",
+"25mm/80 OTO Breda KBA Burst [20 rnds]",
+"25mm/80 OTO Breda KBA Burs <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"127mm/54 OTO Melara Compact HECVT",
+"127mm/54 OTO Melara Compac <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/54 OTO Melara Compact HiCap",
+"127mm/54 OTO Melara Compac <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"SSM-2 [Type 17]",
+"SSM-2 (Type 17) <- SS-N-27 Sizzler (3M54)"
+],
+[
+"weapon-new",
+"127mm/62 HE-CVT [HiFrag]",
+"127mm/62 HE-CVT (HiFrag) <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/62 HE-PD [HiCap]",
+"127mm/62 HE-PD (HiCap) <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/62 WP",
+"127mm/62 WP <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/62 Mk179 HE-ET [Mk41 HiFrag Body, Mk432 Fuse]",
+"127mm/62 Mk179 HE-ET (Mk41 <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/62 Mk182 KE-ET [Cargo Body, Mk432 Fuse, Shotgun Shell]",
+"127mm/62 Mk182 KE-ET (Carg <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"A-SAM",
+"A-SAM <- Barak-8"
+],
+[
+"weapon-new",
+"130mm/54 A-192 Frag",
+"130mm/54 A-192 Frag <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"130mm/54 A-192 HE",
+"130mm/54 A-192 HE <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"Bulsae-4",
+"Bulsae-4 <- C-704"
+],
+[
+"weapon-new",
+"53-56VA Pattern Runner",
+"53-56VA Pattern Run <- USET-80"
+],
+[
+"weapon-new",
+"Hwasal-2",
+"Hwasal-2 <- YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-new",
+"KN-23 [Hwasong 11Ga, 2500kg HE Conventional]",
+"KN-23 (Hwasong 11Ga; 2500kg <- SS-N-26 Strobile"
+],
+[
+"weapon-new",
+"25mm/80 Twin Burst [20 rnds]",
+"25mm/80 Twin Burst (20 rnd <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"100mm/56 HE",
+"100mm/56 HE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/56 Frag",
+"100mm/56 Frag <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"57mm/70 Twin HE Burst [2 rnds]",
+"57mm/70 Twin HE Burst (2 r <- 57mm/70 Bofors Mk3 burst"
+],
+[
+"weapon-new",
+"14.5mm MG Burst [100 rnds]",
+"14.5mm MG Burst (100 rnds) <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"SA-N-10 Gimlet [9M313]",
+"SA-N-10 Gimlet (9M313) <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"35mm Oerlikon KDA Burst [5 rnds]",
+"35mm Oerlikon KDA Burst (5 <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"CAMM",
+"CAMM <- SA-22 (57E6)"
+],
+[
+"weapon-new",
+"PZR Grom",
+"PZR Grom <- FL-3000N"
+],
+[
+"weapon-new",
+"23mm/87 Twin Burst [20 rnds]",
+"23mm/87 Twin Burst (20 rnd <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"SA-N-5 Grail [9M32M]",
+"SA-N-5 Grail (9M32M) <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"TEST-71ME",
+"TEST-71ME <- TEST-71M"
+],
+[
+"weapon-new",
+"100mm/59 A-190 Frag",
+"100mm/59 A-190 Frag <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/59 A-190 HE",
+"100mm/59 A-190 HE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"SET-65K",
+"SET-65K <- SET-65M"
+],
+[
+"weapon-new",
+"SA-N-24 Grinch [9M342]",
+"SA-N-24 Grinch (9M342) <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"SA-N-11a Grisom [9M311K]",
+"SA-N-11a Grisom (9M311K) <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"AT-2M",
+"AT-2M <- Sea mine 1000 lb"
+],
+[
+"weapon-new",
+"SA-N-20b Gargoyle [48N6M]",
+"SA-N-20b Gargoyle (48N6M) <- SM-2MR Block IIIA"
+],
+[
+"weapon-new",
+"SA-N-11b Grisom [9M311K-1]",
+"SA-N-11b Grisom (9M311K-1) <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"Paket-NK [M-15 Anti-Torpedo Torpedo]",
+"Paket-NK (M-15 Anti <- Yu-7"
+],
+[
+"weapon-new",
+"Paket-NK [MTT ASW]",
+"Paket-NK (MTT ASW) <- Yu-7"
+],
+[
+"weapon-new",
+"SA-N-4b Gecko [9M33M3]",
+"SA-N-4b Gecko (9M33M3) <- SA-N-4a (Osa-M)"
+],
+[
+"weapon-new",
+"SA-N-21c Growler [9M96]",
+"SA-N-21c Growler (9M96) <- Aster 15"
+],
+[
+"weapon-new",
+"SA-N-21d Growler [9M96D]",
+"SA-N-21d Growler (9M96D) <- Aster 30"
+],
+[
+"weapon-new",
+"9M100",
+"9M100 <- SA-22 (57E6)"
+],
+[
+"weapon-new",
+"76mm HE",
+"76mm HE <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"SA-15e Gauntlet [9M338K]",
+"SA-15e Gauntlet (9M338K) <- SA-22 (57E6)"
+],
+[
+"weapon-new",
+"SS-N-33 [3M22 Zircon]",
+"SS-N-33 (3M22 Zircon) <- SS-N-12M1 (P-1000)"
+],
+[
+"weapon-new",
+"40mm/70 Twin Bofors DP Burst [8 rnds]",
+"40mm/70 Twin Bofors DP Bur <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"20mm Single Burst [20 rnds]",
+"20mm Single Burst (20 rnds <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"127mm/64 HECVT",
+"127mm/64 HECVT <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/64 HE",
+"127mm/64 HE <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"AGM-119B Penguin Mk2 Mod 7",
+"AGM-119B Penguin Mk2 Mod 7 <- C-704"
+],
+[
+"weapon-new",
+"RB 15M Mk2",
+"RB 15M Mk2 <- AAM-3 (Type 90)"
+],
+[
+"weapon-new",
+"40mm/70 Single Bofors Burst [4 rnds]",
+"40mm/70 Single Bofors Burs <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Tp 432",
+"Tp 432 <- Tp45"
+],
+[
+"weapon-new",
+"12.7mm/50 STAMP Burst [20 rnds]",
+"12.7mm/50 STAMP Burst (20 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"Atmaca ASM [Blk I]",
+"Atmaca ASM (Blk I) <- CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-new",
+"25mm STOP Burst [12 rnds]",
+"25mm STOP Burst (12 rnds) <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"35mm Twin Oerlikon KDC-02 Burst [20 rnds]",
+"35mm Twin Oerlikon KDC-02 <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"TORK",
+"TORK <- Mk46 Mod5"
+],
+[
+"weapon-new",
+"Mizrak-U [UMTAS]",
+"Mizrak-U (UMTAS) <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"Martlet [FASGW(L) / LMM]",
+"Martlet (FASGW(L) / LMM) <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"40mm/70 Mk4 Single Bofors Burst [4 rnds]",
+"40mm/70 Mk4 Single Bofors <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"7.62mm Minigun Burst [100 rnds]",
+"7.62mm Minigun Burst (100 <- 7.62mm MG burst"
+],
+[
+"weapon-new",
+"Stingray Mod 0",
+"Stingray Mod 0 <- Mk46 Mod2"
+],
+[
+"weapon-new",
+"CSS-N-4 Sardine [YJ-82]",
+"CSS-N-4 Sardine (YJ-82) <- AAM-3 (Type 90)"
+],
+[
+"weapon-new",
+"JL-3 [1.0mT Nuclear, CSS-NX-20]",
+"JL-3 (1.0mT Nuclear; CSS-NX <- UGM-133A Trident II D5"
+],
+[
+"weapon-new",
+"SUT Mod 4",
+"SUT Mod 4 <- SST-4 Mod 1"
+],
+[
+"weapon-new",
+"Type 18 [G-RX6]",
+"Type 18 (G-RX6) <- Yu-6"
+],
+[
+"weapon-new",
+"SA-N-8 Gremlin [9M36]",
+"SA-N-8 Gremlin (9M36) <- FL-3000N"
+],
+[
+"weapon-new",
+"USET-80K",
+"USET-80K <- USET-80"
+],
+[
+"weapon-new",
+"65-76A Kit WH",
+"65-76A Kit WH <- DM2A4 Seahake"
+],
+[
+"weapon-new",
+"UGST [Fizik-1]",
+"UGST (Fizik-1) <- Tp62"
+],
+[
+"weapon-new",
+"KANYON (Status-6)",
+"KANYON (Status-6) <- Mk48 Mod7 CBASS"
+],
+[
+"weapon-new",
+"SS-N-23 Skiff [12 MIRV x 100kT Nuclear]",
+"SS-N-23 Skiff (12 MIRV x 10 <- UGM-133A Trident II D5"
+],
+[
+"weapon-new",
+"UET-1",
+"UET-1 <- USET-80"
+],
+[
+"weapon-new",
+"Tiger Shark",
+"Tiger Shark <- Mk48 Mod7 CBASS"
+],
+[
+"weapon-new",
+"White Shark",
+"White Shark <- DM2A3 Seehecht"
+],
+[
+"weapon-new",
+"Hyunmoo 3A",
+"Hyunmoo 3A <- TLAM-C Blk IIIA"
+],
+[
+"weapon-new",
+"Hyunmoo 3B",
+"Hyunmoo 3B <- TLAM-C Blk IIIA"
+],
+[
+"weapon-new",
+"Hyunmoo 3C",
+"Hyunmoo 3C <- TACTOM Blk IV"
+],
+[
+"weapon-new",
+"Hyunmoo 2B [NHK-2 PIP-B]",
+"Hyunmoo 2B (NHK-2 PIP-B) <- SS-N-26 Strobile"
+],
+[
+"weapon-new",
+"Tp 47",
+"Tp 47 <- Tp45"
+],
+[
+"weapon-new",
+"Akya HWT",
+"Akya HWT <- Mk48 Mod7 CBASS"
+],
+[
+"weapon-new",
+"CH-SSC-9 [CJ-10]",
+"CH-SSC-9 (CJ-10) <- YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-new",
+"SAAM-400K Hae Gung [K-SAAM]",
+"SAAM-400K Hae Gung (K-SAAM) <- SA-15 Gauntlet (9M330)"
+],
+[
+"weapon-new",
+"30mm CIWS-2",
+"30mm CIWS-2 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"L-SAM",
+"L-SAM <- Aster 30"
+],
+[
+"weapon-new",
+"12.7mm HMP 400 Gun Pod Burst [40 rnds]",
+"12.7mm HMP 400 Gun Pod Bur <- 20mm M197 burst"
+],
+[
+"weapon-new",
+"Aculeus-LG SNEB 68mm Rocket",
+"Aculeus-LG SNEB 68mm Rocket <- APKWS II"
+],
+[
+"weapon-new",
+"FZ 275 70mm Rocket",
+"FZ 275 70mm Rocket <- APKWS II"
+],
+[
+"weapon-new",
+"I-Derby ER",
+"I-Derby ER <- AIM-120C5 AMRAAM"
+],
+[
+"weapon-new",
+"Python 5",
+"Python 5 <- AIM-9X Sidewinder"
+],
+[
+"weapon-new",
+"Griffin LGB [1000lb GPB]",
+"Griffin LGB (1000lb GPB) <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"Astra Mk1",
+"Astra Mk1 <- AIM-120C5 AMRAAM"
+],
+[
+"weapon-new",
+"NASM-SR",
+"NASM-SR <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"SPICE 250 GPS/EO",
+"SPICE 250 GPS/EO <- GBU-39/B SDB"
+],
+[
+"weapon-new",
+"MICA IR NG",
+"MICA IR NG <- AIM-120D AMRAAM"
+],
+[
+"weapon-new",
+"ASMP-A [300kT Nuclear]",
+"ASMP-A (300kT Nuclear) <- AGM-158A JASSM"
+],
+[
+"weapon-new",
+"Qaem 1",
+"Qaem 1 <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Almas",
+"Almas <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Qaem 5",
+"Qaem 5 <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Qaem-114 [LST, AGM-114 Copy]",
+"Qaem-114 (LST; AGM-114 Copy <- AGM-114K Hellfire II"
+],
+[
+"weapon-new",
+"Qaem-114 [IIR, AGM-114 Copy]",
+"Qaem-114 (IIR; AGM-114 Copy <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"Qaem-114 [TV/EO, AGM-114 Copy]",
+"Qaem-114 (TV/EO; AGM-114 Co <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"Qaem-114 [MMR, AGM-114 Copy]",
+"Qaem-114 (MMR; AGM-114 Copy <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"Heidar-1",
+"Heidar-1 <- NSM (SSM)"
+],
+[
+"weapon-new",
+"Heidar-2",
+"Heidar-2 <- NSM (SSM)"
+],
+[
+"weapon-new",
+"AA-10 Alamo A [R-27R1, MR TSARH]",
+"AA-10 Alamo A (R-27R1; MR T <- AA-10 Alamo A  (R-27R)"
+],
+[
+"weapon-new",
+"Yasin [500lb HE]",
+"Yasin (500lb HE) <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"Balaban [45kg HE]",
+"Balaban (45kg HE) <- TL-10B Kowsar"
+],
+[
+"weapon-new",
+"Akhgar",
+"Akhgar <- LS-6"
+],
+[
+"weapon-new",
+"Sadid-1",
+"Sadid-1 <- BGM-71 TOW"
+],
+[
+"weapon-new",
+"Shafaq-3 [IIR]",
+"Shafaq-3 (IIR) <- AGM-114K Hellfire II"
+],
+[
+"weapon-new",
+"Shafaq-4 [LST]",
+"Shafaq-4 (LST) <- AGM-176A Griffin"
+],
+[
+"weapon-new",
+"Ra'ad-301",
+"Ra'ad-301 <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"C-701",
+"C-701 <- TL-10A Kowsar"
+],
+[
+"weapon-new",
+"Sadid-345 [TV/EO]",
+"Sadid-345 (TV/EO) <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Sadid-345 [IIR]",
+"Sadid-345 (IIR) <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Sadid-345 [LST]",
+"Sadid-345 (LST) <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"AS-10 Karen [Kh-25L]",
+"AS-10 Karen (Kh-25L) <- AS-10 Karen (Kh-25ML)"
+],
+[
+"weapon-new",
+"Fadak Laser-Guided 80mm Rocket",
+"Fadak Laser-Guided 80mm Roc <- AGM-114F Hellfire"
+],
+[
+"weapon-new",
+"Asef [Soumar Mod]",
+"Asef (Soumar Mod) <- YJ-100 (CJ-10A mod)"
+],
+[
+"weapon-new",
+"BGM-71B TOW",
+"BGM-71B TOW <- BGM-71 TOW"
+],
+[
+"weapon-new",
+"Toophan-2 [BGM-71C Copy]",
+"Toophan-2 (BGM-71C Copy) <- BGM-71 TOW"
+],
+[
+"weapon-new",
+"Rampage",
+"Rampage <- AS-17 Krypton (Kh-31A)"
+],
+[
+"weapon-new",
+"Python 4",
+"Python 4 <- AA-11 Archer (R-73)"
+],
+[
+"weapon-new",
+"GBU-38(V)1/B JDAM [MPR-500 Penetrator]",
+"GBU-38(V)1/B JDAM (MPR-500 <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"GBU-54(V)1/B LJDAM [MPR-500 Penetrator]",
+"GBU-54(V)1/B LJDAM (MPR-500 <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"Griffin LGB [MPR-500 Penetrator]",
+"Griffin LGB (MPR-500 Penetr <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"Rocks [Black Sparrow] ALBM",
+"Rocks (Black Sparrow) ALBM <- AS-11 Kilter (Kh-58U)"
+],
+[
+"weapon-new",
+"Golden Horizon [Blue Sparrow] ALBM",
+"Golden Horizon (Blue Sparro <- Kh-101"
+],
+[
+"weapon-new",
+"KAB-20L LGB",
+"KAB-20L LGB <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"KAB-20S GLONASS",
+"KAB-20S GLONASS <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"TC-1 [Tien Chien I]",
+"TC-1 (Tien Chien I) <- AAM-3 (Type 90)"
+],
+[
+"weapon-new",
+"Hsiung Feng II",
+"Hsiung Feng II <- AS-18 Kazoo (Kh-59M)"
+],
+[
+"weapon-new",
+"TC-2C [Tien Chien II]",
+"TC-2C (Tien Chien II) <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"TC-2A [Tien Chien II]",
+"TC-2A (Tien Chien II) <- AS-17 Krypton (Kh-31P)"
+],
+[
+"weapon-new",
+"Wan Chien [100 x Anti-Runway Submunitions]",
+"Wan Chien (100 x Anti-Runwa <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"Wan Chien [350kg HE]",
+"Wan Chien (350kg HE) <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"Wan Chien [350kg SAP]",
+"Wan Chien (350kg SAP) <- AS-20 Kayak (Kh-35)"
+],
+[
+"weapon-new",
+"30mm/70 OTO Breda Burst [20 rnds]",
+"30mm/70 OTO Breda Burst (2 <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm CRN-91 Burst [20 rnds]",
+"30mm CRN-91 Burst (20 rnds <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Advanced Light Torpedo Shyena",
+"Advanced Light Torp <- A.244s"
+],
+[
+"weapon-new",
+"Sea Eagle",
+"Sea Eagle <- RGM-84C Harpoon"
+],
+[
+"weapon-new",
+"40mm/60 Single Bofors Burst [2 rnds]",
+"40mm/60 Single Bofors Burs <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm/75 Single Oerlikon APDS Burst [20 rnds]",
+"30mm/75 Single Oerlikon AP <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm/75 Single Oerlikon HE Burst [20 rnds]",
+"30mm/75 Single Oerlikon HE <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Sayyad-3",
+"Sayyad-3 <- Aster 30"
+],
+[
+"weapon-new",
+"Zoubin",
+"Zoubin <- SA-22 (57E6)"
+],
+[
+"weapon-new",
+"23mm ZU-23 Single Burst [20 rnds]",
+"23mm ZU-23 Single Burst (2 <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"Sayyad-2",
+"Sayyad-2 <- Aster 15"
+],
+[
+"weapon-new",
+"Kamand 30mm Gatling Burst [400 rnds]",
+"Kamand 30mm Gatling Burst <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"20mm/85 Minigun Burst [200 rnds]",
+"20mm/85 Minigun Burst (200 <- 20mm/76 Blk1 CIWS burst"
+],
+[
+"weapon-new",
+"20mm Single Burst [20 rnds]",
+"20mm Single Burst (20 rnds <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"Tamir",
+"Tamir <- Barak-8"
+],
+[
+"weapon-new",
+"25mm/75 Typhoon Burst [10 rnds]",
+"25mm/75 Typhoon Burst (10 <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"30mm Bushmaster II HE Burst [20 rnds]",
+"30mm Bushmaster II HE Burs <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Otomat Mk2 Mod IV",
+"Otomat Mk2 Mod IV <- CSS-N-8 Saccade (C802)"
+],
+[
+"weapon-new",
+"23mm ZU-23-2 Burst [20 rnds]",
+"23mm ZU-23-2 Burst (20 rnd <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"Sea Guard [Chen Hai] 70mm Rocket",
+"Sea Guard (Chen Hai) 70mm R <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"Hsiung Feng III",
+"Hsiung Feng III <- C-803 (YJ-83)"
+],
+[
+"weapon-new",
+"TC-2N [Tien Chien II]",
+"TC-2N (Tien Chien II) <- Barak-8"
+],
+[
+"weapon-new",
+"30mm Bushmaster II APDS Burst [20 rnds]",
+"30mm Bushmaster II APDS Bu <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"20mm/85 Mk15 Phalanx Blk 0 Burst [200 rnds]",
+"20mm/85 Mk15 Phalanx Blk 0 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"TC-1 [Tien Chien I]",
+"TC-1 (Tien Chien I) <- SA-22 (57E6)"
+],
+[
+"weapon-new",
+"30mm Generic Cannon [20 rnds]",
+"30mm Generic Cannon (20 rn <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"25mm Heavy MG Burst [12 rnds]",
+"25mm Heavy MG Burst (12 rn <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"YT-534-UW1 Valfajr [PT-97W]",
+"YT-534-UW1 Valfajr <- F21 Artemis"
+],
+[
+"weapon-new",
+"12.7mm/50 MG x 2 Burst [100 rnds]",
+"12.7mm/50 MG x 2 Burst (10 <- 20mm M197 burst"
+],
+[
+"weapon-new",
+"ZT-6 Mokopa",
+"ZT-6 Mokopa <- AGM-114K Hellfire II"
+],
+[
+"weapon-new",
+"Nimrod 1",
+"Nimrod 1 <- TL-10B Kowsar"
+],
+[
+"weapon-new",
+"AA-10 Alamo C [R-27ER1, LR TSARH]",
+"AA-10 Alamo C (R-27ER1; LR <- AA-10 Alamo C (R-27ER)"
+],
+[
+"weapon-new",
+"LAHAT",
+"LAHAT <- APKWS II"
+],
+[
+"weapon-new",
+"QFAB-250-LG LGB",
+"QFAB-250-LG LGB <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"30mm Type 30-1 x 2 Burst [20 rnds]",
+"30mm Type 30-1 x 2 Burst <- 30mm GAU-8 burst"
+],
+[
+"weapon-new",
+"PL-9C",
+"PL-9C <- AA-11 Archer (R-73)"
+],
+[
+"weapon-new",
+"Python 3",
+"Python 3 <- PL-9"
+],
+[
+"weapon-new",
+"MAA-1 Piranha",
+"MAA-1 Piranha <- PL-9"
+],
+[
+"weapon-new",
+"MAR-1 [ARM]",
+"MAR-1 (ARM) <- LS-6"
+],
+[
+"weapon-new",
+"SMKB-83",
+"SMKB-83 <- ASM-1 (Type 80)"
+],
+[
+"weapon-new",
+"SMKB-82",
+"SMKB-82 <- C-704"
+],
+[
+"weapon-new",
+"Derby",
+"Derby <- AA-12 Adder (R-77)"
+],
+[
+"weapon-new",
+"AV-TM 300 Matador",
+"AV-TM 300 Matador <- AS-18 Kazoo (Kh-59MK)"
+],
+[
+"weapon-new",
+"RB 15F Mk2",
+"RB 15F Mk2 <- ASM-2 (Type 93)"
+],
+[
+"weapon-new",
+"RB 12 Penguin Mk2",
+"RB 12 Penguin Mk2 <- C-704"
+],
+[
+"weapon-new",
+"12.7mm Yak-B Burst [100 rnds]",
+"12.7mm Yak-B Burst (100 rn <- 20mm M197 burst"
+],
+[
+"weapon-new",
+"Al-Tariq PGM",
+"Al-Tariq PGM <- AGM-154C JSOW"
+],
+[
+"weapon-new",
+"23mm Gsh-23M Twin Burst [100 rnds]",
+"23mm Gsh-23M Twin Burst (1 <- 23mm Type 23 burst"
+],
+[
+"weapon-new",
+"AS-22 [Kh-38MAE]",
+"AS-22 (Kh-38MAE) <- AS-14 Kedge (Kh-29T)"
+],
+[
+"weapon-new",
+"FN-6",
+"FN-6 <- FIM-92F Stinger RMP Blk1"
+],
+[
+"weapon-new",
+"TL-2 Skythunder ATGM",
+"TL-2 Skythunder ATGM <- APKWS II"
+],
+[
+"weapon-new",
+"FT-7 SDB",
+"FT-7 SDB <- GBU-39/B SDB"
+],
+[
+"weapon-new",
+"20mm ZPL-20 Plamen Burst [30 rnds]",
+"20mm ZPL-20 Plamen Burst <- 20mm M197 burst"
+],
+[
+"weapon-new",
+"12.7mm/50 Twin MG Burst [20 rnds]",
+"12.7mm/50 Twin MG Burst (2 <- 12.7mm MG burst"
+],
+[
+"weapon-new",
+"30mm Gsh-30-2K Burst [25 rnds]",
+"30mm Gsh-30-2K Burst (25 r <- 30mm GAU-8 burst"
+],
+[
+"weapon-new",
+"CM-102",
+"CM-102 <- AS-17 Krypton (Kh-31P)"
+],
+[
+"weapon-new",
+"23mm AM-23 x 2 Burst [50 rnds]",
+"23mm AM-23 x 2 Burst (50 r <- 23mm Type 23 burst"
+],
+[
+"weapon-new",
+"H-4 SOW [Raptor 2]",
+"H-4 SOW (Raptor 2) <- C-601 (YJ-6) Kraken"
+],
+[
+"weapon-new",
+"CH-AA-10 Abaddon [PL-15E]",
+"CH-AA-10 Abaddon (PL-15E) <- PL-15"
+],
+[
+"weapon-new",
+"CM-400Akg Wrecker [ASM, SY-400 Mod]",
+"CM-400Akg Wrecker (ASM; SY- <- AS-11 Kilter (Kh-58)"
+],
+[
+"weapon-new",
+"CM-400Akg Wrecker [AGM, SY-400 Mod]",
+"CM-400Akg Wrecker (AGM; SY- <- AS-11 Kilter (Kh-58)"
+],
+[
+"weapon-new",
+"7.62mm M60C x 4 Burst [100 rnds]",
+"7.62mm M60C x 4 Burst (100 <- 7.62mm MG burst"
+],
+[
+"weapon-new",
+"HOT",
+"HOT <- APKWS II"
+],
+[
+"weapon-new",
+"7.62mm MAG-58M MG Burst [20 rnds]",
+"7.62mm MAG-58M MG Burst (2 <- 7.62mm MG burst"
+],
+[
+"weapon-new",
+"12.7mm/50 MG Burst [10 rnds]",
+"12.7mm/50 MG Burst (10 rnd <- 12.7mm MG burst"
+],
+[
+"weapon-new",
+"AIM-2000 IRIS-T",
+"AIM-2000 IRIS-T <- R.550 Magic"
+],
+[
+"weapon-new",
+"Brimstone",
+"Brimstone <- AGM-176A Griffin"
+],
+[
+"weapon-new",
+"HYDRA TALON 70mm Rocket",
+"HYDRA TALON 70mm Rocket <- APKWS II"
+],
+[
+"weapon-new",
+"Barrier-V ATGM",
+"Barrier-V ATGM <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"Stugna-P [RK-2S] ATGM",
+"Stugna-P (RK-2S) ATGM <- AT-9 Spiral 2 (9M120)"
+],
+[
+"weapon-new",
+"AGM-88B HARM Blk IIIB",
+"AGM-88B HARM Blk IIIB <- AGM-88C HARM"
+],
+[
+"weapon-new",
+"12.7mm/50 MG x 2 Burst [100 rnds]",
+"12.7mm/50 MG x 2 Burst (10 <- 12.7mm MG burst"
+],
+[
+"weapon-new",
+"30mm China H/PJ-12 [Type 730, 240 rnds]",
+"30mm China H/PJ-12 (Type 7 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"Umkhonto-IR Mk1",
+"Umkhonto-IR Mk1 <- R.550 Magic"
+],
+[
+"weapon-new",
+"20mm GAM-BO1 Oerlikon Burst [20 rnds]",
+"20mm GAM-BO1 Oerlikon Burs <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"FIM-92C Stinger RMP",
+"FIM-92C Stinger RMP <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"30mm/82 Compact OTO-Breda/Mauser Mk30 Burst [20 rnds]",
+"30mm/82 Compact OTO-Breda/ <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm KCE30 Burst [55 rnds]",
+"30mm KCE30 Burst (55 rnds) <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"MANSUP",
+"MANSUP <- MM.40 Exocet"
+],
+[
+"weapon-new",
+"30mm/75 Twin Oerlikon GCM-AO1 APDS Burst [20 rnds]",
+"30mm/75 Twin Oerlikon GCM- <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm/75 Twin Oerlikon GCM-AO1 HE Burst [20 rnds]",
+"30mm/75 Twin Oerlikon GCM- <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"Sea Wolf Blk 1",
+"Sea Wolf Blk 1 <- R.550 Magic"
+],
+[
+"weapon-new",
+"114mm/55 Mk8 HE(MP)ER HE",
+"114mm/55 Mk8 HE(MP)ER HE <- 127mm/62 Mk45 HE"
+],
+[
+"weapon-new",
+"30mm/75 DS30B Mk1 APDS Burst [20 rnds]",
+"30mm/75 DS30B Mk1 APDS Bur <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm/75 DS30B Mk1 HE Burst [20 rnds]",
+"30mm/75 DS30B Mk1 HE Burst <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm/70 Twin Breda Compact Burst [32 rnds]",
+"40mm/70 Twin Breda Compact <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm/70 Twin Breda Vesta Fast Forty Burst [32 rnds]",
+"40mm/70 Twin Breda Vesta F <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"20mm/128 Searanger Burst [20 rnds]",
+"20mm/128 Searanger Burst <- 20mm GI-2 burst"
+],
+[
+"weapon-new",
+"SS-N-22M Sunburn [P-270 Moskit]",
+"SS-N-22M Sunburn (P-270 Mos <- SS-N-19 Shipwreck"
+],
+[
+"weapon-new",
+"20mm/70 Oerlikon Burst [20 rnds]",
+"20mm/70 Oerlikon Burst (20 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"Aspide",
+"Aspide <- SA-15 Gauntlet (9M330)"
+],
+[
+"weapon-new",
+"Otomat Mk2 Mod I",
+"Otomat Mk2 Mod I <- MM.40 Exocet"
+],
+[
+"weapon-new",
+"Marte Mk2",
+"Marte Mk2 <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"20mm M71/08 Burst [20 rnds]",
+"20mm M71/08 Burst (20 rnds <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"VL-MICA EM",
+"VL-MICA EM <- SA-22 (57E6)"
+],
+[
+"weapon-new",
+"40mm/60 Mk7 Single Bofors Burst [2 rnds]",
+"40mm/60 Mk7 Single Bofors <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"HT-16PGJ [9M313]",
+"HT-16PGJ (9M313) <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"14.5mm/73 Quad Burst [20 rnds]",
+"14.5mm/73 Quad Burst (20 r <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"SA-16 Gimlet [9M313]",
+"SA-16 Gimlet (9M313) <- AIM-9B Sidewinder"
+],
+[
+"weapon-new",
+"37mm/63 Twin Burst [20 rnds]",
+"37mm/63 Twin Burst (20 rnd <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"14.5mm/93 Twin MG Burst [20 rnds]",
+"14.5mm/93 Twin MG Burst (2 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"30mm Rafael Typhoon HE Burst [20 rnds]",
+"30mm Rafael Typhoon HE Bur <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm Grenade Salvo [10 rnds]",
+"40mm Grenade Salvo (10 rnd <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"PORSAV",
+"PORSAV <- Sosna-R (9M337)"
+],
+[
+"weapon-new",
+"Marte Mk2/N",
+"Marte Mk2/N <- GBU-38 (Mk82) JDAM"
+],
+[
+"weapon-new",
+"100mm/56 Twin Frag Burst [2 rnds]",
+"100mm/56 Twin Frag Burst <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/56 Twin HE Burst [2 rnds]",
+"100mm/56 Twin HE Burst (2 <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"AK-306 30mm/54 Gatling Burst [50 rnds]",
+"AK-306 30mm/54 Gatling Bur <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"CM-90 Nasir",
+"CM-90 Nasir <- AGM-154A-1 JSOW"
+],
+[
+"weapon-new",
+"25mm/60 Twin Burst [20 rnds]",
+"25mm/60 Twin Burst (20 rnd <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"SS-N-2d Improved Styx [P-22, IR]",
+"SS-N-2d Improved Styx (P-22 <- SS-N-2d Styx (P-21)"
+],
+[
+"weapon-new",
+"NT-37F",
+"NT-37F <- NT-37D"
+],
+[
+"weapon-new",
+"SUT Mod 264",
+"SUT Mod 264 <- SST-4 Mod 1"
+],
+[
+"weapon-new",
+"53-65KE WH",
+"53-65KE WH <- USET-80"
+],
+[
+"weapon-new",
+"Yu-4B",
+"Yu-4B <- Tigerfish Mk24 Mod2"
+],
+[
+"weapon-new",
+"100mm/55 Model 1968 PFHE",
+"100mm/55 Model 1968 PFHE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/55 Model 1968 HE",
+"100mm/55 Model 1968 HE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"20mm/80 Mk10 Twin Burst [20 rnds]",
+"20mm/80 Mk10 Twin Burst (2 <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"127mm/25 Mk10 HE-PD [HiCap]",
+"127mm/25 Mk10 HE-PD (HiCap <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/25 Mk10 AA-VT [Anti-Aircraft Common]",
+"127mm/25 Mk10 AA-VT (Anti- <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"152mm/47 Mk16 Triple HC Salvo [3 rnds]",
+"152mm/47 Mk16 Triple HC Sa <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"152mm/47 Mk16 Triple AP Salvo [3 rnds]",
+"152mm/47 Mk16 Triple AP Sa <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"Sea Cat Mod 1",
+"Sea Cat Mod 1 <- AGM-114L Longbow Hellfire"
+],
+[
+"weapon-new",
+"40mm/56 Mk1 Twin Bofors DP Burst [4 rnds]",
+"40mm/56 Mk1 Twin Bofors DP <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"RB 70 Rayrider Mk2",
+"RB 70 Rayrider Mk2 <- Sosna-R (9M337)"
+],
+[
+"weapon-new",
+"Mk11 Hedgehog ASW Mortar Salvo [24 rnds]",
+"Mk11 Hedgehog ASW Mortar S <- 20mm/76 Blk1 CIWS burst"
+],
+[
+"weapon-new",
+"127mm/38 Twin AA-VT Burst [Anti-Aircraft Common, 2 rnds]",
+"127mm/38 Twin AA-VT Burst <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/38 Twin HE-PD Burst [HiCap, 2 rnds]",
+"127mm/38 Twin HE-PD Burst <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"40mm/60 Quad Bofors Burst [8 rnds]",
+"40mm/60 Quad Bofors Burst <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"20mm/80 Twin Oerlikon Burst [20 rnds]",
+"20mm/80 Twin Oerlikon Burs <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"105mm m/40 HE",
+"105mm m/40 HE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"40mm/60 Twin Bofors Burst [4 rnds]",
+"40mm/60 Twin Bofors Burst <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"40mm/60 Mk3 Single Bofors Burst [2 rnds]",
+"40mm/60 Mk3 Single Bofors <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"76mm/50 Twin Frag Burst [2 rnds]",
+"76mm/50 Twin Frag Burst (2 <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"76mm/50 Twin HE Burst [2 rnds]",
+"76mm/50 Twin HE Burst (2 r <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"114mm/55 Mk8 HE(MP) HE",
+"114mm/55 Mk8 HE(MP) HE <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/38 HE-PD [HiCap]",
+"127mm/38 HE-PD (HiCap) <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"127mm/38 AA-VT [AntiAircraft Common]",
+"127mm/38 AA-VT (AntiAircra <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"Mk6/9/14 Depth Charge Mortar",
+"Mk6/9/14 Depth Charge Mort <- 20mm/76 Blk1 CIWS burst"
+],
+[
+"weapon-new",
+"40mm/70 Mk3 Single Bofors Burst [4 rnds]",
+"40mm/70 Mk3 Single Bofors <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"81mm HE Mortar",
+"81mm HE Mortar <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"40mm/56 Mk2 Quad Bofors DP Burst [8 rnds]",
+"40mm/56 Mk2 Quad Bofors DP <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"114mm/45 Mk6 Twin HE Burst [2 rnds]",
+"114mm/45 Mk6 Twin HE Burst <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"20mm/70 Oerlikon Mk10 Burst [20 rnds]",
+"20mm/70 Oerlikon Mk10 Burs <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"Gabriel II",
+"Gabriel II <- SM.39 Exocet"
+],
+[
+"weapon-new",
+"40mm/70 Single Breda Burst [4 rnds]",
+"40mm/70 Single Breda Burst <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"76mm/50 HE",
+"76mm/50 HE <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"76mm/50 Frag",
+"76mm/50 Frag <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"30mm/75 Twin Oerlikon APDS Burst [20 rnds]",
+"30mm/75 Twin Oerlikon APDS <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm/75 Twin Oerlikon HE Burst [20 rnds]",
+"30mm/75 Twin Oerlikon HE B <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"SET-65E Enot [NATO ET-80A[67]]",
+"SET-65E Enot (NATO <- TEST-71M"
+],
+[
+"weapon-new",
+"25mm/79 2M-3M Twin Burst [20 rnds]",
+"25mm/79 2M-3M Twin Burst <- 25mm/87 Mk38 burst"
+],
+[
+"weapon-new",
+"57mm S-68 HE",
+"57mm S-68 HE <- 57mm/70 Bofors Mk3 burst"
+],
+[
+"weapon-new",
+"SS-N-2c Improved Styx [P-20]",
+"SS-N-2c Improved Styx (P-20 <- SS-N-2d Styx (P-21)"
+],
+[
+"weapon-new",
+"35mm/90 Twin Frag Burst [20 rnds]",
+"35mm/90 Twin Frag Burst (2 <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"30mm Burst [20 rnds]",
+"30mm Burst (20 rnds) <- 30mm Mk46 burst"
+],
+[
+"weapon-new",
+"20mm/76 Sea Vulcan Burst [20 rnds]",
+"20mm/76 Sea Vulcan Burst <- 20mm Blk1B CIWS burst"
+],
+[
+"weapon-new",
+"76mm/50 Mk22 Bofors HE",
+"76mm/50 Mk22 Bofors HE <- 76mm/60 AK-176 HE"
+],
+[
+"weapon-new",
+"57mm/70 Bofors Mk2 GP Burst [4 rnds]",
+"57mm/70 Bofors Mk2 GP Burs <- 57mm/70 Bofors Mk3 burst"
+],
+[
+"weapon-new",
+"114mm/45 Mk5 Twin HE Burst [2 rnds]",
+"114mm/45 Mk5 Twin HE Burst <- 127mm/54 Mk45 HE"
+],
+[
+"weapon-new",
+"152mm/53 Twin Bofors AP Burst [2 rnds]",
+"152mm/53 Twin Bofors AP Bu <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"152mm/53 Twin Bofors HE Burst [2 rnds]",
+"152mm/53 Twin Bofors HE Bu <- 130mm/54 AK-130 HE"
+],
+[
+"weapon-new",
+"100mm/55 Model 1953 PFHE",
+"100mm/55 Model 1953 PFHE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"100mm/55 Model 1953 HE",
+"100mm/55 Model 1953 HE <- 100mm/59 AK-100 HE"
+],
+[
+"weapon-new",
+"Mk8 Straight Runner",
+"Mk8 Straight Runner <- Mk14 Mod3"
+],
+[
+"weapon-new",
+"SUT Mod 0",
+"SUT Mod 0 <- Tigerfish Mk24 Mod2"
+],
+[
+"radar-new",
+"ENR",
+"ENR <- APY-10"
+],
+[
+"radar-match",
+"CA/APS-508 Ocean Eye [AN/APS-143B(V)3]",
+"APS-143B(V)3"
+],
+[
+"radar-new",
+"GJ-11 Sharp Sword UAV AESA",
+"GJ-11 Sharp Sword UAV AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"Generic SAR/MTI",
+"Generic SAR/MTI <- APY-10"
+],
+[
+"radar-match",
+"China Type 245 [HL-6D]",
+"Type 245"
+],
+[
+"radar-new",
+"China H-6K Surface Search Radar",
+"China H-6K Surface Search R <- APY-10"
+],
+[
+"radar-new",
+"China Type 244 [HL-2A]",
+"China Type 244 (HL-2A) <- APY-10"
+],
+[
+"radar-match",
+"China KLJ-3 [Type 1473]",
+"KLJ-3"
+],
+[
+"radar-new",
+"China KLJ-X AESA [Zhemchoug]",
+"China KLJ-X AESA (Zhemchoug <- APG-79 AESA"
+],
+[
+"radar-match",
+"Slot Back [N-001E Mech]",
+"Slot Back II (N-001)"
+],
+[
+"radar-new",
+"J-16 AESA",
+"J-16 AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"J-15 AESA",
+"J-15 AESA <- APG-79 AESA"
+],
+[
+"radar-match",
+"China KLJ-5 [Type 1475]",
+"KLJ-5 (Type 1475)"
+],
+[
+"radar-match",
+"China JL-10A+ Shen Ying",
+"JL-10A Shen Ying"
+],
+[
+"radar-new",
+"China Type 88",
+"China Type 88 <- APY-9"
+],
+[
+"radar-new",
+"KLC-7 Silk Road Eye",
+"KLC-7 Silk Road Eye <- APY-9"
+],
+[
+"radar-new",
+"Splash Drop",
+"Splash Drop <- APY-10"
+],
+[
+"sonar-new",
+"Lamb Tail [VGS-3 Ros-V]",
+"Lamb Tail (VGS-3 Ros-V) <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"E-801 Oko",
+"E-801 Oko <- APY-10"
+],
+[
+"radar-new",
+"Generic Surface Search Radar",
+"Generic Surface Search Rada <- APY-10"
+],
+[
+"radar-new",
+"Slot Back [Irbis-E PESA]",
+"Slot Back (Irbis-E PESA) <- APG-79 AESA"
+],
+[
+"radar-new",
+"KJ-200 Radar",
+"KJ-200 Radar <- APY-9"
+],
+[
+"radar-new",
+"China Y-9DZ SAR",
+"China Y-9DZ SAR <- APY-10"
+],
+[
+"sonar-new",
+"Generic China Dipping Sonar",
+"Generic China Dipping Sonar <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"Z-18J AEW Radar",
+"Z-18J AEW Radar <- APY-10"
+],
+[
+"radar-new",
+"China KLC-3B",
+"China KLC-3B <- APY-10"
+],
+[
+"radar-new",
+"RBE-2AA AESA",
+"RBE-2AA AESA <- APG-79 AESA"
+],
+[
+"radar-match",
+"PS-05/A Mk3",
+"PS-05/A Mk2"
+],
+[
+"radar-match",
+"AN/APS-147 MMR",
+"APS-147"
+],
+[
+"radar-new",
+"Search Master",
+"Search Master <- APY-10"
+],
+[
+"radar-new",
+"Erieye-ER",
+"Erieye-ER <- APY-9"
+],
+[
+"radar-new",
+"Sea Spray 7500E",
+"Sea Spray 7500E <- APY-10"
+],
+[
+"sonar-new",
+"TSM 8260 FLASH",
+"TSM 8260 FLASH <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"CAPTOR E-Scan Mk1",
+"CAPTOR E-Scan Mk1 <- APG-79 AESA"
+],
+[
+"radar-new",
+"AN/APS-137B(V)5 ISAR",
+"AN/APS-137B(V)5 ISAR <- APY-10"
+],
+[
+"radar-match",
+"PS-05/A Mk4 AESA [ES-05 Raven]",
+"PS-05/A Mk2"
+],
+[
+"radar-match",
+"MM/HEW-784",
+"HEW-784"
+],
+[
+"radar-new",
+"CAPTOR",
+"CAPTOR <- APG-79 AESA"
+],
+[
+"radar-new",
+"Phalcon AEWR",
+"Phalcon AEWR <- APY-9"
+],
+[
+"sonar-new",
+"HELRAS-2 Mk2",
+"HELRAS-2 Mk2 <- AQS-22 FLASH"
+],
+[
+"radar-match",
+"AN/APG-63U [AN/APG-63(V)1]",
+"APG-63"
+],
+[
+"radar-new",
+"J/APG-2 AESA",
+"J/APG-2 AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"HPQ-101C",
+"HPQ-101C <- APG-79 AESA"
+],
+[
+"radar-match",
+"AN/APS-115",
+"APS-115"
+],
+[
+"radar-new",
+"J/HPS-106B",
+"J/HPS-106B <- APY-9"
+],
+[
+"radar-new",
+"J/HPS-105B",
+"J/HPS-105B <- APY-10"
+],
+[
+"sonar-new",
+"J/HQS-104 [AN/AQS-18M]",
+"J/HQS-104 (AN/AQS-18M) <- AQS-22 FLASH"
+],
+[
+"sonar-new",
+"HELRAS-2",
+"HELRAS-2 <- AQS-22 FLASH"
+],
+[
+"radar-match",
+"MM/APS-717",
+"APS-717"
+],
+[
+"radar-match",
+"EL/M-2032",
+"EL/M-2032"
+],
+[
+"radar-new",
+"PS-890 Erieye",
+"PS-890 Erieye <- APY-9"
+],
+[
+"radar-match",
+"AN/APG-66(V)2 MLU",
+"APG-66"
+],
+[
+"radar-new",
+"Vega Premier",
+"Vega Premier <- APY-9"
+],
+[
+"sonar-new",
+"Lamb Tail [Ros-VM]",
+"Lamb Tail (Ros-VM) <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"Kopio-A",
+"Kopio-A <- APG-79 AESA"
+],
+[
+"radar-new",
+"FH01 Arbalet 52",
+"FH01 Arbalet 52 <- APG-79 AESA"
+],
+[
+"radar-new",
+"V006 Rezets",
+"V006 Rezets <- APG-79 AESA"
+],
+[
+"radar-match",
+"Slot Back [N-010 Zhuk-M]",
+"N-010 Zhuk-M"
+],
+[
+"radar-match",
+"Slot Back [N-010 Zhuk-AE] AESA",
+"N-010 Zhuk-M"
+],
+[
+"radar-match",
+"Slot Back [V-004]",
+"Slot Back (V-004)"
+],
+[
+"radar-match",
+"Slot Back [V-004]",
+"Slot Back (V-004)"
+],
+[
+"radar-match",
+"N036-1-01 Byelka AESA",
+"N-036 Byelka"
+],
+[
+"radar-new",
+"N036B-1-01 Byelka AESA",
+"N036B-1-01 Byelka AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"N036L-1-01 Byelka AESA",
+"N036L-1-01 Byelka AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"N036B0-1-01 Byelka AESA",
+"N036B0-1-01 Byelka AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"MV-45",
+"MV-45 <- APG-79 AESA"
+],
+[
+"radar-new",
+"Sea Spray 7400E",
+"Sea Spray 7400E <- APY-10"
+],
+[
+"radar-match",
+"AN/APG-68(V)7",
+"APG-68"
+],
+[
+"radar-new",
+"KF-X AESA",
+"KF-X AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"RDR-1400C",
+"RDR-1400C <- APY-10"
+],
+[
+"radar-match",
+"AN/APG-65",
+"APG-65"
+],
+[
+"radar-match",
+"AN/APS-143B(V)3 Ocean Eye",
+"APS-143B(V)3"
+],
+[
+"sonar-new",
+"TSM 82XX FLASH-S SONIC",
+"TSM 82XX FLASH-S SONIC <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"Generic SAR/MTI",
+"Generic SAR/MTI <- APY-10"
+],
+[
+"radar-new",
+"Aselsan AESA",
+"Aselsan AESA <- APY-10"
+],
+[
+"radar-match",
+"AN/APG-68(V)9",
+"APG-68"
+],
+[
+"radar-new",
+"IRFS AESA",
+"IRFS AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"Blue Kestrel 7000",
+"Blue Kestrel 7000 <- APY-10"
+],
+[
+"radar-new",
+"Searchwater 2000 AEW",
+"Searchwater 2000 AEW <- APY-9"
+],
+[
+"radar-new",
+"Searchwater 2000 AEW",
+"Searchwater 2000 AEW <- APY-9"
+],
+[
+"radar-new",
+"CAPTOR-E AESA [CAESAR]",
+"CAPTOR-E AESA (CAESAR) <- APG-79 AESA"
+],
+[
+"sonar-match",
+"DSQS-24C [CSU 90]",
+"CSU 90"
+],
+[
+"radar-new",
+"Sea Master 400",
+"Sea Master 400 <- SPS-48E"
+],
+[
+"radar-new",
+"APAR MFR",
+"APAR MFR <- SPY-1B/D"
+],
+[
+"radar-new",
+"Scanter 6002",
+"Scanter 6002 <- SPS-48E"
+],
+[
+"radar-new",
+"Goalkeeper Acquisition [Radar]",
+"Goalkeeper Acquisition (Rad <- SPQ-9B"
+],
+[
+"radar-new",
+"SMART-S",
+"SMART-S <- SPS-48E"
+],
+[
+"radar-match",
+"LW.08",
+"LW.08"
+],
+[
+"sonar-match",
+"PHS-36",
+"PHS-36"
+],
+[
+"sonar-match",
+"CA/SQS-510",
+"SQS-510"
+],
+[
+"radar-new",
+"SMART-S Mk2",
+"SMART-S Mk2 <- SPS-48E"
+],
+[
+"sonar-match",
+"CA/SQR-501 CANTASS [AN/SQR-19]",
+"SQR-501 CANTASS"
+],
+[
+"radar-new",
+"Sea Giraffe AMB 3D",
+"Sea Giraffe AMB 3D <- SPS-48E"
+],
+[
+"radar-match",
+"China H/LJQ-382 [Type 382] Top Plate",
+"Sea Eagle Type 382"
+],
+[
+"radar-match",
+"China H/LJQ-364 [Type 364]",
+"Type 364"
+],
+[
+"radar-match",
+"China Type 348 Rice Bowl",
+"Type 348"
+],
+[
+"radar-new",
+"China H/LJP-344A [Type 344]",
+"China H/LJP-344A (Type 344) <- SPQ-9B"
+],
+[
+"sonar-match",
+"China H/SJD-9 [DUBV 23]",
+"DUBV 23/43"
+],
+[
+"radar-match",
+"China H/LJG-346A [Type 346A] Dragon Eye",
+"Type 346A SAPARS"
+],
+[
+"radar-new",
+"China Type XXX X-Band Radar",
+"China Type XXX X-Band Radar <- SPS-48E"
+],
+[
+"radar-new",
+"Type 052DL \"Anti-Stealth\" Radar",
+"Type 052DL Anti-Stealth Rad <- SPS-48E"
+],
+[
+"radar-match",
+"China H/LJP-349A [Type 349A]",
+"Type 349A"
+],
+[
+"sonar-new",
+"China H/SJG-311 TASS",
+"China H/SJG-311 TASS <- TB-29A"
+],
+[
+"sonar-new",
+"China H/SJG-311 [Type 311] VDS",
+"China H/SJG-311 (Type 311) VD <- UMS 4249 CAPTAS"
+],
+[
+"radar-match",
+"China Type 360",
+"Type 360"
+],
+[
+"radar-match",
+"China H/LJQ-517B [Type 517H-1] Knife Rest",
+"Type 517 Knife Rest"
+],
+[
+"sonar-match",
+"China H/SJG-206 TASS",
+"SJG-206 TLAS-1"
+],
+[
+"radar-new",
+"China Type XXX MFR",
+"China Type XXX MFR <- SPS-48E"
+],
+[
+"radar-new",
+"China H/LJQ-361A [Type 361]",
+"China H/LJQ-361A (Type 361) <- SPS-48E"
+],
+[
+"sonar-match",
+"ASO 94-01 [CSU 90]",
+"CSU 90"
+],
+[
+"radar-new",
+"SMART-L",
+"SMART-L <- SPS-48E"
+],
+[
+"radar-new",
+"Scanter 2001",
+"Scanter 2001 <- SPS-48E"
+],
+[
+"radar-new",
+"Sea Giraffe 4A",
+"Sea Giraffe 4A <- SPS-48E"
+],
+[
+"sonar-new",
+"SD9500",
+"SD9500 <- UMS 4249 CAPTAS"
+],
+[
+"radar-match",
+"DRBV 51A Triton [TRS 3035]",
+"DRBV 51A Triton"
+],
+[
+"sonar-match",
+"DUBA 25A Tarpon [TSM 2400]",
+"DUBA 25 Tarpon"
+],
+[
+"radar-new",
+"Sea Fire",
+"Sea Fire <- SPS-48E"
+],
+[
+"sonar-new",
+"Kingklip Mk2",
+"Kingklip Mk2 <- SQS-53C"
+],
+[
+"sonar-new",
+"ATBF 2",
+"ATBF 2 <- UMS 4249 CAPTAS"
+],
+[
+"radar-new",
+"Herakles 3D",
+"Herakles 3D <- SPS-48E"
+],
+[
+"sonar-new",
+"UMS 4410CL",
+"UMS 4410CL <- SQS-53C"
+],
+[
+"radar-new",
+"Herakles 3D",
+"Herakles 3D <- SPS-48E"
+],
+[
+"radar-new",
+"MM/SPY-790 EMPAR MFR",
+"MM/SPY-790 EMPAR MFR <- SPY-1B/D"
+],
+[
+"radar-match",
+"S.1850M VSR [BMD Mod]",
+"RAN-40S (S1850M)"
+],
+[
+"sonar-new",
+"UMS 4110CL",
+"UMS 4110CL <- SQS-53C"
+],
+[
+"sonar-new",
+"ALTO",
+"ALTO <- TB-29A"
+],
+[
+"radar-match",
+"DRBV 26C Jupiter IIS [TRS 3011]",
+"DRBV 26 Jupiter II"
+],
+[
+"sonar-new",
+"URDT 1 [SPDT-1A]",
+"URDT 1 (SPDT-1A) <- SQS-53C"
+],
+[
+"sonar-match",
+"DSQS-23BZ [CSU 90]",
+"DSQS-23BZ/ASO 95"
+],
+[
+"sonar-match",
+"ASA 92 ACTAS",
+"ASA 92 ACTAS"
+],
+[
+"radar-match",
+"TRS 3050 Triton G",
+"Triton G (TRS 3050)"
+],
+[
+"sonar-match",
+"DSQS-24B Mod [CSU 90]",
+"CSU 90"
+],
+[
+"radar-match",
+"TRS-4D/NR MFR",
+"TRS-4D/NR"
+],
+[
+"sonar-new",
+"ATLAS ACTAS",
+"ATLAS ACTAS <- TB-37U MFTA"
+],
+[
+"sonar-new",
+"Type 2087 [CAPTAS Mk4, Towed Body]",
+"Type 2087 (CAPTAS Mk4; Towed <- UMS 4249 CAPTAS"
+],
+[
+"radar-new",
+"NS-100",
+"NS-100 <- SPS-48E"
+],
+[
+"sonar-match",
+"UMS 4132 Kingklip",
+"UMS 4132 Kingklip"
+],
+[
+"sonar-match",
+"UMS 4229 CAPTAS Mk2",
+"CAPTAS UMS 4229"
+],
+[
+"radar-new",
+"Variant Mk.2",
+"Variant Mk.2 <- SPQ-9B"
+],
+[
+"radar-new",
+"KRONOS StarFire",
+"KRONOS StarFire <- SPS-48E"
+],
+[
+"sonar-new",
+"Black Snake [WASS / Morpheus]",
+"Black Snake (WASS / Morpheus) <- TB-29A"
+],
+[
+"radar-new",
+"J/OPS-50 MFR",
+"J/OPS-50 MFR <- SPY-1B/D"
+],
+[
+"radar-new",
+"J/OPS-28D",
+"J/OPS-28D <- SPS-48E"
+],
+[
+"sonar-new",
+"J/OQQ-21",
+"J/OQQ-21 <- SQS-53C"
+],
+[
+"radar-new",
+"AN/SPY-7(V)1",
+"AN/SPY-7(V)1 <- SPY-1B/D"
+],
+[
+"radar-new",
+"J/OPY-1 MFR",
+"J/OPY-1 MFR <- SPY-1B/D"
+],
+[
+"sonar-new",
+"J/OQR-4 MFTA [AN/SQR-20]",
+"J/OQR-4 MFTA (AN/SQR-20) <- TB-37U MFTA"
+],
+[
+"sonar-new",
+"J/OQQ-24",
+"J/OQQ-24 <- SQS-53C"
+],
+[
+"radar-new",
+"J/OPY-1 VSR",
+"J/OPY-1 VSR <- SPS-48E"
+],
+[
+"radar-new",
+"J/OPS-48",
+"J/OPS-48 <- SPS-48E"
+],
+[
+"sonar-new",
+"AN/SQR-20 MFTA",
+"AN/SQR-20 MFTA <- TB-37U MFTA"
+],
+[
+"radar-new",
+"J/OPY-2 VSR",
+"J/OPY-2 VSR <- SPS-48E"
+],
+[
+"radar-new",
+"J/OPY-2 MFR",
+"J/OPY-2 MFR <- SPY-1B/D"
+],
+[
+"sonar-new",
+"J/OQQ-25 VDS",
+"J/OQQ-25 VDS <- UMS 4249 CAPTAS"
+],
+[
+"sonar-new",
+"J/OQQ-25 TASS",
+"J/OQQ-25 TASS <- TB-29A"
+],
+[
+"radar-new",
+"SMART-L EWC [BMD Mod]",
+"SMART-L EWC (BMD Mod) <- SPS-48E"
+],
+[
+"radar-new",
+"NS100",
+"NS100 <- SPS-48E"
+],
+[
+"radar-new",
+"3P96-2 [Poliment-Redoute]",
+"3P96-2 (Poliment-Redoute) <- SPY-1B/D"
+],
+[
+"radar-new",
+"Furke-E",
+"Furke-E <- SPS-48E"
+],
+[
+"radar-new",
+"Slim Net [Fut-N]",
+"Slim Net (Fut-N) <- SPS-48E"
+],
+[
+"radar-new",
+"NS-50",
+"NS-50 <- SPS-48E"
+],
+[
+"sonar-new",
+"BlueHunter",
+"BlueHunter <- SQS-53C"
+],
+[
+"radar-new",
+"Mk92 Mod 2 CAS",
+"Mk92 Mod 2 CAS <- SPY-1B/D"
+],
+[
+"sonar-match",
+"AN/SQS-56",
+"SQS-56"
+],
+[
+"sonar-new",
+"AN/SQR-18A(V)2",
+"AN/SQR-18A(V)2 <- TB-29A"
+],
+[
+"sonar-new",
+"Bull Nose [MG-322 Argun]",
+"Bull Nose (MG-322 Argun) <- SQS-53C"
+],
+[
+"radar-match",
+"Strut Curve [MR-302 Rubka]",
+"Strut Curve (MR-302)"
+],
+[
+"sonar-new",
+"DSBV 62C",
+"DSBV 62C <- TB-29A"
+],
+[
+"sonar-new",
+"Vinyetka-ME",
+"Vinyetka-ME <- TB-37U MFTA"
+],
+[
+"sonar-match",
+"Bull Nose [MGK-335EM-03 Zarya-3]",
+"MGK-335EM Platina"
+],
+[
+"radar-match",
+"Top Plate [MR-710 Fregat M2EM]",
+"Top Plate B (MR-710)"
+],
+[
+"radar-match",
+"Cross Round [MR-352 Positiv ME-1.2]",
+"Cross Dome (MR-352)"
+],
+[
+"radar-match",
+"Strut Pair 2 [MR-320 Topaz]",
+"Strut Pair 2 (MR-320M)"
+],
+[
+"sonar-match",
+"Bull Nose [MGK-335M Platina]",
+"MGK-335MS Platina"
+],
+[
+"radar-match",
+"Top Plate [MR-750 Fregat MA]",
+"Top Plate A (MR-750)"
+],
+[
+"radar-new",
+"MR-350 Podkat",
+"MR-350 Podkat <- SPQ-9B"
+],
+[
+"sonar-new",
+"Horse Tail [Polinom]",
+"Horse Tail (Polinom) <- UMS 4249 CAPTAS"
+],
+[
+"sonar-new",
+"Horse Jaw [Polinom]",
+"Horse Jaw (Polinom) <- SQS-53C"
+],
+[
+"radar-match",
+"Tombstone [30N6-1]",
+"Tombstone (30N6)"
+],
+[
+"radar-new",
+"MR-650 Podberezovik",
+"MR-650 Podberezovik <- SPS-48E"
+],
+[
+"radar-new",
+"Top Plate [5P-30N2 Fregat-N2]",
+"Top Plate (5P-30N2 Fregat-N <- SPS-48E"
+],
+[
+"radar-match",
+"Top Plate [MR-710 Fregat]",
+"Top Plate B (MR-710)"
+],
+[
+"radar-match",
+"Top Plate [MR-710 Fregat M1]",
+"Top Plate B (MR-710)"
+],
+[
+"sonar-match",
+"Steer Hide [MGK-335M Platina]",
+"MGK-335MS Platina"
+],
+[
+"sonar-match",
+"Bull Nose [MGK-335 Platina]",
+"Bull Horn (MGK-335)"
+],
+[
+"radar-new",
+"Top Dome [3R41 Volna]",
+"Top Dome (3R41 Volna) <- SPY-1B/D"
+],
+[
+"radar-new",
+"Top Steer [Fregat]",
+"Top Steer (Fregat) <- SPS-48E"
+],
+[
+"radar-match",
+"Top Pair [MR-800 Flag]",
+"Top Pair (MR-800)"
+],
+[
+"sonar-match",
+"Bull Nose [MGK-335EM-02 Zarya-M]",
+"MGK-335EM Platina"
+],
+[
+"radar-new",
+"Monument A",
+"Monument A <- SPQ-9B"
+],
+[
+"sonar-new",
+"ISPN-M1 Minotaur",
+"ISPN-M1 Minotaur <- UMS 4249 CAPTAS"
+],
+[
+"radar-match",
+"Cross Round [MR-352 Positiv ME-1]",
+"Cross Dome (MR-352)"
+],
+[
+"radar-new",
+"K/SPS-540K",
+"K/SPS-540K <- SPS-48E"
+],
+[
+"radar-new",
+"AN/SPY-7(V)2",
+"AN/SPY-7(V)2 <- SPY-1B/D"
+],
+[
+"sonar-new",
+"TSM 2643 Salmon",
+"TSM 2643 Salmon <- SQS-53C"
+],
+[
+"sonar-new",
+"ST2400 Toadfish",
+"ST2400 Toadfish <- UMS 4249 CAPTAS"
+],
+[
+"sonar-match",
+"TBT-01 [AN/SQS-56 Copy]",
+"SQS-56"
+],
+[
+"sonar-new",
+"Fersah",
+"Fersah <- SQS-53C"
+],
+[
+"sonar-new",
+"Type 2087 [CAPTAS Mk2, Towed Body]",
+"Type 2087 (CAPTAS Mk2; Towed <- UMS 4249 CAPTAS"
+],
+[
+"sonar-new",
+"Type 2150",
+"Type 2150 <- SQS-53C"
+],
+[
+"radar-new",
+"Type 997 Artisan 3D",
+"Type 997 Artisan 3D <- SPS-48E"
+],
+[
+"radar-new",
+"Scanter 6000",
+"Scanter 6000 <- SPS-48E"
+],
+[
+"radar-new",
+"NS-110",
+"NS-110 <- SPS-48E"
+],
+[
+"sonar-new",
+"Type 2041 [PRS]",
+"Type 2041 (PRS) <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"SUBTASS",
+"SUBTASS <- TB-29A"
+],
+[
+"sonar-new",
+"Type 2046",
+"Type 2046 <- TB-29A"
+],
+[
+"sonar-match",
+"China SQG-2B [DUUX 5]",
+"DUUX 5 Fenelon"
+],
+[
+"sonar-match",
+"China SQC-1 [DSUV 2H + DUUA 2D]",
+"DUUA 2D"
+],
+[
+"radar-match",
+"Snoop Tray 2 [MRK-50E Kaskad]",
+"Snoop Tray 2 (MRK-50)"
+],
+[
+"radar-new",
+"China H/LQK-359A",
+"China H/LQK-359A <- BPS-16"
+],
+[
+"sonar-new",
+"Generic Towed Array Sonar",
+"Generic Towed Array Sonar <- TB-29A"
+],
+[
+"sonar-match",
+"China SQC-207",
+"SQC-207"
+],
+[
+"sonar-new",
+"TSM 2255",
+"TSM 2255 <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-match",
+"TSM 2233 Eledone [DSUV 2H + DUUA 2D]",
+"Adv Eledone TSM2233"
+],
+[
+"sonar-new",
+"China SJG-206A TASS",
+"China SJG-206A TASS <- TB-29A"
+],
+[
+"sonar-match",
+"DBQS-40 Flank [CSU 90]",
+"DBQS-40 (CSU 90)"
+],
+[
+"sonar-match",
+"DBQS-40 Hull [CSU 90]",
+"DBQS-40 (CSU 90)"
+],
+[
+"sonar-match",
+"DTA-50 [TAS 90]",
+"TAS 90"
+],
+[
+"sonar-new",
+"J/ZQQ-8 Bow",
+"J/ZQQ-8 Bow <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"J/ZQQ-8 Flank Array",
+"J/ZQQ-8 Flank Array <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"J/ZQQ-8 TASS",
+"J/ZQQ-8 TASS <- TB-29A"
+],
+[
+"sonar-new",
+"Shark Gill [MGK-501 Skat-KS]",
+"Shark Gill (MGK-501 Skat-KS) <- BQQ-10"
+],
+[
+"sonar-new",
+"Shark Tail [Pelmida]",
+"Shark Tail (Pelmida) <- TB-29A"
+],
+[
+"sonar-new",
+"Lira [Hull]",
+"Lira (Hull) <- BQQ-10"
+],
+[
+"radar-match",
+"Snoop Tray 2 [MRK-50 Kaskad]",
+"Snoop Tray 2 (MRK-50)"
+],
+[
+"sonar-new",
+"Lira [Towed Array]",
+"Lira (Towed Array) <- TB-29A"
+],
+[
+"sonar-match",
+"Shark Gill [MGK-540 Skat-3]",
+"Shark Gill (MGK-540 Skat-3)"
+],
+[
+"sonar-match",
+"Shark Rib [MGK-540 Skat-3]",
+"Shark Gill (MGK-540 Skat-3)"
+],
+[
+"sonar-new",
+"Shark Gill [MGK-520 Skat-BDRM]",
+"Shark Gill (MGK-520 Skat-BDRM <- BQQ-10"
+],
+[
+"sonar-new",
+"MGK-600B Amfora [Hull Array]",
+"MGK-600B Amfora (Hull Array) <- BQQ-10"
+],
+[
+"sonar-new",
+"MGK-600B Amfora [Towed Array]",
+"MGK-600B Amfora (Towed Array) <- TB-29A"
+],
+[
+"sonar-match",
+"Shark Gill [MGK-400 Rubikon]",
+"MGK-400 Rubikon"
+],
+[
+"sonar-match",
+"Shark Tail [MG-541 Skat-1]",
+"Shark Rib (MG-541)"
+],
+[
+"sonar-match",
+"Shark Gill [MGK-500 Skat-1]",
+"Shark Gill (MGK-500 Skat-KS)"
+],
+[
+"sonar-match",
+"Shark Tail [MG-541 Skat-3]",
+"Shark Gill (MGK-540 Skat-3)"
+],
+[
+"sonar-match",
+"Shark Gill [MGK-400EM Rubikon]",
+"MGK-400 Rubikon"
+],
+[
+"sonar-new",
+"MGK-600 Amfora [Flank Array]",
+"MGK-600 Amfora (Flank Array) <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"MGK-600 Amfora [Towed Array]",
+"MGK-600 Amfora (Towed Array) <- TB-29A"
+],
+[
+"sonar-new",
+"MGK-600 Amfora [Hull Array]",
+"MGK-600 Amfora (Hull Array) <- BQQ-10"
+],
+[
+"sonar-new",
+"PLA-885M",
+"PLA-885M <- BQQ-10"
+],
+[
+"sonar-new",
+"KSS-3 Hull Sonar",
+"KSS-3 Hull Sonar <- BQQ-10"
+],
+[
+"sonar-new",
+"KSS-3 Flank Array",
+"KSS-3 Flank Array <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"KSS-3 TASS",
+"KSS-3 TASS <- TB-29A"
+],
+[
+"sonar-match",
+"CSU 90-2 Flank",
+"CSU 90"
+],
+[
+"sonar-match",
+"CSU 90-2 Hull",
+"CSU 90"
+],
+[
+"sonar-match",
+"CSU 83/1",
+"CSU 83"
+],
+[
+"sonar-match",
+"FAS 3-1",
+"FAS 3-1"
+],
+[
+"sonar-match",
+"TAS-3",
+"TAS 3"
+],
+[
+"radar-new",
+"K/SPS-550K",
+"K/SPS-550K <- SPS-48E"
+],
+[
+"sonar-new",
+"SQS-240K Hull Sonar",
+"SQS-240K Hull Sonar <- SQS-53C"
+],
+[
+"sonar-new",
+"SQR-250K",
+"SQR-250K <- TB-29A"
+],
+[
+"radar-new",
+"Generic AESA Radar",
+"Generic AESA Radar <- SPY-1B/D"
+],
+[
+"sonar-match",
+"DSQS-23B [CSU 90]",
+"CSU 90"
+],
+[
+"sonar-match",
+"DSQS-21BZ-M [CSU 83]",
+"CSU 83"
+],
+[
+"sonar-new",
+"SQR-220K TASS",
+"SQR-220K TASS <- TB-29A"
+],
+[
+"radar-match",
+"AN/APG-78 Longbow MMR",
+"APG-78 Longbow"
+],
+[
+"radar-new",
+"WZ-7 UAV AESA",
+"WZ-7 UAV AESA <- APY-10"
+],
+[
+"radar-match",
+"China KLC-1",
+"KLC-1"
+],
+[
+"radar-new",
+"Selex T-20",
+"Selex T-20 <- APY-9"
+],
+[
+"radar-new",
+"Global Hawk ISS [ISAR]",
+"Global Hawk ISS (ISAR) <- APY-10"
+],
+[
+"radar-new",
+"AirMaster C",
+"AirMaster C <- APY-10"
+],
+[
+"radar-match",
+"AN/APS-143",
+"APS-143"
+],
+[
+"radar-new",
+"EL/M-2022A(V)3",
+"EL/M-2022A(V)3 <- APY-10"
+],
+[
+"radar-new",
+"Uttam Mk1 AESA",
+"Uttam Mk1 AESA <- APG-79 AESA"
+],
+[
+"radar-new",
+"Bayyenat-II",
+"Bayyenat-II <- APG-79 AESA"
+],
+[
+"radar-new",
+"MM/APQ-706 [Sea Spray Mk1]",
+"MM/APQ-706 (Sea Spray Mk1) <- APG-79 AESA"
+],
+[
+"radar-new",
+"Drop Kick [RPO Orion-A]",
+"Drop Kick (RPO Orion-A) <- APG-79 AESA"
+],
+[
+"radar-new",
+"Varan",
+"Varan <- APY-10"
+],
+[
+"sonar-match",
+"AN/AQS-13F",
+"AQS-13F"
+],
+[
+"radar-new",
+"I-Master",
+"I-Master <- APY-10"
+],
+[
+"radar-new",
+"AN/ZPY-2 MP-RTIP AESA",
+"AN/ZPY-2 MP-RTIP AESA <- APY-9"
+],
+[
+"radar-new",
+"GD-53 MLU",
+"GD-53 MLU <- APG-79 AESA"
+],
+[
+"radar-new",
+"Anka-B Sensor Package [ISAR]",
+"Anka-B Sensor Package (ISAR <- APY-10"
+],
+[
+"radar-match",
+"AN/APY-2",
+"APY-2"
+],
+[
+"radar-new",
+"AN/APY-11 [EL/M-2022A(V)3]",
+"AN/APY-11 (EL/M-2022A(V)3) <- APY-9"
+],
+[
+"radar-match",
+"AN/APS-143C(V)3 Ocean Eye",
+"APS-143C(V)3"
+],
+[
+"radar-new",
+"CEAFAR2-L",
+"CEAFAR2-L <- SPS-48E"
+],
+[
+"radar-match",
+"MW.08",
+"MW.08"
+],
+[
+"sonar-new",
+"China H/SJG-208 TASS",
+"China H/SJG-208 TASS <- TB-37U MFTA"
+],
+[
+"radar-match",
+"TRS-3D/16ES",
+"TRS-3D/16"
+],
+[
+"sonar-new",
+"Generic Active/Passive Attack Sonar",
+"Generic Active/Passive Attack <- SQS-53C"
+],
+[
+"radar-new",
+"Chesm Oghab",
+"Chesm Oghab <- SPS-48E"
+],
+[
+"radar-new",
+"China Type 352 Square Tie",
+"China Type 352 Square Tie <- SPQ-9B"
+],
+[
+"radar-match",
+"China Type 362",
+"Type 362 ESR-1"
+],
+[
+"radar-match",
+"Square Tie [MR-331 Rangout]",
+"Square Tie (MR-331)"
+],
+[
+"radar-match",
+"EL/M-2221-GM STGR",
+"EL/M-2221 STGR"
+],
+[
+"sonar-match",
+"EDO 796",
+"EDO 796"
+],
+[
+"radar-match",
+"EL/M-2228(S) 3D AMDR",
+"EL/M-2228"
+],
+[
+"radar-match",
+"EL/M-2248 MF-STAR",
+"EL/M-2248 MF-STAR"
+],
+[
+"radar-new",
+"KRONOS Quad",
+"KRONOS Quad <- SPY-1B/D"
+],
+[
+"sonar-new",
+"WASS ATAS",
+"WASS ATAS <- UMS 4249 CAPTAS"
+],
+[
+"radar-match",
+"TRS-3D/32",
+"TRS-3D/16"
+],
+[
+"radar-new",
+"CS/MPQ-90 Bee Eye",
+"CS/MPQ-90 Bee Eye <- SPQ-9B"
+],
+[
+"sonar-new",
+"ATAS(V)2",
+"ATAS(V)2 <- TB-37U MFTA"
+],
+[
+"sonar-match",
+"TSM 2633 Spherion B Mk2",
+"Spherion TSM2633"
+],
+[
+"radar-match",
+"CS/UPS-60X [LN-66]",
+"LN-66/HP"
+],
+[
+"radar-new",
+"BAE 90-Meter",
+"BAE 90-Meter <- SPS-48E"
+],
+[
+"sonar-new",
+"Generic Active/Passive Attack Sonar",
+"Generic Active/Passive Attack <- BQQ-10"
+],
+[
+"sonar-new",
+"Type 2026",
+"Type 2026 <- TB-29A"
+],
+[
+"sonar-match",
+"TSM 2272 Octopus [DSUV 2H + DUUA 2D]",
+"DUUA 2D"
+],
+[
+"radar-new",
+"Sea Spray Mk1",
+"Sea Spray Mk1 <- APG-79 AESA"
+],
+[
+"radar-match",
+"N-025 Arbalet",
+"N-025"
+],
+[
+"radar-match",
+"Slot Back [N-011M Bars Mk1]",
+"N-011M Bars-R"
+],
+[
+"radar-match",
+"AN/APG-66(V)2A MLU",
+"APG-66"
+],
+[
+"radar-new",
+"AN/APS-137A(V)5 ISAR",
+"AN/APS-137A(V)5 ISAR <- APY-10"
+],
+[
+"radar-match",
+"RDR-1500",
+"RDR-1500"
+],
+[
+"radar-match",
+"Slot Back [N-011M Bars-R]",
+"N-011M Bars-R"
+],
+[
+"radar-match",
+"Slot Back [N-019 Rubin]",
+"Slot Back I (N-019)"
+],
+[
+"radar-match",
+"China Type 222 Mod",
+"Type 222"
+],
+[
+"radar-new",
+"China KLJ-6E Lieying",
+"China KLJ-6E Lieying <- APG-79 AESA"
+],
+[
+"radar-match",
+"Slot Back [N-001V Mech]",
+"N-001V Meych"
+],
+[
+"radar-new",
+"MM/SCP-01 Scipio",
+"MM/SCP-01 Scipio <- APG-79 AESA"
+],
+[
+"radar-new",
+"IRIS SAR",
+"IRIS SAR <- APY-10"
+],
+[
+"radar-new",
+"Grifo F-BR",
+"Grifo F-BR <- APG-79 AESA"
+],
+[
+"radar-new",
+"EL/M-2020",
+"EL/M-2020 <- APY-10"
+],
+[
+"radar-new",
+"Sea Spray 5000E",
+"Sea Spray 5000E <- APY-10"
+],
+[
+"sonar-new",
+"HELRAS DS-100",
+"HELRAS DS-100 <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"AN/APQ-133",
+"AN/APQ-133 <- APY-10"
+],
+[
+"radar-new",
+"FH01 Arbalet 52",
+"FH01 Arbalet 52 <- APG-79 AESA"
+],
+[
+"radar-new",
+"Grifo L",
+"Grifo L <- APG-79 AESA"
+],
+[
+"radar-match",
+"AN/APG-67(V)4",
+"APG-67"
+],
+[
+"radar-new",
+"Terma 9000 SLAR",
+"Terma 9000 SLAR <- APY-10"
+],
+[
+"radar-new",
+"Sea Spray 7300",
+"Sea Spray 7300 <- APY-10"
+],
+[
+"radar-new",
+"RDR-1700A",
+"RDR-1700A <- APY-10"
+],
+[
+"radar-new",
+"Ocean Master 100 Mk2",
+"Ocean Master 100 Mk2 <- APY-10"
+],
+[
+"radar-new",
+"EL/M-2022U",
+"EL/M-2022U <- APY-10"
+],
+[
+"radar-new",
+"China KLJ-7V1 [Type 1478]",
+"China KLJ-7V1 (Type 1478) <- APG-79 AESA"
+],
+[
+"radar-new",
+"Grifo-346",
+"Grifo-346 <- APG-79 AESA"
+],
+[
+"radar-new",
+"China KLJ-7A [Type 1478] AESA",
+"China KLJ-7A (Type 1478) AE <- APG-79 AESA"
+],
+[
+"sonar-new",
+"Type 195M",
+"Type 195M <- AQS-22 FLASH"
+],
+[
+"radar-new",
+"Sea Searcher",
+"Sea Searcher <- APY-10"
+],
+[
+"radar-new",
+"Sky Master",
+"Sky Master <- APY-9"
+],
+[
+"radar-match",
+"PS-05/A",
+"PS-05/A Mk2"
+],
+[
+"radar-match",
+"AN/APS-124",
+"APS-124"
+],
+[
+"radar-new",
+"Slot Back [N-019M1 Topaz]",
+"Slot Back (N-019M1 Topaz) <- APG-79 AESA"
+],
+[
+"radar-match",
+"Slot Back [N-019-U1 ]",
+"Slot Back I (N-019)"
+],
+[
+"radar-new",
+"Sea Spray Mk3",
+"Sea Spray Mk3 <- APG-79 AESA"
+],
+[
+"sonar-match",
+"AN/AQS-18",
+"AQS-18"
+],
+[
+"radar-match",
+"Slot Back [N-001 Mech]",
+"Slot Back II (N-001)"
+],
+[
+"radar-new",
+"China Type 1492",
+"China Type 1492 <- APG-79 AESA"
+],
+[
+"radar-new",
+"Scanter 4102",
+"Scanter 4102 <- SPS-48E"
+],
+[
+"radar-new",
+"Drum Tilt [MR-104 Rys]",
+"Drum Tilt (MR-104 Rys) <- SPQ-9B"
+],
+[
+"radar-match",
+"EL/M-2228(X) 2D",
+"EL/M-2228"
+],
+[
+"sonar-match",
+"China H/SJD-7 [DUBA 25]",
+"DUBA 25 Tarpon"
+],
+[
+"radar-match",
+"China Type 517 Knife Rest",
+"Type 517 Knife Rest"
+],
+[
+"radar-match",
+"China Type 363",
+"Type 363"
+],
+[
+"sonar-match",
+"TSM 2362 Gudgeon",
+"TSM 2362 Gudgeon"
+],
+[
+"radar-match",
+"DRBV 21A MARS [TRS 3015]",
+"DRBV 21A MARS"
+],
+[
+"sonar-new",
+"ASO 713 Hull",
+"ASO 713 Hull <- SQS-53C"
+],
+[
+"sonar-new",
+"Type 2016",
+"Type 2016 <- SQS-53C"
+],
+[
+"radar-new",
+"Type 967/968",
+"Type 967/968 <- SPS-48E"
+],
+[
+"sonar-new",
+"TSM 4131 [Spherion Mk3]",
+"TSM 4131 (Spherion Mk3) <- SQS-53C"
+],
+[
+"radar-new",
+"STIR",
+"STIR <- SPY-1B/D"
+],
+[
+"sonar-new",
+"Type 2050 [UMS 4110C]",
+"Type 2050 (UMS 4110C) <- SQS-53C"
+],
+[
+"sonar-match",
+"PHS-32",
+"PHS-32"
+],
+[
+"radar-new",
+"WM.28",
+"WM.28 <- SPY-1B/D"
+],
+[
+"sonar-match",
+"ASO 84-2 [CSU 83]",
+"CSU 83"
+],
+[
+"radar-new",
+"Scanter 4100",
+"Scanter 4100 <- SPS-48E"
+],
+[
+"radar-match",
+"RAN-30X/I",
+"RAN-30X (SPS-791)"
+],
+[
+"radar-new",
+"KRONOS 3D NV",
+"KRONOS 3D NV <- SPS-48E"
+],
+[
+"sonar-new",
+"AN/SQR-19A(V)2 TACTAS",
+"AN/SQR-19A(V)2 TACTAS <- TB-29A"
+],
+[
+"radar-new",
+"AN/SPG-60 STIR [Mk86 FCS, Radar]",
+"AN/SPG-60 STIR (Mk86 FCS; R <- SPQ-9B"
+],
+[
+"radar-match",
+"S1810",
+"S1810"
+],
+[
+"radar-match",
+"Cross Dome [MR-352 Positiv]",
+"Cross Dome (MR-352)"
+],
+[
+"sonar-match",
+"DE 1160LF",
+"DE 1160LF"
+],
+[
+"radar-new",
+"MM/SPS-774 [RAN-10S Pluto]",
+"MM/SPS-774 (RAN-10S Pluto) <- SPS-48E"
+],
+[
+"radar-match",
+"MM/SPS-702",
+"SPS-702 CORA (SPQ-2)"
+],
+[
+"radar-match",
+"MM/SPN-728(V)1",
+"SPN-728"
+],
+[
+"radar-new",
+"MM/SPS-768 [RAN-3L]",
+"MM/SPS-768 (RAN-3L) <- SPS-48E"
+],
+[
+"radar-new",
+"AN/SPS-52C",
+"AN/SPS-52C <- SPS-48E"
+],
+[
+"radar-new",
+"Scanter 4603",
+"Scanter 4603 <- SPS-48E"
+],
+[
+"radar-new",
+"Generic 2D Air Search Radar [Short-Range]",
+"Generic 2D Air Search Radar <- SPQ-9B"
+],
+[
+"sonar-new",
+"J/OQQ-10",
+"J/OQQ-10 <- UMS 4249 CAPTAS"
+],
+[
+"radar-match",
+"RAN-12L/X",
+"RAN-12L/X (SPQ-712)"
+],
+[
+"sonar-match",
+"DSQS-21C [CSU 83]",
+"DSQS-21C/ASO 84"
+],
+[
+"sonar-match",
+"ASO 84-41 [CSU 83]",
+"CSU 83"
+],
+[
+"radar-new",
+"TMX/EO Mk2 [Radar]",
+"TMX/EO Mk2 (Radar) <- SPQ-9B"
+],
+[
+"radar-new",
+"Generic 2D Air Search Radar [Long-Range]",
+"Generic 2D Air Search Radar <- SPS-48E"
+],
+[
+"radar-new",
+"Revathi [3D-CAR]",
+"Revathi (3D-CAR) <- SPS-48E"
+],
+[
+"sonar-new",
+"Humsa-NG",
+"Humsa-NG <- SQS-53C"
+],
+[
+"sonar-new",
+"SS 12",
+"SS 12 <- SQS-53C"
+],
+[
+"radar-new",
+"China Type 341 Rice Lamp",
+"China Type 341 Rice Lamp <- SPQ-9B"
+],
+[
+"radar-new",
+"SR2410C",
+"SR2410C <- SPS-48E"
+],
+[
+"sonar-new",
+"Model 997",
+"Model 997 <- SQS-53C"
+],
+[
+"radar-new",
+"Mk92 Mod 1 CAS",
+"Mk92 Mod 1 CAS <- SPY-1B/D"
+],
+[
+"sonar-new",
+"Type 2093",
+"Type 2093 <- UMS 4249 CAPTAS"
+],
+[
+"sonar-match",
+"TSM 2022 Mk3 PVDS [Double Eagle Mk3 ROV]",
+"TSM 2022"
+],
+[
+"sonar-new",
+"Mare Tail [MG-335M Platina]",
+"Mare Tail (MG-335M Platina) <- UMS 4249 CAPTAS"
+],
+[
+"radar-match",
+"TRS 3110 Calypso IV [DRUA 33]",
+"DRUA 33A Calypso"
+],
+[
+"sonar-match",
+"TSM 2233M Scylla [DSUV 2H + DUUA 2D]",
+"DUUA 2D"
+],
+[
+"sonar-match",
+"PRS 3-15",
+"PRS 3-15"
+],
+[
+"radar-new",
+"THD 1030 Calypso II",
+"THD 1030 Calypso II <- BPS-16"
+],
+[
+"sonar-match",
+"DBQS-21 [CSU 83]",
+"CSU 83/DBQS-21"
+],
+[
+"sonar-match",
+"PSU 83",
+"PSU-83"
+],
+[
+"radar-new",
+"Snoop Plate [Flag]",
+"Snoop Plate (Flag) <- BPS-16"
+],
+[
+"sonar-match",
+"CSU 90 Hull",
+"CSU 90"
+],
+[
+"sonar-match",
+"DUUX 5 Fenelon [TSM 2255]",
+"DUUX 5 Fenelon"
+],
+[
+"sonar-match",
+"TSM 2630 Diodon",
+"Diodon/TSM 2630"
+],
+[
+"radar-match",
+"DA.02 [SGR.103]",
+"DA.02"
+],
+[
+"radar-new",
+"Mk13",
+"Mk13 <- SPQ-9B"
+],
+[
+"radar-new",
+"Mk34",
+"Mk34 <- SPQ-9B"
+],
+[
+"radar-new",
+"LW.01 [SGR.114]",
+"LW.01 (SGR.114) <- SPS-48E"
+],
+[
+"radar-match",
+"DA.08/1",
+"DA.08"
+],
+[
+"radar-match",
+"LW.02",
+"LW.02"
+],
+[
+"radar-match",
+"ZW.01 [SGR.103]",
+"ZW.01"
+],
+[
+"sonar-new",
+"AN/SQQ-23A PAIR",
+"AN/SQQ-23A PAIR <- SQS-53C"
+],
+[
+"radar-new",
+"Mk25",
+"Mk25 <- SPQ-9B"
+],
+[
+"radar-match",
+"AN/SPS-40",
+"SPS-40"
+],
+[
+"radar-match",
+"DA.05 [RAWS-3]",
+"DA.05"
+],
+[
+"sonar-match",
+"ASO 84 [CSU 83]",
+"CSU 83"
+],
+[
+"sonar-match",
+"DSQS-21BZ [CSU 83, KAE 80]",
+"CSU 83"
+],
+[
+"radar-new",
+"WM.25",
+"WM.25 <- SPY-1B/D"
+],
+[
+"radar-match",
+"AWS.1",
+"AWS-1"
+],
+[
+"sonar-new",
+"AN/SQS-30",
+"AN/SQS-30 <- SQS-53C"
+],
+[
+"radar-new",
+"WM.22",
+"WM.22 <- SPQ-9B"
+],
+[
+"radar-new",
+"Type 992Q",
+"Type 992Q <- SPS-48E"
+],
+[
+"radar-new",
+"Type 965P Double Beadstead",
+"Type 965P Double Beadstead <- SPS-48E"
+],
+[
+"radar-match",
+"RAN-20S",
+"RAN-20S"
+],
+[
+"sonar-new",
+"EDO 997",
+"EDO 997 <- SQS-53C"
+],
+[
+"radar-match",
+"DRBI 10",
+"DRBI 10"
+],
+[
+"radar-match",
+"DRBV 15 Sea Tiger [TRS 3001]",
+"DRBV 15 Sea Tiger"
+],
+[
+"radar-match",
+"DRBV 23B Jupiter",
+"DRBV 23 Jupiter"
+],
+[
+"radar-match",
+"AWS.4",
+"Radar 994 (AWS-4)"
+],
+[
+"radar-new",
+"AN/SPS-40B",
+"AN/SPS-40B <- SPS-48E"
+],
+[
+"sonar-new",
+"AN/SQS-26AXR",
+"AN/SQS-26AXR <- SQS-53C"
+],
+[
+"radar-new",
+"Mk35",
+"Mk35 <- SPQ-9B"
+],
+[
+"radar-new",
+"RTN-10X (Orion 10X)",
+"RTN-10X (Orion 10X) <- SPQ-9B"
+],
+[
+"radar-match",
+"AN/SPS-6C",
+"SPS-6C/D"
+],
+[
+"sonar-match",
+"EDO 701 [AN/SQS-35 Derivative]",
+"SQS-35 IVDS"
+],
+[
+"sonar-new",
+"EDO 610E",
+"EDO 610E <- SQS-53C"
+],
+[
+"radar-match",
+"AWS.2",
+"AWS-2"
+],
+[
+"radar-match",
+"AN/SPS-12",
+"SPS-12"
+],
+[
+"sonar-new",
+"Type 184M",
+"Type 184M <- SQS-53C"
+],
+[
+"radar-new",
+"Type 993",
+"Type 993 <- SPQ-9B"
+],
+[
+"radar-new",
+"Type 278 ANU",
+"Type 278 ANU <- SPQ-9B"
+],
+[
+"radar-new",
+"THD 1040 Neptune",
+"THD 1040 Neptune <- SPQ-9B"
+],
+[
+"radar-match",
+"EL/M-2221 [RTN-10X (Orion 10X)]",
+"EL/M-2221 STGR"
+],
+[
+"radar-new",
+"Type 965M Single Bedstead",
+"Type 965M Single Bedstead <- SPS-48E"
+],
+[
+"sonar-new",
+"Type 184P",
+"Type 184P <- SQS-53C"
+],
+[
+"radar-new",
+"EL/M-2238S 3D-STAR",
+"EL/M-2238S 3D-STAR <- SPS-48E"
+],
+[
+"radar-new",
+"AN/SPG-50 [Mk63 GFCS]",
+"AN/SPG-50 (Mk63 GFCS) <- SPQ-9B"
+],
+[
+"sonar-match",
+"Bull Nose [MG-312 Titan]",
+"Bull Nose (MG-312)"
+],
+[
+"sonar-match",
+"Ox Yoke [MGK-345 Bronza]",
+"Rat Tail (MGK-345)"
+],
+[
+"sonar-match",
+"Ox Tail [MGK-345 Bronza]",
+"Rat Tail (MGK-345)"
+],
+[
+"radar-match",
+"RAN-10S Pluto",
+"RAN-10S (SPS-774)"
+],
+[
+"radar-match",
+"TRS 3033 Triton S",
+"Triton S (TRS 3033)"
+],
+[
+"radar-new",
+"TRS 3220 Pollux",
+"TRS 3220 Pollux <- SPQ-9B"
+],
+[
+"radar-match",
+"Type 994 [AWS.4]",
+"Radar 994 (AWS-4)"
+],
+[
+"radar-new",
+"Type 965M Single Bedstead [MTI Mod]",
+"Type 965M Single Bedstead <- SPS-48E"
+],
+[
+"sonar-match",
+"AN/SQS-23",
+"SQS-23"
+],
+[
+"sonar-match",
+"AN/SQS-35",
+"SQS-35 IVDS"
+],
+[
+"sonar-new",
+"AN/SQS-26CX",
+"AN/SQS-26CX <- SQS-53C"
+],
+[
+"radar-new",
+"TRS 3030 Triton",
+"TRS 3030 Triton <- SPQ-9B"
+],
+[
+"sonar-match",
+"DE 1160B",
+"DE 1160B"
+],
+[
+"radar-new",
+"MM/SPG-70 [RTN-10X Orion]",
+"MM/SPG-70 (RTN-10X Orion) <- SPQ-9B"
+],
+[
+"radar-match",
+"DRBV 50",
+"DRBV 50"
+],
+[
+"radar-new",
+"DRBV 22A Jupiter",
+"DRBV 22A Jupiter <- SPS-48E"
+],
+[
+"sonar-new",
+"DSBV 1",
+"DSBV 1 <- SQS-53C"
+],
+[
+"radar-match",
+"RAN-11L/X",
+"RAN-11L/X"
+],
+[
+"sonar-new",
+"AN/BQG-3",
+"AN/BQG-3 <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"AN/BQR-2B",
+"AN/BQR-2B <- BQG-5 WAA/LWAA"
+],
+[
+"radar-match",
+"TRS 3100 Calypso III [DRUA 33C]",
+"DRUA 33C Calypso III"
+],
+[
+"sonar-match",
+"CSU 3-4",
+"CSU 3-4"
+],
+[
+"sonar-new",
+"DUUX 2C",
+"DUUX 2C <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-match",
+"CSU 3-2",
+"CSU 3-2"
+],
+[
+"sonar-match",
+"CSU 3-41",
+"CSU 3-41"
+],
+[
+"sonar-new",
+"MicroPUFFS",
+"MicroPUFFS <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"Type 2007AA",
+"Type 2007AA <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-new",
+"Type 187",
+"Type 187 <- BQQ-10"
+],
+[
+"sonar-new",
+"Type 186",
+"Type 186 <- BQG-5 WAA/LWAA"
+],
+[
+"sonar-match",
+"PRS 3-4",
+"PRS 3-4"
+],
+[
+"sonar-match",
+"Trout Cheek [MG-10M Feniks-M]",
+"Trout Cheek (MG-10 Feniks)"
+],
+[
+"radar-match",
+"Snoop Tray 1 [RLK-101 Albatross]",
+"Snoop Tray (RLK-101)"
+],
+[
+"sonar-match",
+"DUUA 2A",
+"DUUA 2A"
+],
+[
+"radar-match",
+"DRUA 33C Calypso III [TRS 3100]",
+"DRUA 33C Calypso III"
+],
+[
+"sonar-new",
+"DSUV 2H",
+"DSUV 2H <- BQG-5 WAA/LWAA"
+]
+]
+}

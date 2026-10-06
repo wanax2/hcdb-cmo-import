@@ -1,0 +1,625 @@
+[
+ {
+  "kind": "air",
+  "key": "A-10C Thunderbolt II",
+  "id": "7041",
+  "year": 2023,
+  "name": "A-10C Thunderbolt II"
+ },
+ {
+  "kind": "air",
+  "key": "AH-1Z Viper",
+  "id": "7514",
+  "year": 2026,
+  "name": "AH-1Z Viper"
+ },
+ {
+  "kind": "air",
+  "key": "AH-64E Apache Guardian",
+  "id": "4793",
+  "year": 2020,
+  "name": "AH-64E Apache Guardian"
+ },
+ {
+  "kind": "air",
+  "key": "AV-8B Harrier II+ [Night Attack]",
+  "id": "6724",
+  "year": 2018,
+  "name": "AV-8B Harrier II+ [Night Attack]"
+ },
+ {
+  "kind": "air",
+  "key": "B-1B Lancer",
+  "id": "4909",
+  "year": 2026,
+  "name": "B-1B Lancer"
+ },
+ {
+  "kind": "air",
+  "key": "B-21 Raider",
+  "id": "6158",
+  "year": 2027,
+  "name": "B-21 Raider"
+ },
+ {
+  "kind": "air",
+  "key": "B-2A Spirit",
+  "id": "7744",
+  "year": 2025,
+  "name": "B-2A Spirit"
+ },
+ {
+  "kind": "air",
+  "key": "B-52H Stratofortress",
+  "id": "4893",
+  "year": 2019,
+  "name": "B-52H Stratofortress"
+ },
+ {
+  "kind": "air",
+  "key": "CH-53E Super Stallion",
+  "id": "7518",
+  "year": 2025,
+  "name": "CH-53E Super Stallion"
+ },
+ {
+  "kind": "air",
+  "key": "CH-53K King Stallion",
+  "id": "4029",
+  "year": 2025,
+  "name": "CH-53K King Stallion"
+ },
+ {
+  "kind": "air",
+  "key": "CMV-22B Osprey",
+  "id": "4558",
+  "year": 2022,
+  "name": "CMV-22B Osprey"
+ },
+ {
+  "kind": "air",
+  "key": "E-2D Advanced Hawkeye",
+  "id": "7114",
+  "year": 2023,
+  "name": "E-2D Advanced Hawkeye"
+ },
+ {
+  "kind": "air",
+  "key": "E-3G Sentry",
+  "id": "7739",
+  "year": 2018,
+  "name": "E-3G Sentry"
+ },
+ {
+  "kind": "air",
+  "key": "EA-18G Growler",
+  "id": "4518",
+  "year": 2025,
+  "name": "EA-18G Growler"
+ },
+ {
+  "kind": "air",
+  "key": "EA-37B Compass Call",
+  "id": "4883",
+  "year": 2024,
+  "name": "EA-37B Compass Call"
+ },
+ {
+  "kind": "air",
+  "key": "F-15C Eagle",
+  "id": "4919",
+  "year": 2019,
+  "name": "F-15C Eagle"
+ },
+ {
+  "kind": "air",
+  "key": "F-15CX Advanced Eagle",
+  "id": "4791",
+  "year": 2024,
+  "name": "F-15CX Advanced Eagle"
+ },
+ {
+  "kind": "air",
+  "key": "F-15E Strike Eagle",
+  "id": "5456",
+  "year": 2022,
+  "name": "F-15E Strike Eagle"
+ },
+ {
+  "kind": "air",
+  "key": "F-15EX Eagle II",
+  "id": "4771",
+  "year": 2023,
+  "name": "F-15EX Eagle II"
+ },
+ {
+  "kind": "air",
+  "key": "F-16C Blk 30/32",
+  "id": "5462",
+  "year": 2021,
+  "name": "F-16C Blk 32 Falcon"
+ },
+ {
+  "kind": "air",
+  "key": "F-16CM Blk 40/42",
+  "id": "5638",
+  "year": 2022,
+  "name": "F-16C Blk 42 Falcon"
+ },
+ {
+  "kind": "air",
+  "key": "F-16CM Blk 50/52",
+  "id": "5640",
+  "year": 2022,
+  "name": "F-16C Blk 52 Falcon"
+ },
+ {
+  "kind": "air",
+  "key": "F-22A Raptor",
+  "id": "5952",
+  "year": 2021,
+  "name": "F-22A Raptor"
+ },
+ {
+  "kind": "air",
+  "key": "F-35A Lightning II",
+  "id": "4876",
+  "year": 2026,
+  "name": "F-35A Lightning II"
+ },
+ {
+  "kind": "air",
+  "key": "F-35B Lightning II",
+  "id": "7509",
+  "year": 2026,
+  "name": "F-35B Lightning II"
+ },
+ {
+  "kind": "air",
+  "key": "F-35C Lightning II",
+  "id": "7512",
+  "year": 2026,
+  "name": "F-35C Lightning II"
+ },
+ {
+  "kind": "air",
+  "key": "F/A-18A+ Hornet",
+  "id": "4684",
+  "year": 2020,
+  "name": "F/A-18A+ Hornet"
+ },
+ {
+  "kind": "air",
+  "key": "F/A-18C Hornet",
+  "id": "6149",
+  "year": 2022,
+  "name": "F/A-18C Hornet"
+ },
+ {
+  "kind": "air",
+  "key": "F/A-18E Super Hornet Blk II",
+  "id": "5258",
+  "year": 2025,
+  "name": "F/A-18E Super Hornet Blk II"
+ },
+ {
+  "kind": "air",
+  "key": "F/A-18E Super Hornet Blk III",
+  "id": "7281",
+  "year": 2024,
+  "name": "F/A-18E Super Hornet Blk III"
+ },
+ {
+  "kind": "air",
+  "key": "F/A-18F Super Hornet Blk II",
+  "id": "5257",
+  "year": 2025,
+  "name": "F/A-18F Super Hornet Blk II"
+ },
+ {
+  "kind": "air",
+  "key": "F/A-18F Super Hornet Blk III",
+  "id": "7283",
+  "year": 2024,
+  "name": "F/A-18F Super Hornet Blk III"
+ },
+ {
+  "kind": "air",
+  "key": "KC-135R Stratotanker",
+  "id": "7712",
+  "year": 2020,
+  "name": "KC-135R Stratotanker"
+ },
+ {
+  "kind": "air",
+  "key": "KC-46A Pegasus",
+  "id": "6620",
+  "year": 2024,
+  "name": "KC-46A Pegasus"
+ },
+ {
+  "kind": "air",
+  "key": "MH-53E Sea Dragon",
+  "id": "4608",
+  "year": 2016,
+  "name": "MH-53E Sea Dragon"
+ },
+ {
+  "kind": "air",
+  "key": "MH-60R Seahawk",
+  "id": "5338",
+  "year": 2024,
+  "name": "MH-60R Seahawk"
+ },
+ {
+  "kind": "air",
+  "key": "MH-60S Seahawk",
+  "id": "5337",
+  "year": 2024,
+  "name": "MH-60S Seahawk"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-1C ER Gray Eagle UAV",
+  "id": "4949",
+  "year": 2020,
+  "name": "MQ-1C ER Gray Eagle UAV"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-25A Stingray UAV",
+  "id": "4917",
+  "year": 2026,
+  "name": "MQ-25A Stingray UAV"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-4C Triton UAV",
+  "id": "7560",
+  "year": 2025,
+  "name": "MQ-4C Triton UAV"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-58B Valkyrie",
+  "id": "7222",
+  "year": 2026,
+  "name": "MQ-58B Valkyrie"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-8B Fire Scout UAV",
+  "id": "7564",
+  "year": 2016,
+  "name": "MQ-8B Fire Scout UAV"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-8C Fire Scout UAV",
+  "id": "3456",
+  "year": 2019,
+  "name": "MQ-8C Fire Scout UAV"
+ },
+ {
+  "kind": "air",
+  "key": "MQ-9A Reaper UAV",
+  "id": "7473",
+  "year": 2026,
+  "name": "MQ-9A Reaper UAV"
+ },
+ {
+  "kind": "air",
+  "key": "MV-22B Osprey",
+  "id": "7516",
+  "year": 2025,
+  "name": "MV-22B Osprey"
+ },
+ {
+  "kind": "air",
+  "key": "OA-1K Skyraider II",
+  "id": "5953",
+  "year": 2025,
+  "name": "OA-1K Skyraider II"
+ },
+ {
+  "kind": "air",
+  "key": "P-8A Poseidon",
+  "id": "5759",
+  "year": 2024,
+  "name": "P-8A Poseidon"
+ },
+ {
+  "kind": "air",
+  "key": "P-8A Poseidon [AAS]",
+  "id": "5760",
+  "year": 2024,
+  "name": "P-8A Poseidon [AAS]"
+ },
+ {
+  "kind": "air",
+  "key": "P-8A Poseidon [LSRS]",
+  "id": "4428",
+  "year": 2017,
+  "name": "P-8A Poseidon [LSRS]"
+ },
+ {
+  "kind": "air",
+  "key": "RC-135W Rivet Joint",
+  "id": "5833",
+  "year": 2020,
+  "name": "RC-135W Rivet Joint"
+ },
+ {
+  "kind": "air",
+  "key": "RQ-180 UAV",
+  "id": "4328",
+  "year": 2018,
+  "name": "RQ-180 UAV"
+ },
+ {
+  "kind": "air",
+  "key": "RQ-4B Global Hawk UAV",
+  "id": "6901",
+  "year": 2017,
+  "name": "RQ-4B Global Hawk UAV"
+ },
+ {
+  "kind": "air",
+  "key": "U-2S Senior Year",
+  "id": "7735",
+  "year": 2023,
+  "name": "U-2S Senior Year"
+ },
+ {
+  "kind": "air",
+  "key": "UH-1Y Venom",
+  "id": "7515",
+  "year": 2026,
+  "name": "UH-1Y Venom"
+ },
+ {
+  "kind": "ship",
+  "key": "CG Ticonderoga Baseline 2",
+  "id": "5159",
+  "year": 2018,
+  "name": "CG 54 Antietam [Ticonderoga Baseline 2]"
+ },
+ {
+  "kind": "ship",
+  "key": "CG Ticonderoga Baseline 3",
+  "id": "5158",
+  "year": 2023,
+  "name": "CG 62 Robert Smalls [Ticonderoga Baseline 3]"
+ },
+ {
+  "kind": "ship",
+  "key": "CG Ticonderoga Baseline 4",
+  "id": "3149",
+  "year": 2018,
+  "name": "CG 67 Shiloh [Ticonderoga Baseline 4]"
+ },
+ {
+  "kind": "ship",
+  "key": "CVN Gerald R. Ford",
+  "id": "2369",
+  "year": 2025,
+  "name": "CVN 79 John F. Kennedy [Gerald R. Ford Class]"
+ },
+ {
+  "kind": "ship",
+  "key": "CVN Nimitz",
+  "id": "5030",
+  "year": 2026,
+  "name": "CVN 74 John C. Stennis [Nimitz Class]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Arleigh Burke Flight I",
+  "id": "5129",
+  "year": 2023,
+  "name": "DDG 51 Arleigh Burke [Flight I]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Arleigh Burke Flight II",
+  "id": "5163",
+  "year": 2022,
+  "name": "DDG 72 Mahan [Arleigh Burke Flight II]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Arleigh Burke Flight IIA",
+  "id": "5095",
+  "year": 2026,
+  "name": "DDG 91 Pinckney [Arleigh Burke Flight IIA]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Arleigh Burke Flight IIA Restart",
+  "id": "5142",
+  "year": 2023,
+  "name": "DDG 113 John Finn [Arleigh Burke Flight IIA Restart]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Arleigh Burke Flight IIA Technology Insertion",
+  "id": "5140",
+  "year": 2023,
+  "name": "DDG 116 Thomas Hudner [Arleigh Burke Flight IIA Technology Insertion]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Arleigh Burke Flight III",
+  "id": "2718",
+  "year": 2023,
+  "name": "DDG 125 Jack H. Lucas [Arleigh Burke Flight III]"
+ },
+ {
+  "kind": "ship",
+  "key": "DDG Zumwalt",
+  "id": "3737",
+  "year": 2020,
+  "name": "DDG 1000 Zumwalt"
+ },
+ {
+  "kind": "ship",
+  "key": "EPF Spearhead Flight II",
+  "id": "3804",
+  "year": 2024,
+  "name": "T-EPF 14 Cody [Spearhead Flight II]"
+ },
+ {
+  "kind": "ship",
+  "key": "ESB Montford Point Mod",
+  "id": "2684",
+  "year": 2015,
+  "name": "ESB 3 Lewis B. Puller [Montford Point Mod]"
+ },
+ {
+  "kind": "ship",
+  "key": "FFG Constellation",
+  "id": "3229",
+  "year": 2026,
+  "name": "FFG 62 Constellation"
+ },
+ {
+  "kind": "ship",
+  "key": "LCAC SSC",
+  "id": "3941",
+  "year": 2024,
+  "name": "LCAC 110 SSC"
+ },
+ {
+  "kind": "ship",
+  "key": "LCS Freedom",
+  "id": "5012",
+  "year": 2025,
+  "name": "LCS 27 Nantucket [Freedom Class]"
+ },
+ {
+  "kind": "ship",
+  "key": "LCS Independence",
+  "id": "4584",
+  "year": 2023,
+  "name": "LCS 28 Savannah [Independence Class]"
+ },
+ {
+  "kind": "ship",
+  "key": "LHA America Flight 0",
+  "id": "3563",
+  "year": 2022,
+  "name": "LHA 6 America [Flight 0]"
+ },
+ {
+  "kind": "ship",
+  "key": "LHA America Flight I",
+  "id": "3129",
+  "year": 2025,
+  "name": "LHA 8 Bougainville [America Class, Flight I]"
+ },
+ {
+  "kind": "ship",
+  "key": "LHD Wasp",
+  "id": "3562",
+  "year": 2022,
+  "name": "LHD 8 Makin Island [Wasp Class]"
+ },
+ {
+  "kind": "ship",
+  "key": "LPD San Antonio Flight I",
+  "id": "4300",
+  "year": 2024,
+  "name": "LPD 29 Richard M. McCool Jr. [San Antonio Flight I]"
+ },
+ {
+  "kind": "ship",
+  "key": "LPD San Antonio Flight II",
+  "id": "3230",
+  "year": 2025,
+  "name": "LPD 30 Harrisburg [San Antonio Flight II]"
+ },
+ {
+  "kind": "ship",
+  "key": "LSD Whidbey Island",
+  "id": "2600",
+  "year": 2017,
+  "name": "LSD 41 Whidbey Island"
+ },
+ {
+  "kind": "ship",
+  "key": "LSD Whidbey Island Mod",
+  "id": "2601",
+  "year": 2017,
+  "name": "LSD 49 Harpers Ferry [Whidbey Island Mod]"
+ },
+ {
+  "kind": "ship",
+  "key": "T-AO John Lewis",
+  "id": "3521",
+  "year": 2021,
+  "name": "T-AO 205 John Lewis"
+ },
+ {
+  "kind": "ship",
+  "key": "WMSM Heritage",
+  "id": "3442",
+  "year": 2023,
+  "name": "WMSM 915 Argus [Heritage Class]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSBN Columbia",
+  "id": "839",
+  "year": 2031,
+  "name": "SSBN 826 District of Columbia [Columbia Class]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSBN Ohio",
+  "id": "722",
+  "year": 2021,
+  "name": "SSBN 734 Tennessee [Ohio Class]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSGN Ohio",
+  "id": "788",
+  "year": 2023,
+  "name": "SSGN 726 Ohio"
+ },
+ {
+  "kind": "sub",
+  "key": "SSN Los Angeles Flight II",
+  "id": "683",
+  "year": 2021,
+  "name": "SSN 719 Providence [Los Angeles Flight II]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSN Los Angeles Flight III, 688i",
+  "id": "837",
+  "year": 2026,
+  "name": "SSN 751 San Juan [Los Angeles Flight III, 688i]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSN Virginia Blk I/II",
+  "id": "830",
+  "year": 2026,
+  "name": "SSN 774 Virginia [Blk I/II]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSN Virginia Blk III/IV",
+  "id": "828",
+  "year": 2026,
+  "name": "SSN 784 North Dakota [Virginia Blk III/IV]"
+ },
+ {
+  "kind": "sub",
+  "key": "SSN Virginia Blk V",
+  "id": "824",
+  "year": 2029,
+  "name": "SSN 802 Oklahoma [Virginia Blk V]"
+ }
+]
